@@ -1195,6 +1195,48 @@ function mockFetchCapture(payload, status = 200) {
     check("list handler 存在", false, true);
   }
 
+  // ---- recommend handler（v1.6.0-ai）：AI 推荐四组 + 每日精选本地兜底 ----
+  const recRepos = [
+    mkRepo("rec/coding-a", "coding-a", { category: "coding", topics: ["typescript"], stargazers_count: 20, market_tags: ["community-pick"] }),
+    mkRepo("rec/coding-b", "coding-b", { category: "coding", topics: ["typescript"], stargazers_count: 30 }),
+    mkRepo("rec/vision", "vision", { category: "vision", topics: ["ocr"], stargazers_count: 50 }),
+    mkRepo("rec/desktop", "desktop", { category: "desktop", topics: [], stargazers_count: 25 }),
+    mkRepo("rec/media", "media", { category: "media", topics: [], stargazers_count: 15 }),
+    mkRepo("rec/toy", "toy", { category: "coding", topics: [], stargazers_count: 0 }),
+  ];
+  const recommendHandler = registered.find((h) => h.path === "/api/marketplace/recommend")?.handler;
+  if (recommendHandler) {
+    const origRec = globalThis.fetch;
+    globalThis.fetch = async (url) => {
+      const u = String(url ?? "");
+      if (u.includes("/search/") || u.includes("api.github.com/search")) {
+        return { ok: true, status: 200, json: async () => ({ items: [], total_count: 0 }), text: async () => JSON.stringify({ items: [] }), arrayBuffer: async () => Buffer.from("{\"items\":[]}") };
+      }
+      return {
+        ok: true, status: 200,
+        json: async () => ({ repos: recRepos, generated_at: new Date().toISOString() }),
+        text: async () => JSON.stringify({ repos: recRepos, generated_at: new Date().toISOString() }),
+        arrayBuffer: async () => Buffer.from(JSON.stringify({ repos: recRepos })),
+      };
+    };
+    let recStatus = 0;
+    let recBody = null;
+    await recommendHandler({ method: "GET", headers: { "x-dsh-marketplace": "1", host: "127.0.0.1:3080" }, url: "/api/marketplace/recommend?refresh=1&lang=zh" },
+      { writeHead: (s) => { recStatus = s; }, end: (b) => { try { recBody = JSON.parse(b); } catch { recBody = null; } } });
+    globalThis.fetch = origRec;
+    check("recommend handler 200", recStatus, 200);
+    check("recommend 日期字段", typeof recBody?.date, "string");
+    check("recommend 未安装 hasInstalled=false", recBody && recBody.hasInstalled, false);
+    check("recommend 猜你喜欢空数组", Array.isArray(recBody?.guess) && recBody.guess.length, 0);
+    check("recommend 每日精选非空", Array.isArray(recBody?.daily) && recBody.daily.length > 0, true);
+    check("recommend 每日来源本地兜底", recBody && recBody.dailySource, "local");
+    check("recommend 每日精选字段完整", recBody && recBody.daily.every((d) => d.repo && d.repo.full_name && typeof d.reason === "string"), true);
+    check("recommend 热门趋势非空", Array.isArray(recBody?.trending) && recBody.trending.length > 0, true);
+    check("recommend 新上架为数组", Array.isArray(recBody?.fresh), true);
+  } else {
+    check("recommend handler 存在", false, true);
+  }
+
   // ---- skills handler：过滤 has_skill!==false + 已安装标注 + 排序 ----
   const skillsHandler = registered.find((h) => h.path === "/api/marketplace/skills")?.handler;
   if (skillsHandler) {
