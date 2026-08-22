@@ -1,41 +1,27 @@
 {
-  "generated_at": "2026-08-22T08:40:39.688Z",
-  "count": 5,
+  "generated_at": "2026-08-22T10:35:03.408Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "full_name": "Wenaixi/dsh-ponytail",
       "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "desc_prev": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装"
+      "current": "other",
+      "desc_now": "DSH 完整移植版 DietrichGebert/ponytail — 懒惰 senior 模式，hook注入",
+      "desc_prev": "DSH 完整移植版 DietrichGebert/ponytail — 懒惰 senior 模式，6 个中文 Skill，无空 tool"
     },
     {
-      "full_name": "kejixiaoliang/awesome-dsh-plugins",
-      "previous": "other",
-      "current": "memory",
-      "desc_now": "DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.",
-      "desc_prev": "DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness."
+      "full_name": "Wenaixi/dsh-superpower",
+      "previous": "tool",
+      "current": "agent",
+      "desc_now": "DSH port of obra/superpowers — 完整移植、中文化、DSH 原生",
+      "desc_prev": "DSH port of obra/superpowers — 14 技能完整移植、中文化、DSH 原生 SkillProvider (sync v6.3.0)"
     },
     {
-      "full_name": "AdonisSheldon/dsh-openai-oauth",
-      "previous": "web-ui",
+      "full_name": "zhangz-2018/dsh-project-orchestrator",
+      "previous": "agent",
       "current": "tool",
-      "desc_now": "Use ChatGPT OAuth and OpenAI Codex models in DeepSeek Harness—no API key or Codex CLI required.",
-      "desc_prev": "Use ChatGPT OAuth and OpenAI Codex models in DeepSeek Harness—no API key or Codex CLI required."
-    },
-    {
-      "full_name": "Sparrived/DSH-Deeptop",
-      "previous": "desktop",
-      "current": "coding",
-      "desc_now": "Deeptop, a lightweight native desktop client for DeepSeek Harness.",
-      "desc_prev": "Deeptop, a lightweight native desktop client for DeepSeek Harness."
-    },
-    {
-      "full_name": "wangxilhy23/dsh-wx-skin",
-      "previous": "other",
-      "current": "resource",
-      "desc_now": "deepseek harness 皮肤插件。支持选择本地目录下的图片作为背景设置",
-      "desc_prev": "deepseek harness 皮肤插件。支持选择本地目录下的图片作为背景设置"
+      "desc_now": "Local-first AI project orchestration workbench and CLI plugin for DeepSeek Harness: approval-gated planning, Git worktrees, task execution, Issues, and auditable evidence.",
+      "desc_prev": "DeepSeek Harness 持久化、审批驱动的项目编排工作台"
     }
   ]
 }
