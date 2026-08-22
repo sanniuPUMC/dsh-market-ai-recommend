@@ -1,0 +1,220 @@
+{
+  "generated_at": "2026-08-22T03:51:31.868Z",
+  "count": 27,
+  "items": [
+    {
+      "full_name": "nexu-io/open-design",
+      "expected": "web-ui",
+      "actual": "web-ui",
+      "note": "元数据漂移（主题已变）",
+      "desc_now": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+      "desc_snapshot": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK."
+    },
+    {
+      "full_name": "liustack/modlens",
+      "expected": "vision",
+      "actual": "vision",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
+      "desc_snapshot": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。"
+    },
+    {
+      "full_name": "Anionex/dsh-vision-toolkit",
+      "expected": "vision",
+      "actual": "vision",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "desc_snapshot": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI."
+    },
+    {
+      "full_name": "huiliyi37/dsh-tianshu-tui",
+      "expected": "conversation",
+      "actual": "conversation",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开源项目天枢 Tui 演进）、流式 Markdown/工具卡、多会话 tab、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、成本统计、启动自更新。纯展示层。",
+      "desc_snapshot": "dsh-tianshu-tui — 是官方 Dsh web端的交互式终端极简风格 UI 插件。以自研ansi为渲染核心，极度丝滑流畅，在官方的基础上增加了TDD、证据门、视觉图像模块等工作流。"
+    },
+    {
+      "full_name": "Lum1104/dsh-browser",
+      "expected": "vision",
+      "actual": "vision",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "dsh plugin: Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "desc_snapshot": "dsh plugin: Chrome sidebar extension that lets DSH operate your browser directly—no vision capabilities required. dsh 插件：一款 Chrome 侧边栏扩展程序，可让 DSH 直接操控您的浏览器——无需视觉能力。"
+    },
+    {
+      "full_name": "titanwings/colleague-skill",
+      "expected": "memory",
+      "actual": "memory",
+      "note": "元数据漂移（主题已变）",
+      "desc_now": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+      "desc_snapshot": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+    },
+    {
+      "full_name": "text2future/flowix",
+      "expected": "memory",
+      "actual": "memory",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
+      "desc_snapshot": "Notes for you, Memory for your agents."
+    },
+    {
+      "full_name": "btspoony/mstar-harness",
+      "expected": "coding",
+      "actual": "coding",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.",
+      "desc_snapshot": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin"
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "expected": "tool",
+      "actual": "tool",
+      "note": "元数据漂移（主题已变）",
+      "desc_now": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "desc_snapshot": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "full_name": "Devin-AXIS/iPolloWork",
+      "expected": "tool",
+      "actual": "tool",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+      "desc_snapshot": "A next-generation, source-available AI workspace with a self-evolving agent runtime for editable code, design, presentations, websites, and video—a Codex alternative that integrates DeepSeek Harness for subagent delegation, combining iPolloWork’s complete AI workbench with DSH’s specialized agents and both plugin ecosystems in one workflow."
+    },
+    {
+      "full_name": "omdsh-dev/DSH-better-sidebar",
+      "expected": "coding",
+      "actual": "coding",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+      "desc_snapshot": "一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理"
+    },
+    {
+      "full_name": "sandbaseai/sandbase-harness",
+      "expected": "agent",
+      "actual": "agent",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in console. Run OpenAI, Anthropic, MiniMax, DeepSeek V4, and OpenAI-compatible models on your infrastructure.",
+      "desc_snapshot": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local console. Includes a native DeepSeek Harness bundle over stdio MCP."
+    },
+    {
+      "full_name": "morluto/jacobian",
+      "expected": "tool",
+      "actual": "tool",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "A universal, atomic library of mathematics and tools for agents to compose them.",
+      "desc_snapshot": "Pure mathematics for agents: search for examples and counterexamples, compute exactly, and independently check what a result proves."
+    },
+    {
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "expected": "other",
+      "actual": "other",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "desc_snapshot": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案"
+    },
+    {
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "expected": "agent",
+      "actual": "agent",
+      "note": "元数据漂移（主题已变）",
+      "desc_now": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
+      "desc_snapshot": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress"
+    },
+    {
+      "full_name": "zhoushoujianwork/easyeda-agent",
+      "expected": "agent",
+      "actual": "web-ui",
+      "note": "快照缺失（迁移时不在索引），请复审后补快照或更新期望"
+    },
+    {
+      "full_name": "liustack/modsearch",
+      "expected": "tool",
+      "actual": "tool",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
+      "desc_snapshot": "The web plugin for DeepSeek Harness, and the search bridge for every model without native web access. Ask the web or X, get structured JSON evidence. | DeepSeek Harness 的 web 插件，为不能联网的模型补上搜索。问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。"
+    },
+    {
+      "full_name": "bruc3van/awesome-dsh-plugin",
+      "expected": "resource",
+      "actual": "resource",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "用 30 秒为你的 DeepSeek Harness找到合适的插件。 仓库由脚本每天自动抓取，再经人工逐个核实——真插件进目录，蹭热度的进黑名单，每条剔除理由公开可查。并告诉你每个插件适合谁、从哪里开始。",
+      "desc_snapshot": "用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。"
+    },
+    {
+      "full_name": "bowenliang123/dsh-context",
+      "expected": "memory",
+      "actual": "memory",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "desc_snapshot": "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves."
+    },
+    {
+      "full_name": "Ychris12138/dsh-usage-stats",
+      "expected": "model",
+      "actual": "model",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).",
+      "desc_snapshot": "Token usage heatmap, per-model breakdowns, and DeepSeek account balance for the DeepSeek Harness Web GUI (dsh web)."
+    },
+    {
+      "full_name": "AdamPlatin123/awesome-dsh-plugins",
+      "expected": "resource",
+      "actual": "resource",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "DSH 插件雷达与精选榜：多路自动发现 9000+ 候选，容器真实安装路径运行级实测（四档判定），精选 Top 50 · 11 类人工策展，全量索引 PLUGINS-ALL.md，自动更新。",
+      "desc_snapshot": "前部索引仓库（Radar）：自动扫描发现的所有 dsh 插件候选；经测试合格的将移入后序精选目录仓库"
+    },
+    {
+      "full_name": "ZASENJC/dsh-plugins-store",
+      "expected": "resource",
+      "actual": "resource",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
+      "desc_snapshot": "自动分类、收录和验证 DeepSeek-Harness 社区插件市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace."
+    },
+    {
+      "full_name": "Small-tailqwq/dsh-deep-whale",
+      "expected": "web-ui",
+      "actual": "web-ui",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
+      "desc_snapshot": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-data-agent",
+      "expected": "agent",
+      "actual": "conversation",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "Connect DSH to your database for conversational data analysis and actionable business insights.",
+      "desc_snapshot": "Data Agent for DeepSeek Harness: session-scoped database connections with a dedicated agent preset that lets AI write SQL and iterate against live execution feedback."
+    },
+    {
+      "full_name": "HsiangNianian/dsh-auto-continue",
+      "expected": "web-ui",
+      "actual": "web-ui",
+      "note": "元数据漂移（简介+主题已变）",
+      "desc_now": "DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by non-human causes — error classification, adaptive backoff, pause, idempotency guard, loop guard, templated resume texts, stats, all configurable from the settings card",
+      "desc_snapshot": "DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by network errors or other non-human causes — error classification, adaptive backoff, templated continue text, browser notifications, all configurable from the settings card"
+    },
+    {
+      "full_name": "wssfk12138/dsh-wechat-notify",
+      "expected": "notify",
+      "actual": "notify",
+      "note": "元数据漂移（主题已变）",
+      "desc_now": "DeepSeek Harness 插件：为 agent 新增 wechat_notify 工具，让 AI 通过本机 ClawBot 微信通道主动给你发通知（任务完成 / 需决策时），中文可靠、掉线自提示。",
+      "desc_snapshot": "DeepSeek Harness 插件：为 agent 新增 wechat_notify 工具，让 AI 通过本机 ClawBot 微信通道主动给你发通知（任务完成 / 需决策时），中文可靠、掉线自提示。"
+    },
+    {
+      "full_name": "unitarylab/quantum-practices",
+      "expected": "tool",
+      "actual": "tool",
+      "note": "元数据漂移（简介已变）",
+      "desc_now": "量子计算最佳实践 Quantum Algorithms Best Practices",
+      "desc_snapshot": "Quantum Algorithms Best Practices"
+    }
+  ]
+}

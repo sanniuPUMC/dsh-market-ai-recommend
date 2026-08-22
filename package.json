@@ -1,0 +1,30 @@
+{
+  "name": "dsh-plugin-marketplace",
+  "version": "1.5.5-ai.1",
+  "description": "DSH插件市场 · AI 推荐版 / DSH Plugin Marketplace AI: browse, install & update all GitHub dsh-plugin plugins, with AI-style recommendations (daily picks, you-may-like, trending) — fork of DSH-Plugins-Marketplace",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-runtime",
+        "@deepseek-ai/dsh-client-ui-settings"
+      ],
+      "immediately": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanniuPUMC/dsh-market-ai-recommend.git"
+  },
+  "license": "MIT"
+}

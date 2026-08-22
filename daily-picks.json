@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T03:46:49.018Z",
+  "count": 8,
+  "picks": [
+    {
+      "full_name": "Make0209/dsh-usage-stats",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "JazzuLu/find-dsh-plugins",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "BrambleXu/dsh-prompt-profile",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "loonai321/dsh-humanized-deepseek-maid",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "STARDUSTLC666/dsh-calendar",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "volcengine/OpenViking",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "webkubor/dsh-bloom-theme",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "EternalNight996/dsh-ui-agents-pixe",
+      "category": "document",
+      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
+    }
+  ]
+}

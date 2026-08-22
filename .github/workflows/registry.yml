@@ -1,0 +1,110 @@
+name: build-registry
+
+on:
+  schedule:
+    # 每 2 小时增量更新一次索引（UTC；即北京时间每偶数点整）
+    - cron: "0 */2 * * *"
+    # 每天 04:00 UTC（北京时间 12:00）全量重建两个索引，刷新 star 数等静态数据
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "全量重建两个索引（默认增量）"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# 同一时间只允许一个构建运行，避免定时任务与手动触发互相重叠
+concurrency:
+  group: build-registry
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Syntax check
+        run: |
+          node --check scripts/build-registry.mjs
+          node --check scripts/build-daily-picks.mjs
+          node --check lib/index.js
+          node --check lib/client.js
+          node --check lib/recommend.js
+          node scripts/smoke-tests.mjs
+          node scripts/tests/run.mjs --level=unit,integration
+
+      - name: Build DSH registry (full)
+        # 每天 04:00 UTC（北京时间 12:00）或手动勾选 full：全量重建，刷新 star 数等静态数据
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.full == 'true' || github.event.schedule == '0 4 * * *' }}
+        run: node scripts/build-registry.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build DSH registry (incremental)
+        # 其余每 2 小时：增量模式，只拉最近 3 天 pushed 的仓库并与旧索引合并（几分钟完成）
+        if: ${{ !(github.event_name == 'workflow_dispatch' && github.event.inputs.full == 'true' || github.event.schedule == '0 4 * * *') }}
+        run: INCREMENTAL_DAYS=3 node scripts/build-registry.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # skills 索引：增量（每 2 小时，只拉最近 3 天 pushed 的仓库，几分钟完成）
+      # 或全量（每天 04:00 / 手动勾选 full），刷新全量 star 数
+      - name: Build skills registry (full)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.full == 'true' || github.event.schedule == '0 4 * * *' }}
+        run: SOURCES_MODE=skills node scripts/build-registry.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build skills registry (incremental)
+        if: ${{ !(github.event_name == 'workflow_dispatch' && github.event.inputs.full == 'true' || github.event.schedule == '0 4 * * *') }}
+        run: SOURCES_MODE=skills INCREMENTAL_DAYS=3 node scripts/build-registry.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 可安装性探测（增量续跑）：对新收录/未判定条目两阶段探测（trees → package.json 内容），
+      # 产 installability-report.json（non-plugin/manual 徽章数据源）。基线 = 仓库已提交报告，
+      # 每轮只补未判定/pending 条目；RATE_FLOOR 护栏防超 Core 额度（5000/h），多轮收敛。
+      - name: Probe installability (incremental)
+        run: node scripts/verify-installability.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 每日精选（v1.6.0-ai）：从刚构建的 registry.json 确定性轮换挑选当日精选。
+      # 每日 04:00 UTC 全量重建后日期变化 → daily-picks.json 内容变化 → 随索引一起提交；
+      # 其余每 2 小时运行无内容变化，git diff 静默跳过提交（幂等、零成本）。
+      - name: Build daily picks
+        run: node scripts/build-daily-picks.mjs
+
+      - name: Commit registry.json
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add registry.json registry.json.gz skills.json skills.json.gz drift-report.json installability-report.json daily-picks.json
+          if git diff --cached --quiet; then
+            echo "索引无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: update registry.json"
+          # 远端可能已被作者或其他提交推进：先 rebase 再推，最多重试 3 次。
+          # -X ours：索引文件（registry.json/skills.json）冲突时保留 CI 刚构建的版本
+          # （rebase 中 ours = 正在 replay 的 CI commit，theirs = 远端基线——
+          # 注意与 merge 语义相反，勿改回 theirs，否则冲突时 CI 产物会被远端覆盖）。
+          for i in 1 2 3; do
+            if git pull --rebase -X ours origin main >/dev/null 2>&1 && git push origin main >/dev/null 2>&1; then
+              echo "已提交更新"
+              exit 0
+            fi
+            echo "推送被远端新提交拒绝（第 $i 次），10 秒后重试..."
+            sleep 10
+          done
+          echo "推送失败：多次重试后仍被拒绝" >&2
+          exit 1
