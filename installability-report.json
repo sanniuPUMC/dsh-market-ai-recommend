@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-22T05:47:45.038Z",
+  "generated_at": "2026-08-22T07:57:28.650Z",
   "counts": {
-    "cordis-plugin": 7638,
-    "pkg-plain": 757,
-    "manual": 596,
+    "cordis-plugin": 7639,
+    "pkg-plain": 760,
+    "manual": 597,
     "script": 180,
-    "skill": 343,
-    "multi-plugin": 315,
+    "skill": 345,
+    "multi-plugin": 318,
     "gone": 49,
-    "bundle-plugin": 124,
+    "bundle-plugin": 153,
     "agent-preset": 37,
     "unknown": 55,
     "empty": 12
@@ -3887,6 +3887,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "BrianHIO-x/dsh-think-expand",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "brianwang2007xjtu/dsh-agent-teams",
       "verdict": "cordis-plugin"
     },
@@ -4265,6 +4269,14 @@
     {
       "full_name": "Casually/deepseek-harness-plugs-manage",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Casually/dsh-plug-mcp",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Casually/dsh-plug-skills",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Casually/dsh-web-remote-frp",
@@ -5585,6 +5597,10 @@
     {
       "full_name": "ColdCGH/dsh-deepseek-chat",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "coldfish486/dsh-anime25d-pets",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "collapsey/xiaokui-pet",
@@ -11891,6 +11907,14 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "hyperion2144/dsh-hashline-edittool",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "hyperion2144/dsh-subagent-pro",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Hyperionjust/dsh-tool-underseal",
       "verdict": "skill"
     },
@@ -11985,6 +12009,10 @@
     {
       "full_name": "iamaanahmad/everything-kiro",
       "verdict": "manual"
+    },
+    {
+      "full_name": "iambbp/dsh-monitor",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "iamfromchangsha/dsh-go-balance",
@@ -13347,6 +13375,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "jli658942-web/dsh-market-skill",
+      "verdict": "skill"
+    },
+    {
       "full_name": "jlu-lujing/dsh-kit",
       "verdict": "pkg-plain"
     },
@@ -14137,6 +14169,10 @@
     {
       "full_name": "kam74515-boop/dsh-show-me-how-much",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "KamChiHei/dsh-deepseek-usage-monitor",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "kami-mura/dsh-cost",
@@ -16719,6 +16755,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "liyu34/dsh-wsl-tray",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Liyuk/dsh-quota-router",
       "verdict": "cordis-plugin"
     },
@@ -18169,6 +18209,10 @@
     {
       "full_name": "mchenziyi/galgame-dsh-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "McKayGONG/dsh-safe-restart",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "mcsam163/shared-memory-layer",
@@ -24763,6 +24807,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "SeerableOfficial/dsh-web-search-toggle",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SeireiA/dsh-plugin-rtk",
       "verdict": "pkg-plain"
     },
@@ -26265,6 +26313,10 @@
     {
       "full_name": "sqs404/dsh-web-search-bing",
       "verdict": "script"
+    },
+    {
+      "full_name": "squirrelbullet/dsh-client-ui-vibecontroller",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Srien11/dsh-sidecar",
@@ -36031,6 +36083,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Wodexinhaoleng-Kasssa/dsh-reader",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wodongx123/dsh-desktop-tray",
       "verdict": "cordis-plugin"
     },
@@ -40445,6 +40501,10 @@
     {
       "full_name": "zurrll/dsh-file-explorer",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ZutoMayoo/totoTheCat",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zuuky/dsh-omnifile",
