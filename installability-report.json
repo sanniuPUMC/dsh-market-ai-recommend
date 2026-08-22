@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T18:57:16.826Z",
+  "generated_at": "2026-08-22T20:44:00.865Z",
   "counts": {
     "cordis-plugin": 7654,
-    "pkg-plain": 779,
-    "manual": 607,
-    "script": 186,
-    "bundle-plugin": 306,
+    "pkg-plain": 781,
+    "manual": 608,
+    "script": 187,
+    "bundle-plugin": 310,
     "skill": 347,
     "multi-plugin": 325,
     "gone": 49,
@@ -1639,6 +1639,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Akimiya-z/codex-guard",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "akira399/dsh-godot-skill",
       "verdict": "cordis-plugin"
     },
@@ -1805,6 +1809,10 @@
     {
       "full_name": "AlexYin-Tongji/dsh-ui-enhancer",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "AlexZhou19871030/dsh-cron-scheduler",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "AlexZhou19871030/dsh-plugin-eva-unit01",
@@ -2393,6 +2401,10 @@
     {
       "full_name": "AprilWizard/dsh-multi-cot",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "AQian0/dsh-desktop",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "aqiane/dsh-client-ui-period-hint",
@@ -8745,6 +8757,10 @@
     {
       "full_name": "FengHuoLinShan/dsh-plugin-llm-balance",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "fenglin-ai/dsh-funasr-voice",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "fengling375/dsh-nyan-context-progress",
@@ -17665,6 +17681,10 @@
     {
       "full_name": "lttcnly/dsh-fetch-url",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ltxlong/dsh-session-kit",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Luaphes/dsh-plugins-market",
@@ -26815,6 +26835,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "SpookySandwich/dsh-plugin-no-workspace",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SpookySandwich/dsh-plugin-rollout-scout",
       "verdict": "cordis-plugin"
     },
@@ -27735,6 +27759,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "syncended/deepseek-harness-automations",
+      "verdict": "manual"
+    },
+    {
       "full_name": "syncended/deepseek-harness-openai-codex",
       "verdict": "cordis-plugin"
     },
@@ -28385,6 +28413,10 @@
     {
       "full_name": "ThreeBody6666/dsh-im-hub",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "thrudcoco/dsh-peak-hours-banner",
+      "verdict": "script"
     },
     {
       "full_name": "THU-MAIC/dsh-openmaic",
