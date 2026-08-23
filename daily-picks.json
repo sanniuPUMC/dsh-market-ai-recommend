@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T20:44:01.003Z",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T01:34:43.660Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Make0209/dsh-usage-stats",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "SiriLee/dsh-edit-approval",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "JazzuLu/find-dsh-plugins",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "BrambleXu/dsh-prompt-profile",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "loonai321/dsh-humanized-deepseek-maid",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "STARDUSTLC666/dsh-calendar",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "volcengine/OpenViking",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "webkubor/dsh-bloom-theme",
+      "full_name": "bill9109/dsh-drag-and-drop",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "EternalNight996/dsh-ui-agents-pixe",
-      "category": "document",
-      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "openguardrails/openguardrails",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
+    },
+    {
+      "full_name": "tiantyu/dsh-skin-toggle",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "CHplus0/dsh-learning-mode",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "jiezeng2004-design/dsh-chatgpt-bridge",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "NOirBRight/dsh-llm-cursor",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "libukai/awesome-deepseek-harness",
+      "category": "resource",
+      "reason": "聚合资源 · 高星社区精选 · 近期更新活跃"
     }
   ]
 }
