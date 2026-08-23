@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T20:48:05.029Z",
+  "generated_at": "2026-08-23T22:42:15.743Z",
   "counts": {
-    "bundle-plugin": 570,
+    "bundle-plugin": 572,
     "cordis-plugin": 7670,
-    "pkg-plain": 803,
+    "pkg-plain": 804,
     "manual": 623,
     "script": 195,
     "skill": 352,
-    "multi-plugin": 338,
+    "multi-plugin": 339,
     "gone": 49,
     "agent-preset": 40,
     "unknown": 55,
@@ -2129,6 +2129,10 @@
     {
       "full_name": "AnakinCao/dsh-session-allow",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "anasarret/Deepharn",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "AnCoSONG/dsh-task-notifier",
@@ -17613,6 +17617,10 @@
     {
       "full_name": "liustack/pptfast",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "liustack/summono",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "liuup/dsh-latex-tools",
@@ -38307,6 +38315,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "wuzhigouno-collab/dsh-rp-composer",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wuzhong962-alt/dsh-matrix-theme",
       "verdict": "cordis-plugin"
     },
@@ -42637,6 +42649,10 @@
     {
       "full_name": "ZRui-C/dsh-minimal-first-turn",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "zsagi1368/dsh-webstack",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ZSeven-W/dsh-android",
