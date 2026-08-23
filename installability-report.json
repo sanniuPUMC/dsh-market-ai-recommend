@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T18:53:43.347Z",
+  "generated_at": "2026-08-23T20:48:05.029Z",
   "counts": {
+    "bundle-plugin": 570,
     "cordis-plugin": 7670,
     "pkg-plain": 803,
-    "bundle-plugin": 567,
     "manual": 623,
-    "script": 194,
+    "script": 195,
     "skill": 352,
-    "multi-plugin": 337,
+    "multi-plugin": 338,
     "gone": 49,
     "agent-preset": 40,
     "unknown": 55,
@@ -3025,6 +3025,10 @@
     {
       "full_name": "azure5100/huahua-dsh-record-replay",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "B1lli/dsh-learning-bundle",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "B1lli/dsh-plugin-bench",
@@ -18275,6 +18279,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LucienLL/dsh-peak-price-panel",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "LucienLL/dsh-plugin-proxy",
       "verdict": "cordis-plugin"
     },
@@ -23693,6 +23701,10 @@
     {
       "full_name": "qingli-sketch/dsh-ui-kit",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "qingmumingyang/dsh-doc-toolkit",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "qingsiweisan/dsh-htb-skills",
@@ -38307,6 +38319,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "wwumit/dsh-phone",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "wwumit/dsh-plugin-tools",
       "verdict": "cordis-plugin"
     },
@@ -39441,6 +39457,10 @@
     {
       "full_name": "xswt442-cmd/dsh-easy-port-manager",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "xtd1145/dsh-full-access-switch",
+      "verdict": "script"
     },
     {
       "full_name": "xtxo/dsh-ui",
