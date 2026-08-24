@@ -1,20 +1,27 @@
 {
-  "generated_at": "2026-08-24T07:10:21.715Z",
-  "count": 2,
+  "generated_at": "2026-08-24T08:59:12.641Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "dff652/deepseek-harness-community-plugins",
-      "previous": "tool",
-      "current": "memory",
-      "desc_now": "Reviewed configuration-only DeepSeek Harness bundles for AI Asset Hub, Agent Mail, and AgentMemory",
-      "desc_prev": "Configuration-only DeepSeek Harness bundle for AI Asset Hub's reviewed read-only MCP tools"
+      "full_name": "zhu1090093659/dsh-web",
+      "previous": "coding",
+      "current": "resource",
+      "desc_now": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
+      "desc_prev": "DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper Engine 壁纸；皮肤、宠物、插件由 DSH 大市场一键安装，正迈向 DSH 创意工坊。A pluggable plugin-skin ecosystem for the DSH Web GUI - Task board, remote mobile UI, SSH ops, WebGL-optimized skins with Wallpaper Engine wallpapers - becoming a DSH creative workshop."
     },
     {
-      "full_name": "WSL043/dsh-native-reasoning-slider",
+      "full_name": "LongSir0419/dsh-git-branch-manage",
       "previous": "other",
-      "current": "web-ui",
-      "desc_now": "Model-aware reasoning effort slider for DeepSeek Harness, with a Claude-inspired WebGL energy field, native themes, and a live demo.",
-      "desc_prev": "DSH Native Effort Slider — model-aware reasoning control with native modes and custom light/dark colors"
+      "current": "resource",
+      "desc_now": "DSH bundle: 当前 Git 分支徽标。在会话 header 与新会话欢迎页显示当前分支，支持切换、新建、更新、拉取、推送、删除（仅本地分支，IDEA 风格目录树）。",
+      "desc_prev": null
+    },
+    {
+      "full_name": "EvieHe/dsh-resume-headless",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "DeepSeek Harness (dsh) bundle: headless one-shot session resume. `dsh --profile headless --resume <session-id> \"task\"` continues a persisted session (history and turn numbering carry on), prints and exits. Overrides the official headless runner via ctx.agents.resume(); install with `dsh plugin add github:EvieHe/dsh-resume-headless#v0.1.1`.",
+      "desc_prev": null
     }
   ]
 }
