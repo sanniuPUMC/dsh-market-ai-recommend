@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-24T07:10:21.715Z",
+  "count": 2,
+  "items": [
+    {
+      "full_name": "dff652/deepseek-harness-community-plugins",
+      "previous": "tool",
+      "current": "memory",
+      "desc_now": "Reviewed configuration-only DeepSeek Harness bundles for AI Asset Hub, Agent Mail, and AgentMemory",
+      "desc_prev": "Configuration-only DeepSeek Harness bundle for AI Asset Hub's reviewed read-only MCP tools"
+    },
+    {
+      "full_name": "WSL043/dsh-native-reasoning-slider",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "Model-aware reasoning effort slider for DeepSeek Harness, with a Claude-inspired WebGL energy field, native themes, and a live demo.",
+      "desc_prev": "DSH Native Effort Slider — model-aware reasoning control with native modes and custom light/dark colors"
+    }
+  ]
+}

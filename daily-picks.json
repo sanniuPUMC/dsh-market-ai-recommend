@@ -1,17 +1,12 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T05:04:00.406Z",
+  "generated_at": "2026-08-24T07:18:59.899Z",
   "count": 8,
   "picks": [
     {
       "full_name": "eri64/dsh-claude-ux",
       "category": "conversation",
       "reason": "对话聊天 · 近期更新活跃"
-    },
-    {
-      "full_name": "xbzbing/dsh-auth-gateway",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
       "full_name": "omdsh-dev/dsh-genui",
@@ -42,6 +37,11 @@
       "full_name": "victorzhong0110/dsh-code-reference",
       "category": "coding",
       "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "mishibeikejie/zat-dsh-engine",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
     }
   ]
 }
