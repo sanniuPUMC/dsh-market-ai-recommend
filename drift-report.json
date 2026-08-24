@@ -1,27 +1,41 @@
 {
-  "generated_at": "2026-08-24T14:54:25.172Z",
-  "count": 3,
+  "generated_at": "2026-08-24T16:51:31.290Z",
+  "count": 5,
   "items": [
     {
-      "full_name": "LuZhouheng/dsh-gen3d",
-      "previous": "conversation",
-      "current": "other",
-      "desc_now": null,
-      "desc_prev": "DeepSeek Harness 3D 角色生成插件：直连 Meshy / Hunyuan3D / Tripo3D / Rodin 官方 API，自配 key，mock 回退"
+      "full_name": "398894496-arch/runtime36",
+      "previous": "vision",
+      "current": "memory",
+      "desc_now": "Second brain for coding agents. Seal the day, distill into Obsidian, hit that page tomorrow. Cursor, Codex, Claude Code, DeepSeek Harness.",
+      "desc_prev": "DSH-KRouter — Agent knowledge OS. Self-evolution. Timer on by default; API key or subscription is the key. First qualifying day auto-provisional; second accepted task → formal. Correction-first. Retrieval is the lock, not the product. Cursor, Codex, Claude Code, DeepSeek Harness."
     },
     {
-      "full_name": "iyam-x/iyam-dsh-desktop",
-      "previous": "notify",
-      "current": "other",
-      "desc_now": "a deepseek harness desktop",
-      "desc_prev": "a deepseek harness desktop，DeepSeek Harness（DSH）的跨平台原生桌面客户端。内置完整 DSH 内核与 Node.js 运行时，无需联网、无需预先安装 Node.js 即可开箱即用，带有系统通知，自定义主题"
+      "full_name": "qkycir-123/dsh-run2skill",
+      "previous": "agent",
+      "current": "conversation",
+      "desc_now": "Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.",
+      "desc_prev": "DSH-native, local-first Run-to-Skill plugin for DeepSeek Harness"
     },
     {
-      "full_name": "Oscar-Williams/dsh-deepatlas",
-      "previous": "web-ui",
-      "current": "other",
-      "desc_now": "Local capability assurance and evidence-backed plugin navigation for DeepSeek Harness.",
-      "desc_prev": "DeepAtlas (dsh-插件导航) — task-aware plugin navigator for DeepSeek Harness: scan the dsh-plugin ecosystem, recommend by task, audit before install, and install only with explicit user consent."
+      "full_name": "zmm863-commits/dsh-paperclip",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "DSH Web GUI paperclip button: a single 📎 button in the composer that opens a file picker (drag & drop supported) and inserts file contents into the textarea. 在 DSH Web 输入框右侧添加回形针按钮，点击选择/拖拽文件，内容自动插入输入框。",
+      "desc_prev": null
+    },
+    {
+      "full_name": "fplj-fplj/dsh-ua-headers",
+      "previous": "other",
+      "current": "agent",
+      "desc_now": "为 DeepSeek Harness (DSH) 定制的 User-Agent 与请求头插件：按模型匹配改写 UA / 合并自定义请求头，遵循 dsh-ecosystem-spec 生态规范。A dsh-ecosystem-spec compliant plugin to customize User-Agent and request headers per model.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "zaimokuza-yoshiteru/dsh-acp-adapter",
+      "previous": "tool",
+      "current": "web-ui",
+      "desc_now": "Use AI agents from the DSH session UI.",
+      "desc_prev": "ACP adapter plugin for DeepSeek Harness"
     }
   ]
 }
