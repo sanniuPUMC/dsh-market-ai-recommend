@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T22:46:54.676Z",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T01:30:37.588Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "eri64/dsh-claude-ux",
-      "category": "conversation",
-      "reason": "对话聊天 · 近期更新活跃"
+      "full_name": "Bob-Bo1/dsh-deepseek-balance",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "omdsh-dev/dsh-genui",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+      "full_name": "Leeminjing/dsh-messages-sanitizer",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "AKS1st/dock-editor",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "lynx-gt/dsh-subagent-cwd",
+      "category": "agent",
+      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Isilsolme/dsh-splash-launcher",
-      "category": "desktop",
-      "reason": "桌面应用 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "AmethystLuna/embedded-workbench",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Jolly-J/dsh-deepseek-billing",
+      "full_name": "bill9109/dsh-web-ui-notify",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Jesse-njx/dsh-chatnode-wechat",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "eomis/packhub-workbench-assistant",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Tommy00748/dsh-theme-cyberpunk2077",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "YuanyuanMa03/cot-lint",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "victorzhong0110/dsh-code-reference",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "mishibeikejie/zat-dsh-engine",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
     }
   ]
 }
