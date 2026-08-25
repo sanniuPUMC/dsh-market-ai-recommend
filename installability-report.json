@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T01:30:37.447Z",
+  "generated_at": "2026-08-25T03:17:59.895Z",
   "counts": {
-    "bundle-plugin": 817,
+    "bundle-plugin": 830,
     "cordis-plugin": 7688,
-    "pkg-plain": 839,
+    "pkg-plain": 840,
     "manual": 640,
     "script": 198,
     "skill": 356,
-    "multi-plugin": 347,
+    "multi-plugin": 349,
     "gone": 49,
-    "agent-preset": 43,
+    "agent-preset": 44,
     "unknown": 55,
     "empty": 14
   },
@@ -8795,6 +8795,14 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "Entity-Him/dsh-doc-quick",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Entity-Him/dsh-harmonyos-market",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "Entity-Him/dsh-hiboard-push",
       "verdict": "bundle-plugin"
     },
@@ -9279,6 +9287,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "fatatalia/dsh-dreaming",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "fatatalia/dsh-heartbeat",
       "verdict": "cordis-plugin"
     },
@@ -9289,6 +9301,10 @@
     {
       "full_name": "fatatalia/dsh-synology-calendar",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "fatatalia/dsh-turn-guard",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "fatatalia/dsh-webhook",
@@ -9428,6 +9444,10 @@
     },
     {
       "full_name": "fengb3/dsh-session-icons",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "fengbin01/dsh-team-superflow",
       "verdict": "bundle-plugin"
     },
     {
@@ -10087,6 +10107,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "fufengyuan/dsh-stool-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "fufufu11/dsh-oneclick-launcher",
       "verdict": "manual"
     },
@@ -10449,6 +10473,10 @@
     {
       "full_name": "gausszhou/dsh-where-am-i",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "gavenma/dsh-autoresearch-preset",
+      "verdict": "agent-preset"
     },
     {
       "full_name": "Gcd1949/dsh-tools",
@@ -13027,7 +13055,15 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "hw-cola/dsh-dynamic-agents",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "hw-cola/dsh-message-enhancer",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "hw-cola/dsh-remote-control",
       "verdict": "bundle-plugin"
     },
     {
@@ -13849,6 +13885,10 @@
     {
       "full_name": "jackmis0724/dsh-skill-manager",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "jackuh105/dsh-stt",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "jackuh105/remielle-dsh-plugin",
@@ -14817,6 +14857,10 @@
     {
       "full_name": "JohnathonYe/auto-compact",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Johnblur/dsh-bilingual-reader",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Johnny-xuan/dsh-paste-to-path",
@@ -17628,6 +17672,10 @@
     },
     {
       "full_name": "lianginx/dsh-quote-selection",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "lianginx/dsh-timeline-enhance",
       "verdict": "bundle-plugin"
     },
     {
@@ -27563,6 +27611,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "shine-233/dsh-waimao",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "shine-yu-student/dsh-calm",
       "verdict": "manual"
     },
@@ -27693,6 +27745,10 @@
     {
       "full_name": "shsr07/dsh-go-usage",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "shuaihaoV/dsh-TheWanderingEarthII",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "shuaixiangzi/dsh-mojian",
@@ -29131,6 +29187,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "striveh/dsh-capability-resolver",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "striveh/dsh-llm-call-inspector",
       "verdict": "cordis-plugin"
     },
@@ -29397,6 +29457,10 @@
     {
       "full_name": "sungatetop/dsh-browser-control",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "sunkeycn/dsh-desktop",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "SunNull/dsh-relay",
@@ -38201,6 +38265,10 @@
     {
       "full_name": "WayneJin0918/dsh-wm",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "WayneYu430/dsh-voice-agent",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "wbj0256/dsh-agent-handoff-deliberation",
