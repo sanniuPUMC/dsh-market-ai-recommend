@@ -9,6 +9,11 @@
       "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     },
     {
+      "full_name": "LiangYin233/dsh-provider-model-configurator",
+      "category": "web-ui",
+      "reason": "界面美化 · 近期更新活跃"
+    },
+    {
       "full_name": "Leeminjing/dsh-messages-sanitizer",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
@@ -37,11 +42,6 @@
       "full_name": "eomis/packhub-workbench-assistant",
       "category": "resource",
       "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Tommy00748/dsh-theme-cyberpunk2077",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
