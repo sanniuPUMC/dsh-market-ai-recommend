@@ -1,17 +1,12 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T04:54:55.456Z",
+  "generated_at": "2026-08-25T07:02:34.360Z",
   "count": 8,
   "picks": [
     {
       "full_name": "Bob-Bo1/dsh-deepseek-balance",
       "category": "model",
       "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "LiangYin233/dsh-provider-model-configurator",
-      "category": "web-ui",
-      "reason": "界面美化 · 近期更新活跃"
     },
     {
       "full_name": "Leeminjing/dsh-messages-sanitizer",
@@ -42,6 +37,11 @@
       "full_name": "eomis/packhub-workbench-assistant",
       "category": "resource",
       "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Tommy00748/dsh-theme-cyberpunk2077",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
