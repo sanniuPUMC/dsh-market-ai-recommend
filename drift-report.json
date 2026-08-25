@@ -1,83 +1,20 @@
 {
-  "generated_at": "2026-08-25T06:51:08.342Z",
-  "count": 11,
+  "generated_at": "2026-08-25T08:46:50.240Z",
+  "count": 2,
   "items": [
     {
-      "full_name": "mishibeikejie/zat-dsh-engine",
-      "previous": "web-ui",
-      "current": "tool",
-      "desc_now": "Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins",
-      "desc_prev": "Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins"
-    },
-    {
-      "full_name": "Yan-Zero/dsh-codex",
+      "full_name": "superfish058/dsh-llm-proxy",
       "previous": "other",
-      "current": "conversation",
-      "desc_now": "Use your ChatGPT subscription in DeepSeek Harness through OpenAI's Codex sign-in flow",
-      "desc_prev": "Use your ChatGPT subscription in DeepSeek Harness through OpenAI's Codex sign-in flow"
+      "current": "vision",
+      "desc_now": "DSH 模型代理插件：按模型粒度走代理（Clash 等）+ 失败自动重试 + 多模态模型镜像 + 逐模型测试连接，模型列表与官方同步，设置页实时生效。",
+      "desc_prev": "DSH 模型代理插件：按模型走代理（Clash 等）+ 失败自动重试，设置页实时生效。"
     },
     {
-      "full_name": "Moeblack/dsh-message-edit",
-      "previous": "vision",
-      "current": "conversation",
-      "desc_now": "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline",
-      "desc_prev": "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline"
-    },
-    {
-      "full_name": "lxzy-7/dsh-plugin-guard",
-      "previous": "coding",
-      "current": "tool",
-      "desc_now": "Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。",
-      "desc_prev": "Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。"
-    },
-    {
-      "full_name": "Aisland-SJL/dsh-usage",
-      "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "🌊 Persistent dock & fully-customizable balance/usage panel for DeepSeek Harness — activity heatmap, dual-channel comparison, local-only & privacy-first",
-      "desc_prev": "🌊 Persistent dock & fully-customizable balance/usage panel for DeepSeek Harness — activity heatmap, dual-channel comparison, local-only & privacy-first"
-    },
-    {
-      "full_name": "cloader/dsh-taskboard",
+      "full_name": "biggerboy/dsh-conversation-anchors",
       "previous": "web-ui",
-      "current": "other",
-      "desc_now": "deepseekharness 任务看板插件 ",
-      "desc_prev": "deepseekharness 任务看板插件 "
-    },
-    {
-      "full_name": "FTShare-Lab/dsh_kline",
-      "previous": "tool",
-      "current": "resource",
-      "desc_now": "面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。",
-      "desc_prev": "面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。"
-    },
-    {
-      "full_name": "megatronyy/dsh-tradingagents",
-      "previous": "coding",
       "current": "conversation",
-      "desc_now": "TradingAgents for DeepSeek Harness: the 14-role A-share multi-agent analysis pipeline behind /trading-agent",
-      "desc_prev": "TradingAgents for DeepSeek Harness: the 14-role A-share multi-agent analysis pipeline behind /trading-agent"
-    },
-    {
-      "full_name": "null5069/dsh-better-stats",
-      "previous": "tool",
-      "current": "notify",
-      "desc_now": "DSH Web composer stats strip: official CNY pricing with auto-synced peak/off-peak tiers, per-model accounting, live LLM/tool timers, agent-team tree merge, DeepSeek balance, budget alerts, streaming cost estimates",
-      "desc_prev": "Enhanced DSH composer stats strip: official CNY pricing (peak/off-peak, per-model), real-time cost settlement, live LLM/tool timers, subagent tree merge"
-    },
-    {
-      "full_name": "imkingjh999/dsh-deepsea",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "DSH plugin: 深海摸鱼 —— context 越深潜得越深，答完摸鱼集镭射生物卡 | Deep-sea slacking holo cards",
-      "desc_prev": "DSH plugin: 深海垂钓 —— context 越深钩越沉，答完钓起镭射生物卡 | Deep-sea fishing holo cards"
-    },
-    {
-      "full_name": "Punky971210/dsh-punky-swarm",
-      "previous": "coding",
-      "current": "tool",
-      "desc_now": "Engine-enforced guardrails for DeepSeek Harness agent swarms: quality gates reject half-done work, crash-safe checkpoints resume in place — keeps AI teams from breaking, not just running.",
-      "desc_prev": "expandable-coding-team and plugins on dsh"
+      "desc_now": "Codex-style conversation tick-rail for DeepSeek Harness Web GUI: per-turn dashes, hover preview, and click-to-scroll.",
+      "desc_prev": "Sidebar conversation anchor navigation plugin for DeepSeek Harness web GUI"
     }
   ]
 }
