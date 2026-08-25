@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-08-25T16:42:53.531Z",
-  "count": 2,
+  "generated_at": "2026-08-25T18:43:22.561Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "yangdongzhen590/dsh-knj-scheduler",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "Cron task scheduler for DeepSeek Harness: scheduled sessions with your prompt, workspace-aware placement, paginated execution history, open-session from the panel.",
-      "desc_prev": "Cron task scheduler for DeepSeek Harness: create a new session with your prompt on a schedule."
-    },
-    {
-      "full_name": "aorucshiea/dsh-preset-switch",
-      "previous": "agent",
-      "current": "web-ui",
-      "desc_now": "Optional mid-session agent-preset switching for DeepSeek Harness",
-      "desc_prev": "Optional mid-session agent-preset switching for DeepSeek Harness"
+      "full_name": "WSK-build/DSHBox",
+      "previous": "web-ui",
+      "current": "coding",
+      "desc_now": "Run DeepSeek Harness on Android — a layered runtime (Debian + Node.js + DSH) inside a rootless PRoot sandbox, with an embedded WebView UI, file manager, persistent terminal, and one-tap runtime/DSH updates. Install the APK and go.",
+      "desc_prev": "DSHBox 是在 Android 上运行 [DeepSeek Harness](DSH）的沙箱 App：Android 原生 UI + PRoot 用户态 Linux 沙箱，DSH WebUI 通过系统浏览器使用，后续可升级为APP原生嵌入。"
     }
   ]
 }
