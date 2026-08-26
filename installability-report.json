@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-26T17:04:19.508Z",
+  "generated_at": "2026-08-26T20:07:27.084Z",
   "counts": {
-    "bundle-plugin": 1379,
-    "cordis-plugin": 7743,
-    "pkg-plain": 894,
+    "bundle-plugin": 1386,
+    "cordis-plugin": 7746,
+    "pkg-plain": 899,
     "manual": 668,
     "script": 213,
     "skill": 363,
     "multi-plugin": 375,
     "gone": 50,
-    "agent-preset": 45,
+    "agent-preset": 46,
     "unknown": 55,
     "empty": 15
   },
@@ -568,6 +568,10 @@
     },
     {
       "full_name": "240xu/tech-lead-skill",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "240xu/verdict-engine",
       "verdict": "pkg-plain"
     },
     {
@@ -2644,6 +2648,10 @@
     },
     {
       "full_name": "anonRTtty/DSH-mobile-remote-mode-plugin",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "AnonyJcy/dsh-plugin-j-space",
       "verdict": "cordis-plugin"
     },
     {
@@ -4961,6 +4969,10 @@
     {
       "full_name": "calwang414/my-dsh-plugins",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "CanaryJing/dsh-big-fat-whale-maid-adaptive",
+      "verdict": "agent-preset"
     },
     {
       "full_name": "CanGeng/llm-fallback",
@@ -9879,6 +9891,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "FADE-4869/dsh-gacha-viz",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "Fafaisa6305/dsh-gamemode",
       "verdict": "bundle-plugin"
     },
@@ -11817,6 +11833,10 @@
     {
       "full_name": "good-boy4069/dsh-vision-guard",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "goodaiaiai/dsh-safe-install",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "GooDAnDReaDY/dsh-fal-image-gen",
@@ -15871,6 +15891,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "joao-paulo-santos/dsh-granular-settings",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "JoaquinDG/dsh-governor",
       "verdict": "cordis-plugin"
     },
@@ -18999,6 +19023,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Lichtspur/deepseek-style-theme",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "licyer/dsh-token-monitor",
       "verdict": "bundle-plugin"
     },
@@ -19812,6 +19840,10 @@
     },
     {
       "full_name": "LJH-snow/dsh-tool-jira",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "LJH-snow/dsh-tool-sentry",
       "verdict": "cordis-plugin"
     },
     {
@@ -21759,7 +21791,15 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "menotbobbybrown/dsh-plugin-browser",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "menotbobbybrown/dsh-plugin-mcp",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "menotbobbybrown/dsh-plugin-memory",
       "verdict": "pkg-plain"
     },
     {
@@ -24297,6 +24337,10 @@
     {
       "full_name": "Oliver0804/dsh-discord-bot",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Oliver0804/dsh-peak-pricing",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Olympianz/dsh-github-sidebar",
@@ -27261,6 +27305,10 @@
     {
       "full_name": "rebron1900/dsh-mnemosyne",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "recoluan/recowork",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "red000000/dsh-cross-session-bridge",
@@ -30421,6 +30469,14 @@
     {
       "full_name": "SLAPaper/dsh-self-checking-profile",
       "verdict": "script"
+    },
+    {
+      "full_name": "SleepEggTart/dsh-code-coverage",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "SleepEggTart/dsh-dev-wrapped",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "sleepinginsummer/dsh-fff",
@@ -41919,6 +41975,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "wr-web/dsh-context-tree",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "writeCasually/deepseek-harness-plugins",
       "verdict": "manual"
     },
@@ -42477,6 +42537,10 @@
     {
       "full_name": "XEsx630/dsh-screenshot",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "xfqz86/dsh-usage-stats",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "xgone/dsh-remote",
