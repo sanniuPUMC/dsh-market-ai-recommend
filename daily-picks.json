@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T22:44:24.554Z",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T01:23:02.223Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Bob-Bo1/dsh-deepseek-balance",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Leeminjing/dsh-messages-sanitizer",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "lynx-gt/dsh-subagent-cwd",
-      "category": "agent",
-      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "AmethystLuna/embedded-workbench",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "bill9109/dsh-web-ui-notify",
+      "full_name": "dfycaly98931680/dsh-trajectory-governance",
       "category": "notify",
       "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Jesse-njx/dsh-chatnode-wechat",
+      "full_name": "linkingoscar/dsh-attachment-formats",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "awesome-dsh-plugin/dsh-find-plugin",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "hancao97/hanai-investment-dsh",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
+    },
+    {
+      "full_name": "snow-The/dsh-session-handoff",
       "category": "notify",
       "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "eomis/packhub-workbench-assistant",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "ppy-web/dsh-plugin-xiaomi-mimo-tts",
+      "category": "media",
+      "reason": "音视频 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Tommy00748/dsh-theme-cyberpunk2077",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "1HelloMan1/dsh-vision-fallback",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "hg1048596-pixel/dsh-recall-unread",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
