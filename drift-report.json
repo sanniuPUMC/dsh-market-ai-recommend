@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-08-26T04:44:28.015Z",
-  "count": 2,
+  "generated_at": "2026-08-26T06:59:18.606Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "yuxino/dsh-blue-whale-maid",
+      "full_name": "luxueliu/luxueliu-dsh-md-writing-tools",
       "previous": "web-ui",
-      "current": "notify",
-      "desc_now": "DeepSeek Harness 桌宠插件。跟随任务状态动作，在需要确认、任务结束或失败时提醒你。",
-      "desc_prev": "运行在 deepseek harness 上的女仆酱"
-    },
-    {
-      "full_name": "shine-233/dsh-waimao",
-      "previous": "tool",
-      "current": "notify",
-      "desc_now": "外贸获客插件 for DeepSeek Harness (dsh): Google 三层搜客 + WhatsApp 客服审核台 + 邮件触达闭环 (ICP 评分/跟进序列/CRM/报价PDF), 零依赖",
-      "desc_prev": "?????? for DeepSeek Harness (dsh): Google 3-layer lead search (WhatsApp/LinkedIn buyer leads) + WhatsApp customer-service review desk (Evolution API + AI draft + human review). Everything is a plugin."
+      "current": "coding",
+      "desc_now": "给 DSH 侧边栏的 Markdown 编辑器补上加粗、斜体、标题、格式刷等写作快捷键",
+      "desc_prev": null
     }
   ]
 }
