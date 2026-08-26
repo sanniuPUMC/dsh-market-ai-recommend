@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T20:07:27.084Z",
+  "generated_at": "2026-08-26T22:58:50.005Z",
   "counts": {
-    "bundle-plugin": 1386,
+    "bundle-plugin": 1397,
     "cordis-plugin": 7746,
-    "pkg-plain": 899,
+    "pkg-plain": 900,
     "manual": 668,
     "script": 213,
     "skill": 363,
@@ -4939,6 +4939,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "CagierAsh123/dsh-obsidian-agent-wiki",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "cainiao1992/dsh-codebuddy-auth",
       "verdict": "cordis-plugin"
     },
@@ -5301,6 +5305,10 @@
     {
       "full_name": "CH3SH-LC/dsh-plugins-CH3SH",
       "verdict": "manual"
+    },
+    {
+      "full_name": "ch3vr0n5/dsh-docker-services",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "CH4ACKO3/bites-the-dsh",
@@ -8475,6 +8483,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "dongsheng123132/dsh-duty-separation-proof",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "dongsheng123132/dsh-lineage",
       "verdict": "cordis-plugin"
     },
@@ -9229,6 +9241,10 @@
     {
       "full_name": "edynasty/dsh-opencode-go-provider",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "eehcx/dsh-gentle-engram",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "eerrtty2-bili/dsh-plugin",
@@ -14339,6 +14355,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "ihorleleka/Local-Rag-Wiki",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "iHow1/dsh-ihow-memory",
       "verdict": "cordis-plugin"
     },
@@ -15884,6 +15904,10 @@
     },
     {
       "full_name": "joao-paulo-santos/dsh-approval-first",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "joao-paulo-santos/dsh-bouncing-squares-example",
       "verdict": "bundle-plugin"
     },
     {
@@ -19039,6 +19063,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "liell/dsh-workspace-explorer-picker",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "life1996cou/dsh-codex",
       "verdict": "cordis-plugin"
     },
@@ -19849,6 +19877,10 @@
     {
       "full_name": "LJH-snow/dsh-tool-sql",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ljlj7149-cloud/dsh-cognitio",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "LJninse/dsh-open-in-ide",
@@ -23227,6 +23259,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "mykeura/dsh-minimalist-themes",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MysaDC/dsh-plugin-description",
       "verdict": "cordis-plugin"
     },
@@ -23797,6 +23833,10 @@
     {
       "full_name": "nisconder/npm-safe-forDSH",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "NishiMihaeru/dsh-chatgpt-web",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "nishuoyang/dsh-wallpaper-bg",
@@ -25464,6 +25504,10 @@
     },
     {
       "full_name": "paulalesius/dsh-openai-api",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "pauloapoloni/dsh-pr-checks",
       "verdict": "bundle-plugin"
     },
     {
@@ -31369,6 +31413,10 @@
     {
       "full_name": "StarsHarryZhu/simple-dock",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "starsinc1708/dsh-tool-council",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "starslittle/dsh-blue-whale",
