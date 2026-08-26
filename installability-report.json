@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T03:18:36.227Z",
+  "generated_at": "2026-08-26T04:52:52.099Z",
   "counts": {
-    "bundle-plugin": 1135,
-    "cordis-plugin": 7714,
+    "bundle-plugin": 1156,
+    "cordis-plugin": 7715,
     "pkg-plain": 874,
     "manual": 651,
     "script": 212,
@@ -1593,6 +1593,10 @@
     {
       "full_name": "AFAP/dsh-message-minimap",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "AFAP/dsh-trajectory-traceview",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "AFAP/plugin-bastion-bridge-qizhi",
@@ -3645,6 +3649,10 @@
     {
       "full_name": "bamboostrip/dsh-access-gate",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "bamboostrip/dsh-llm-capabilities",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "BananaSoldier01/dsh-tidychat",
@@ -6043,6 +6051,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "cinderzhan/dsh-plugin-dew",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "cindyguyuehu123/dsh-mobile",
       "verdict": "cordis-plugin"
     },
@@ -7459,11 +7471,47 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "ddtcorex/dsh-maestro-config",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-govard",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-guard",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-harness",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ddtcorex/dsh-maestro-memory",
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "ddtcorex/dsh-maestro-meta",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ddtcorex/dsh-maestro-mobile",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-notifier",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-observe",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-remote",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ddtcorex/dsh-maestro-review",
       "verdict": "bundle-plugin"
     },
     {
@@ -7529,6 +7577,10 @@
     {
       "full_name": "DeepTrial/dsh-bash-rtk",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "DeepVite/dsh-model-selector",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Def1ce/dsh-lan-bridge",
@@ -8173,6 +8225,10 @@
     {
       "full_name": "dongsheng123132/dsh-benchmark",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "dongsheng123132/dsh-build-hermeticity-proof",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "dongsheng123132/dsh-cache-stabilizer",
@@ -18003,6 +18059,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "lengzhanbao/dsh-raiden-theme",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lengzhanbao/dsh-taffy-theme",
       "verdict": "cordis-plugin"
     },
@@ -18633,6 +18693,10 @@
     {
       "full_name": "LilycleHeart/liuli-theme",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "lim12137/dsh-llm-extra-retry",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "limbo947/DSH-Console",
@@ -21367,6 +21431,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "MikumikuDAIFans/PrivateAgentSkills",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "mikuuuuuue/dsh-planner-executor",
       "verdict": "cordis-plugin"
     },
@@ -22424,6 +22492,10 @@
     },
     {
       "full_name": "Mungbean-Cake/dsh-plugin-whale-fenggu",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Muredsa/dsh-benchup",
       "verdict": "cordis-plugin"
     },
     {
@@ -26091,6 +26163,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "qwert702/dsh-memory",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "qwert702/dsh-token-viewer",
       "verdict": "cordis-plugin"
     },
@@ -26261,6 +26337,10 @@
     {
       "full_name": "RangeKing/vibemeter",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "rangrongg/SearchSieve",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Rannist/balance-dsh",
@@ -28565,6 +28645,10 @@
     {
       "full_name": "shanliuling/skills-link",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "shao-01-test/dsh-chat-rail",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "shaobeichen/dsh-pocket",
@@ -31936,6 +32020,10 @@
     },
     {
       "full_name": "tieveto666-code/dsh-data-mode",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "tieveto666-code/dsh-memory-migration",
       "verdict": "bundle-plugin"
     },
     {

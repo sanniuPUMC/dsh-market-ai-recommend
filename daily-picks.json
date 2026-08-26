@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T03:18:36.372Z",
+  "generated_at": "2026-08-26T04:52:52.239Z",
   "count": 8,
   "picks": [
     {
@@ -29,6 +29,11 @@
       "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
+      "full_name": "Soren-ABT/dsh-knowledge",
+      "category": "memory",
+      "reason": "记忆知识 · 近期更新活跃"
+    },
+    {
       "full_name": "ppy-web/dsh-plugin-xiaomi-mimo-tts",
       "category": "media",
       "reason": "音视频 · 社区聚合页收录 · 近期更新活跃"
@@ -37,11 +42,6 @@
       "full_name": "1HelloMan1/dsh-vision-fallback",
       "category": "vision",
       "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "hg1048596-pixel/dsh-recall-unread",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
