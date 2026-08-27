@@ -1,13 +1,8 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T07:27:35.603Z",
+  "generated_at": "2026-08-27T17:00:57.697Z",
   "count": 8,
   "picks": [
-    {
-      "full_name": "KarlOfLaw/dsh-side-chat",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
     {
       "full_name": "beijingwahw/dsh-proactive",
       "category": "web-ui",
@@ -22,6 +17,11 @@
       "full_name": "huiliyi37/dsh-tianshu-build",
       "category": "agent",
       "reason": "Agent 自动化 · 近期更新活跃"
+    },
+    {
+      "full_name": "Cassius0924/dsh-usage-dashboard",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     },
     {
       "full_name": "AKS1st/dsh-sysmon",
