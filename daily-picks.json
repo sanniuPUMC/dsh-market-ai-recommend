@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T04:20:04.306Z",
+  "generated_at": "2026-08-28T18:26:28.640Z",
   "count": 8,
   "picks": [
     {
@@ -17,6 +17,11 @@
       "full_name": "maxmilian/dsh-grafana-query",
       "category": "notify",
       "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Zenjibad/llmtrim-stats-plugin",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
       "full_name": "huiliyi37/dsh-tianshu-build",
@@ -37,11 +42,6 @@
       "full_name": "kingOfSoySauce/dsh-skin-market",
       "category": "web-ui",
       "reason": "界面美化 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "nikoart-liu/dsh-open-in-x",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
