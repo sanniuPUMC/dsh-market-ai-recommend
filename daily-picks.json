@@ -1,17 +1,22 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T19:09:04.144Z",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T04:20:04.306Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "beijingwahw/dsh-proactive",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "534119219/chicheng-cron",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "ccch1mneyyy/dsh-TUI",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+      "full_name": "Chaos-Hyper/dsh-econ-tools",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "maxmilian/dsh-grafana-query",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
       "full_name": "huiliyi37/dsh-tianshu-build",
@@ -19,29 +24,24 @@
       "reason": "Agent 自动化 · 近期更新活跃"
     },
     {
-      "full_name": "Cassius0924/dsh-usage-dashboard",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Ruler4396/dsh-launcher",
+      "category": "desktop",
+      "reason": "桌面应用 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "AKS1st/dsh-sysmon",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "zljr/dsh-share",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "PKUfudawei/dsh-capability-menu",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
+      "full_name": "kingOfSoySauce/dsh-skin-market",
+      "category": "web-ui",
+      "reason": "界面美化 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "demacia1314/dsh-airdrop",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "kuangre123/iosdev",
-      "category": "coding",
-      "reason": "开发编码 · 近期更新活跃"
+      "full_name": "nikoart-liu/dsh-open-in-x",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

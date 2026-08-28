@@ -1,41 +1,27 @@
 {
-  "generated_at": "2026-08-27T18:57:40.223Z",
-  "count": 5,
+  "generated_at": "2026-08-28T04:09:19.652Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "01Virex/dsh-status-rotator",
+      "full_name": "julescules/dsh-galgame-localization-reverse",
+      "previous": "web-ui",
+      "current": "memory",
+      "desc_now": "Galgame Doctor for DeepSeek Harness: safe translation-memory migration, engine evidence, strict QA, and rollback.",
+      "desc_prev": "Galgame Doctor for DeepSeek Harness: evidence plans, lossless script adapters, strict QA, and rollback."
+    },
+    {
+      "full_name": "alloevil/dsh-xray",
+      "previous": "model",
+      "current": "tool",
+      "desc_now": "X-ray for your DeepSeek Harness: context-tax attribution, entry inspection, dependency cascades",
+      "desc_prev": "X-ray for your DeepSeek Harness — see what's actually loaded, why, and what it costs you."
+    },
+    {
+      "full_name": "Jensen-Yao/dsh-model-palette",
       "previous": "tool",
       "current": "web-ui",
-      "desc_now": "A DeepSeek Harness (dsh) web plugin: rotate the \"Deep diving…\" status label with typewriter-animated rainbow phrases, a live status pill, tab titles, schedule presets — and video-site-style danmaku floating behind the UI.",
-      "desc_prev": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file."
-    },
-    {
-      "full_name": "yuxino/dsh-blue-whale-maid",
-      "previous": "notify",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness 桌宠插件。",
-      "desc_prev": "汐汐：会跟随任务状态动作，并在需要确认、结束或失败时提醒你的 DeepSeek Harness 蓝鲸女仆桌宠插件。"
-    },
-    {
-      "full_name": "fufengyuan/dsh-stool-plugin",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "DSH 运维工具箱插件。将 stool 运维 CLI 的全部能力注册为 DSH 模型可调用的工具，无需手动操作即可让 Agent 自动执行服务器管理、日志搜索、数据库查询、CI/CD 部署等操作。",
-      "desc_prev": null
-    },
-    {
-      "full_name": "xiaxi626/dsh-skills-nexus",
-      "previous": "coding",
-      "current": "tool",
-      "desc_now": "Universal DSH skill adapter. Install once, then register any GitHub repo containing a SKILL.md as a DSH skill — one command per repo. No Cordis plugin code or package.json needed in the skill repo.",
-      "desc_prev": "通用 DSH skill 枢纽。安装一次，即可把任意含 SKILL.md 的 GitHub 仓库注册为 DSH skill——一条命令添加一个。skill 仓库无需 Cordis 插件代码或 package.json。Universal DSH skill adapter. Install once, then register any GitHub repo containing a SKILL.md as a DSH skill — one command per repo. No Cordis plugin code or package.json needed in the skill repo."
-    },
-    {
-      "full_name": "ramen-ai-dev/dsh-ramen-guard",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "Fail-closed DeepSeek Harness guard enforcing ramen-ai Core IT policy before tool execution.",
-      "desc_prev": null
+      "desc_now": "Global provider-aware model command palette and optional OpenRouter media tools for DeepSeek Harness.",
+      "desc_prev": "Global provider-aware model command palette and optional OpenRouter media tools for DeepSeek Harness."
     }
   ]
 }
