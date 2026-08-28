@@ -3659,6 +3659,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "baihejiangnan/deepseek-harness-desktop",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "baihejiangnan/dsh-custom-wallpaper",
       "verdict": "cordis-plugin"
     },
@@ -14367,6 +14371,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "HuanLinOTO/dsh-plugin-copilot",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "HuanLinOTO/dsh-plugin-d399",
       "verdict": "cordis-plugin"
     },
@@ -15283,6 +15291,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "ipromise2021/dsh-omc-tui",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "iqingyoung/429-throttle-mcp",
       "verdict": "pkg-plain"
     },
@@ -15677,6 +15689,10 @@
     {
       "full_name": "jarvis-intelligence/scip-swift",
       "verdict": "manual"
+    },
+    {
+      "full_name": "jarvis959/galvanize-dsh",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "JarvisChu/dsh-obsidian-note",
@@ -31027,6 +31043,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "shengmk/godsh",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "shengsheng90/DSH-taskboard",
       "verdict": "cordis-plugin"
     },
@@ -44055,6 +44075,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "xarleyn/dsh-doc-impact",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "xarleyn/dsh-session-scope",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xarleyn/dsh-sleev",
       "verdict": "bundle-plugin"
     },
@@ -47893,6 +47921,10 @@
     {
       "full_name": "z331225718/sipi-dsh-openai-codex-auth",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "z7ping/narratica",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "z827439974/dsh-background-plugin",
