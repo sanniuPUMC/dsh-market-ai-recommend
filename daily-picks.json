@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T18:26:28.640Z",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T03:04:31.397Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "534119219/chicheng-cron",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Chaos-Hyper/dsh-econ-tools",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "maxmilian/dsh-grafana-query",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Zenjibad/llmtrim-stats-plugin",
+      "full_name": "Young4ever33/dsh-token-attention",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "huiliyi37/dsh-tianshu-build",
-      "category": "agent",
-      "reason": "Agent 自动化 · 近期更新活跃"
+      "full_name": "STARDUSTLC666/dsh-hyperframes",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Ruler4396/dsh-launcher",
-      "category": "desktop",
-      "reason": "桌面应用 · 高星社区精选 · 近期更新活跃"
+      "full_name": "AKS1st/dock",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "zljr/dsh-share",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "kingOfSoySauce/dsh-skin-market",
+      "full_name": "magian1127/deepseek-harness-zh_pro",
       "category": "web-ui",
-      "reason": "界面美化 · 高星社区精选 · 近期更新活跃"
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Vesna-Strivozha/DSH-LLM-wiki-plugin",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "wulun811/LiuHe",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "NanmiCoder/dsh-agent-teams",
+      "category": "agent",
+      "reason": "Agent 自动化 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "Fayelin12/dsh-office",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
