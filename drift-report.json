@@ -1,55 +1,62 @@
 {
-  "generated_at": "2026-08-29T02:50:13.356Z",
-  "count": 7,
+  "generated_at": "2026-08-29T10:59:18.147Z",
+  "count": 8,
   "items": [
     {
-      "full_name": "wssfk12138/dsh-damage-pulse",
+      "full_name": "chuspeeism/dashi-taskboard",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
+      "desc_prev": null
+    },
+    {
+      "full_name": "fishzjp/qa-skills",
       "previous": "tool",
+      "current": "memory",
+      "desc_now": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——10 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）",
+      "desc_prev": "让 AI 像资深测试工程师一样工作：全生命周期 QA Agent Skills 框架——方法论 + 10 Skills + 可复现 Benchmark（Claude Code 等 Agent 可用）"
+    },
+    {
+      "full_name": "x102201/deepseek-harness-helper",
+      "previous": "desktop",
+      "current": "other",
+      "desc_now": "🖥️ 一台电脑无限多开 DeepSeek Harness · 🔀 每个实例=独立一套 dsh · 📐 可拖拽自定义分屏 · 📦 .dshpack 环境打包可卖 · 🪟🍎🐧 Win/macOS/Linux（x64 & ARM）",
+      "desc_prev": "🖥️ DeepSeek Harness 桌面客户端 · 💻 全平台(Win/macOS/Linux, x64/ARM)· 🔀 多窗口并行运行(单机可部署多个 dsh 实例,可独立运行,也可协同完成同一任务)· 🪟 可拖拽分屏(类似 Xshell 窗口管理)· 📦 .dshpack 环境导出"
+    },
+    {
+      "full_name": "7A7K/DSH-Timeline-Navigator",
+      "previous": "conversation",
       "current": "web-ui",
-      "desc_now": "DeepSeek Harness Token 余额监控插件：鲸鱼娘待机/扣费/复苏动画、峰谷计费、连续扣费飘字与会话费用统计。",
-      "desc_prev": "DeepSeek Harness Token 余额监控插件：鲸鱼娘待机/扣费/复苏动画、峰谷计费、连续扣费飘字与会话费用统计。"
+      "desc_now": "DeepSeek Harness 长对话时间线导航插件：按回合组织、搜索、星标收藏并跳转历史消息。A lightweight UI navigator for long DSH conversations.",
+      "desc_prev": "A turn-based conversation timeline for DeepSeek Harness with bookmarks, history loading, keyboard controls, and mobile support."
     },
     {
-      "full_name": "RevolutionLA/dsh-dream-skin",
-      "previous": "memory",
+      "full_name": "Jokasa7/dsh-product-subagent-console",
+      "previous": "conversation",
       "current": "web-ui",
-      "desc_now": "DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。",
-      "desc_prev": "DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。"
+      "desc_now": "Design, observe, diagnose, and reuse evidence-backed multi-Agent workflows inside DeepSeek Harness",
+      "desc_prev": "Plan, run, and compare multi-Agent work inside DeepSeek Harness conversations"
     },
     {
-      "full_name": "Hilbert-beinghappy/seektty",
-      "previous": "memory",
-      "current": "coding",
-      "desc_now": "Pluggable DeepSeek-colored TUI for DeepSeek Harness",
-      "desc_prev": "Pluggable DeepSeek-colored TUI for DeepSeek Harness"
+      "full_name": "ccll/dsh-activity-pane",
+      "previous": "other",
+      "current": "conversation",
+      "desc_now": "Activity session overview pane for DeepSeek Harness (DSH) web — running sessions, sub-agents, waiting-for-action reminders & recent history at a glance / DSH 活动会话总览窗格",
+      "desc_prev": null
     },
     {
-      "full_name": "Jiyr0119/dsh-workspace-explorer",
-      "previous": "coding",
-      "current": "resource",
-      "desc_now": "DeepSeek Harness 工作区文件资源管理器:右侧目录树面板,点击/拖拽文件引用进输入框,UI 对齐 DSH 原生风格 | Workspace file explorer plugin for DeepSeek Harness: right-side file tree panel, click or drag file references into the composer, native DSH look",
-      "desc_prev": "DeepSeek Harness 工作区文件资源管理器:右侧目录树面板,点击/拖拽文件引用进输入框,UI 对齐 DSH 原生风格 | Workspace file explorer plugin for DeepSeek Harness: right-side file tree panel, click or drag file references into the composer, native DSH look"
+      "full_name": "omdsh-dev/dsh-accessibility",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "DSH accessibility companion, core remediation, test tooling, assistive-technology evidence, and accessible authoring.",
+      "desc_prev": "Screen-reader guidance and in-app accessibility diagnostics for DeepSeek Harness"
     },
     {
-      "full_name": "tma1-ai/dsh-otel",
+      "full_name": "TelosmaYLX/dsh-session-notify",
       "previous": "other",
       "current": "model",
-      "desc_now": "What a DeepSeek Harness run costs in tokens, money, and time. OpenTelemetry traces, metrics, and logs in GreptimeDB, with seven Grafana dashboards.",
-      "desc_prev": "OpenTelemetry traces, metrics, and logs for DeepSeek Harness, written straight into GreptimeDB"
-    },
-    {
-      "full_name": "XianmingLF/xmlf-plugin-manager",
-      "previous": "coding",
-      "current": "resource",
-      "desc_now": "管理当前第三方已安装插件的信息 比较简单的版本 可按照自己的需求修改",
-      "desc_prev": "管理当前第三方已安装插件的信息 比较简单的版本 可按照自己的需求修改 github地址安装正在开发"
-    },
-    {
-      "full_name": "jarvis959/galvanize-dsh",
-      "previous": "tool",
-      "current": "notify",
-      "desc_now": "Triggers inside your DSH agent: wake a fresh DeepSeek Harness session when files, mail, webhooks, or git events happen. Native Cordis bundle, heartbeat-proved install.",
-      "desc_prev": "Native DSH (DeepSeek Harness) bundle for galvanize event triggers: trigger_* tools in the agent schema, heartbeat-proved installation, thin client over the core's versioned local API."
+      "desc_now": "当dsh任务完成时自动推送windows消息，支持自定义文案和图片，以及显示会话用时、消耗token、速度tps等指标",
+      "desc_prev": "任务完成时自动推送windows消息"
     }
   ]
 }
