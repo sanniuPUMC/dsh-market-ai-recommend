@@ -1,62 +1,69 @@
 {
-  "generated_at": "2026-08-29T10:59:18.147Z",
-  "count": 8,
+  "generated_at": "2026-08-29T16:25:11.257Z",
+  "count": 9,
   "items": [
     {
-      "full_name": "chuspeeism/dashi-taskboard",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
-      "desc_prev": null
+      "full_name": "kanneiren/dsh-network-settings",
+      "previous": "conversation",
+      "current": "tool",
+      "desc_now": "DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS",
+      "desc_prev": "DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS"
     },
     {
-      "full_name": "fishzjp/qa-skills",
+      "full_name": "anweat/dsh-web-search-pro",
+      "previous": "web-ui",
+      "current": "tool",
+      "desc_now": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+      "desc_prev": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)"
+    },
+    {
+      "full_name": "ZRui-C/dsh-computer-use",
       "previous": "tool",
-      "current": "memory",
-      "desc_now": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——10 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）",
-      "desc_prev": "让 AI 像资深测试工程师一样工作：全生命周期 QA Agent Skills 框架——方法论 + 10 Skills + 可复现 Benchmark（Claude Code 等 Agent 可用）"
+      "current": "vision",
+      "desc_now": "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。",
+      "desc_prev": "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。"
     },
     {
-      "full_name": "x102201/deepseek-harness-helper",
-      "previous": "desktop",
-      "current": "other",
-      "desc_now": "🖥️ 一台电脑无限多开 DeepSeek Harness · 🔀 每个实例=独立一套 dsh · 📐 可拖拽自定义分屏 · 📦 .dshpack 环境打包可卖 · 🪟🍎🐧 Win/macOS/Linux（x64 & ARM）",
-      "desc_prev": "🖥️ DeepSeek Harness 桌面客户端 · 💻 全平台(Win/macOS/Linux, x64/ARM)· 🔀 多窗口并行运行(单机可部署多个 dsh 实例,可独立运行,也可协同完成同一任务)· 🪟 可拖拽分屏(类似 Xshell 窗口管理)· 📦 .dshpack 环境导出"
-    },
-    {
-      "full_name": "7A7K/DSH-Timeline-Navigator",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness 长对话时间线导航插件：按回合组织、搜索、星标收藏并跳转历史消息。A lightweight UI navigator for long DSH conversations.",
-      "desc_prev": "A turn-based conversation timeline for DeepSeek Harness with bookmarks, history loading, keyboard controls, and mobile support."
-    },
-    {
-      "full_name": "Jokasa7/dsh-product-subagent-console",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "Design, observe, diagnose, and reuse evidence-backed multi-Agent workflows inside DeepSeek Harness",
-      "desc_prev": "Plan, run, and compare multi-Agent work inside DeepSeek Harness conversations"
-    },
-    {
-      "full_name": "ccll/dsh-activity-pane",
+      "full_name": "Likenttt/garmin-connect-plugin-for-dsh",
       "previous": "other",
-      "current": "conversation",
-      "desc_now": "Activity session overview pane for DeepSeek Harness (DSH) web — running sessions, sub-agents, waiting-for-action reminders & recent history at a glance / DSH 活动会话总览窗格",
+      "current": "coding",
+      "desc_now": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and designed to work with other AI agents.",
+      "desc_prev": "DeepSeek Harness plugin for Garmin Connect — AI-powered fitness data access"
+    },
+    {
+      "full_name": "v587d/dsh-opencode-go-usage",
+      "previous": "conversation",
+      "current": "web-ui",
+      "desc_now": "A DeepSeek Harness (dsh) bundle that shows OpenCode Go subscription usage in the Web GUI's composer dock — the same seat as the built-in conversation stats line.",
+      "desc_prev": "A DeepSeek Harness (dsh) bundle that shows OpenCode Go subscription usage in the Web GUI's composer dock — the same seat as the built-in conversation stats line."
+    },
+    {
+      "full_name": "fb0sh/dsh-pentester",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "基于 DeepSeek Harness 的多 Agent PTES 渗透测试编排插件，支持自动化侦察、漏洞分析、验证与报告，使用 Docker/Kali 隔离工具箱 | Multi-agent PTES penetration testing plugin for DeepSeek Harness with automated recon, vulnerability analysis, validation, reporting, and Docker/Kali toolbox",
       "desc_prev": null
     },
     {
-      "full_name": "omdsh-dev/dsh-accessibility",
+      "full_name": "w1661884010-jpg/dsh-plugin-github-market",
+      "previous": "tool",
+      "current": "web-ui",
+      "desc_now": "DSH web client plugin: browse GitHub dsh-plugin topic repositories - plugin market tab, category tags, three-part filters, growth ranking, fuzzy search, favorites, install-command copy",
+      "desc_prev": "DSH web client plugin: browse GitHub dsh-plugin topic repositories (fuzzy search, sort, favorites, install-command copy, optional token)"
+    },
+    {
+      "full_name": "D2Moqi/dsh-openwiki",
+      "previous": "coding",
+      "current": "memory",
+      "desc_now": "DSH 插件：把 openwiki 的代码库知识库能力搬进 DeepSeek Harness —— 一键生成 / 阅读 / 更新仓库 Wiki 与 Grounded Claims（溯源知识卡片），直接复用 DSH 已配置的模型，无需二次填 Key。",
+      "desc_prev": "基于https://github.com/langchain-ai/openwiki 开发的dsh插件"
+    },
+    {
+      "full_name": "rogerdigital/dsh-vet",
       "previous": "other",
       "current": "tool",
-      "desc_now": "DSH accessibility companion, core remediation, test tooling, assistive-technology evidence, and accessible authoring.",
-      "desc_prev": "Screen-reader guidance and in-app accessibility diagnostics for DeepSeek Harness"
-    },
-    {
-      "full_name": "TelosmaYLX/dsh-session-notify",
-      "previous": "other",
-      "current": "model",
-      "desc_now": "当dsh任务完成时自动推送windows消息，支持自定义文案和图片，以及显示会话用时、消耗token、速度tps等指标",
-      "desc_prev": "任务完成时自动推送windows消息"
+      "desc_now": "Security vetting for DeepSeek Harness (DSH) plugins: permission & supply-chain audits before install, graded via the open dsh-vet/v1 report standard.",
+      "desc_prev": null
     }
   ]
 }
