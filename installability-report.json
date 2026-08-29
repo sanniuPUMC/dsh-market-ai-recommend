@@ -1855,6 +1855,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "AI-Scarlett/DSH-Store",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ai-shushu/dsh-quota-meter",
       "verdict": "cordis-plugin"
     },
@@ -12727,6 +12731,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "GrayCodeTeam/graycode-for-dsh",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "GraySilver/dsh-evolve-modes",
       "verdict": "cordis-plugin"
     },
@@ -14423,6 +14431,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Hoshino-Yumetsuki/as-compatible-copilot",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Hoshino-Yumetsuki/dsh-onebot",
       "verdict": "cordis-plugin"
     },
@@ -14897,6 +14909,10 @@
     {
       "full_name": "HunterCHCL/dsh-usage-meter",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "hunterxxn/deep-flow",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Huoer9527/dsh-simpletex-ocr",
@@ -23211,6 +23227,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "mengnanxyyyy/dsh-markdown-xyy",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Mengshang-spec/dsh-plugin-trustlens",
       "verdict": "cordis-plugin"
     },
@@ -27651,6 +27671,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "ping1999/dsh-minimap",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "pingfanfan/dsh-verify",
       "verdict": "manual"
     },
@@ -28149,6 +28173,10 @@
     {
       "full_name": "qichengxiaoqi/dsh-lancher",
       "verdict": "manual"
+    },
+    {
+      "full_name": "qichuang321/dsh-plugin-browser",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "qichuang321/dsh-web-terminal",
@@ -29773,6 +29801,10 @@
     {
       "full_name": "Rycar1/dsh-for-wsl",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Rycbartbad/dsh-key-manager",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "RyensX/dsh-message-fold",
@@ -44057,6 +44089,10 @@
     {
       "full_name": "wozoulesky/dsh-obsidian",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "wp-a/dsh-academic-paper-search",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "wpc0323/deepseek-web-import",
