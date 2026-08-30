@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T20:44:55.978Z",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T00:14:01.205Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Young4ever33/dsh-token-attention",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Nothree-code/voco-input-sh",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "STARDUSTLC666/dsh-hyperframes",
+      "full_name": "jyh20030112/dsh-visual-plugin",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "anweat/dsh-browser",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "AKS1st/dock",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Electricitysheep/dsh-handbook",
+      "category": "resource",
+      "reason": "聚合资源 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "magian1127/deepseek-harness-zh_pro",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Vesna-Strivozha/DSH-LLM-wiki-plugin",
+      "full_name": "omdsh-dev/dsh-tool-calculator",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "wulun811/LiuHe",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "1624318455/dsh-plugin-tts",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "NanmiCoder/dsh-agent-teams",
-      "category": "agent",
-      "reason": "Agent 自动化 · 高星社区精选 · 近期更新活跃"
+      "full_name": "yangyongzhen/dsh-session-report",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Fayelin12/dsh-office",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "liustack/modlens",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 人工验证通过 · 近期更新活跃"
     }
   ]
 }
