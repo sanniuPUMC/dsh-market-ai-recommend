@@ -83,6 +83,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "0mn1si2i5/dsh-handoff",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "0N3-0/dsh-tui-mcp-manager",
       "verdict": "bundle-plugin"
     },
@@ -931,6 +935,14 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "6jeffr3y/dsh-burpsuite-mcp",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "6jeffr3y/dsh-session-manager",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "6kongbai/dsh-plugin-market",
       "verdict": "pkg-plain"
     },
@@ -1372,6 +1384,10 @@
     },
     {
       "full_name": "AAA-STM32XinPianPiFaWangGe/deepseek-harness-workshop",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "AAA-STM32XinPianPiFaWangGe/DSH-Workshop",
       "verdict": "cordis-plugin"
     },
     {
@@ -2873,6 +2889,10 @@
     {
       "full_name": "Anspire-AI/ai-search-dsh",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ant404/dsh-media-gen",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "AntaresCorn/dsh-auto-reviewer",
@@ -9911,6 +9931,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Edge-Echo/dsh-netassist",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Edge-Echo/dsh-win-toolkit",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "edge-sky/dsh-auth-adapter",
       "verdict": "bundle-plugin"
     },
@@ -10583,6 +10611,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Exception-H/dsh-gpt56-ptc",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ExElectron/dsh-gov-portal",
       "verdict": "cordis-plugin"
     },
@@ -10989,6 +11021,10 @@
     {
       "full_name": "feiyang-dev/dsh-usage-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "feiyang-dev/dsh-vault",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "FeiZhuNiU-INFJA/dsh-stock-ticker",
@@ -19523,6 +19559,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LamplitIsles/kepos-imagegen",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "LamplitIsles/kepos-tts",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "LAN-TINA-WS/dsh-gui-customization",
       "verdict": "pkg-plain"
     },
@@ -20721,6 +20765,10 @@
     {
       "full_name": "lijma/awesome-deepseek-harness-plugins",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "lijma/dsh-plugin-marketplace",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "LiJunfeng000000000000/zotero-mcp-dsh",
@@ -25555,6 +25603,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "nexsjournal/dsh-vision-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "NEXTINDIE/DeepSeek-Harness-for-VS-Code",
       "verdict": "pkg-plain"
     },
@@ -27183,6 +27235,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "ouones/dsh-tavily-search",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Outblock/dsh-headless-resumable",
       "verdict": "cordis-plugin"
     },
@@ -28783,6 +28839,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Qiongkura/dsh-interface-settings",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "Qiongkura/dsh-usage-plugin",
       "verdict": "cordis-plugin"
     },
@@ -29577,6 +29637,10 @@
     {
       "full_name": "Relistencode/dsh-extension-hub",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Relistencode/dsh-recall",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ReLuckyLucy/dsh_Rhine_Lab_theme",
@@ -33852,6 +33916,10 @@
     },
     {
       "full_name": "Stellight/dsh-imggen",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "steven-ngle/dsh-elden",
       "verdict": "bundle-plugin"
     },
     {
@@ -43763,6 +43831,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "wenyixiaoqingnian/ds-mobile-skin",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "wenyixiaoqingnian/screenshot-review",
       "verdict": "bundle-plugin"
     },
@@ -44397,6 +44469,10 @@
     {
       "full_name": "wkfedor/deepseek-harness-voice-input",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "wkscc310/dsh-client-ui-cpa-quota",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Wlain/kling-ai-deepseek-plugin",
@@ -49109,6 +49185,10 @@
     {
       "full_name": "z21for99/silk-background",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "z331225718/dsh-openai-codex-auth",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "z331225718/sipi-dsh-openai-codex-auth",
