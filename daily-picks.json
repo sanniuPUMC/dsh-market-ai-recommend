@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T10:01:23.699Z",
+  "generated_at": "2026-08-30T15:02:14.496Z",
   "count": 8,
   "picks": [
     {
@@ -29,11 +29,6 @@
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "1624318455/dsh-plugin-tts",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
       "full_name": "yangyongzhen/dsh-session-report",
       "category": "model",
       "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
@@ -42,6 +37,11 @@
       "full_name": "liustack/modlens",
       "category": "vision",
       "reason": "视觉多模态 · 社区聚合页收录 · 人工验证通过 · 近期更新活跃"
+    },
+    {
+      "full_name": "reshuibuduo/TMCRA-Agent-Memory",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
