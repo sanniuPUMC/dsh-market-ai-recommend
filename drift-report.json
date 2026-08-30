@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T00:05:39.779Z",
+  "generated_at": "2026-08-30T03:37:16.621Z",
   "count": 1,
   "items": [
     {
-      "full_name": "WODE25500/dsh-skillopt",
-      "previous": "other",
+      "full_name": "huanghai-lab/dsh-custom-instructions",
+      "previous": "coding",
       "current": "tool",
-      "desc_now": "Nightly self-improvement for your DeepSeek Harness agent: harvest past sessions, replay recurring tasks, and consolidate validated skills behind a held-out gate. Brings microsoft/SkillOpt's SkillOpt-Sleep engine to dsh as native tools + a bundled skill (MIT).",
-      "desc_prev": "Microsoft SkillOpt-Sleep integration for DeepSeek Harness (dsh): nightly sleep cycle - harvest sessions, replay recurring tasks, consolidate validated skills behind a held-out gate. ?? DSH ? SkillOpt ??"
+      "desc_now": "DSH Web 安全自定义指令管理器：编辑全局 AGENTS.md，支持模板、Markdown 预览、历史恢复、导入导出与并发保护。",
+      "desc_prev": "DSH Web GUI 自定义指令编辑器插件：在设置页直接编辑 ~/.dsh/AGENTS.md 全局指令（类似 ChatGPT Custom Instructions），对所有聊天生效。热插拔安装，无需改动 DSH 源码。"
     }
   ]
 }
