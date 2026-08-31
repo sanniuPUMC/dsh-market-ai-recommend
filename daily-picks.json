@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T22:44:27.364Z",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T03:41:05.922Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Nothree-code/voco-input-sh",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "jyh20030112/dsh-visual-plugin",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "anweat/dsh-browser",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Electricitysheep/dsh-handbook",
+      "full_name": "Dominic789654/awesome-deepseek-harness",
       "category": "resource",
       "reason": "聚合资源 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "omdsh-dev/dsh-tool-calculator",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Physicolor/dsh-widgets",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "yangyongzhen/dsh-session-report",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "EugeneVl/dsh_session_folders",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "liustack/modlens",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 人工验证通过 · 近期更新活跃"
-    },
-    {
-      "full_name": "reshuibuduo/TMCRA-Agent-Memory",
+      "full_name": "vshulcz/deja-vu",
       "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "shimingming520/dsh-conversation-process-collapse",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "labring/sealos-skills",
+      "category": "vision",
+      "reason": "视觉多模态 · 近期更新活跃"
+    },
+    {
+      "full_name": "mnemon-dev/mnemon",
+      "category": "memory",
+      "reason": "记忆知识 · 人工验证通过 · 近期更新活跃"
+    },
+    {
+      "full_name": "songoao25/dsh-chatgpt-subscription",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

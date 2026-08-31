@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-08-31T03:32:24.138Z",
+  "count": 3,
+  "items": [
+    {
+      "full_name": "zhu1090093659/dsh-web",
+      "previous": "resource",
+      "current": "web-ui",
+      "desc_now": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "desc_prev": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发"
+    },
+    {
+      "full_name": "Jstn-1g/dsh-live-voice",
+      "previous": "conversation",
+      "current": "notify",
+      "desc_now": "DSH Live Voice: consent-bound one-turn voice for DeepSeek Harness, with a credential-free local synthetic demo, exact-Session isolation, and explicit draft handoff.",
+      "desc_prev": "DSH Live Voice preview: consent-bound voice add-on for DeepSeek Harness with exact-Session isolation and one bounded manual audio turn."
+    },
+    {
+      "full_name": "WhaleHarness/WhaleHarness",
+      "previous": "resource",
+      "current": "web-ui",
+      "desc_now": "WhaleHarness: verified plugin store & audit for DeepSeek Harness. 180 verified plugins, 2752 audited DSH repos (2048 authors), AI-agent-readable data (agent.json/llms.txt/audit.json/rankings.json). We verify, you install.",
+      "desc_prev": "A curated DeepSeek Harness plugin store: 180 verified plugins with reproducible builds, sandboxed review, and sha256-pinned tarballs, plus transparent stats and a public audit of 2743+ DSH repos (2048 authors). https://whaleharness.com"
+    }
+  ]
+}
