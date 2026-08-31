@@ -8083,6 +8083,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "dalintian/dsh-means-digital-sweet-heart",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "dami9527/dsh-image-pathify",
       "verdict": "cordis-plugin"
     },
@@ -15031,6 +15035,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "hpyer/dsh-for-mac",
+      "verdict": "manual"
+    },
+    {
       "full_name": "hpyperry/dsh-ref-lib",
       "verdict": "cordis-plugin"
     },
@@ -15921,6 +15929,10 @@
     {
       "full_name": "Ikalus1988/MisakaNet",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ikanger/dsh-env-backup",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "IKEASven69/dsh-opencli",
@@ -18396,6 +18408,10 @@
     },
     {
       "full_name": "jwilson411/dsh-arxiv",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jwilson411/dsh-canary",
       "verdict": "bundle-plugin"
     },
     {
@@ -22707,6 +22723,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "luckycaoj/dsh-plugin-session-console-sleepcat",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "luckzhangfengbo/dsh-web-theme",
       "verdict": "bundle-plugin"
     },
@@ -24508,6 +24528,10 @@
     },
     {
       "full_name": "Minglink/dsh-infinite-gen-2",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Minglink/dsh-infinite-gen-3",
       "verdict": "bundle-plugin"
     },
     {
@@ -26353,6 +26377,10 @@
     {
       "full_name": "niuhuoshan/dsh-connect",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "niuhuoshan/launch-wechat-miniprogram",
+      "verdict": "skill"
     },
     {
       "full_name": "niuniu-869/dsh-plugin-cas-kb",
@@ -33615,6 +33643,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "SleepEggTart/dsh-mbti-jury",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "sleepinginsummer/dsh-fff",
       "verdict": "cordis-plugin"
     },
@@ -33740,6 +33772,10 @@
     },
     {
       "full_name": "SMOKTEA/dsh-chartlab",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "SMWHff/dsh-delete-session",
       "verdict": "bundle-plugin"
     },
     {
@@ -36421,6 +36457,10 @@
     {
       "full_name": "Tinzlu/dsh-review",
       "verdict": "skill"
+    },
+    {
+      "full_name": "tiphareth0/dsh-sshworkspaces",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "tipoLi5890/dsh-file-mention",
@@ -43607,6 +43647,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "VincentJiang06/dsh-mp-automator",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "VincentJiang06/dsh-wechatmpdev",
       "verdict": "cordis-plugin"
     },
@@ -47657,6 +47701,10 @@
     {
       "full_name": "xiongjiamu/dsh-gitmodules-dir",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "xipian1216/dsh-aa-bridge",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "xisheng687/dsh-grok-subscription",
