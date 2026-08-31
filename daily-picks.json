@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T10:58:27.389Z",
+  "generated_at": "2026-08-31T19:13:30.856Z",
   "count": 8,
   "picks": [
     {
@@ -39,9 +39,9 @@
       "reason": "记忆知识 · 人工验证通过 · 近期更新活跃"
     },
     {
-      "full_name": "superboy911/dsh-model-router",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "songoao25/dsh-chatgpt-subscription",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
