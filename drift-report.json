@@ -1,76 +1,13 @@
 {
-  "generated_at": "2026-09-01T14:38:52.273Z",
-  "count": 10,
+  "generated_at": "2026-09-01T19:21:07.754Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "nutshellai-tech/mobius",
+      "full_name": "yxv1203-collab/dsh-conversation-archive",
       "previous": "conversation",
-      "current": "agent",
-      "desc_now": "The first self-evolving open-source Agent OS, connecting your team, AI agents, devices, and compute",
-      "desc_prev": "The first self-evolving open-source Agent OS, connecting your team, AI agents, devices, and compute"
-    },
-    {
-      "full_name": "seriousz158/dsh-memory",
-      "previous": "coding",
-      "current": "memory",
-      "desc_now": null,
-      "desc_prev": null
-    },
-    {
-      "full_name": "dhicoc/dsh-reverse-skill",
-      "previous": "tool",
-      "current": "resource",
-      "desc_now": "Complete reverse-skill (87 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
-      "desc_prev": "Complete reverse-skill (87 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack."
-    },
-    {
-      "full_name": "xuedai-mayi/dsh-wenshan",
-      "previous": "coding",
-      "current": "vision",
-      "desc_now": "问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目",
-      "desc_prev": "问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目"
-    },
-    {
-      "full_name": "HuanLinOTO/dsh-plugin-mineru",
-      "previous": "coding",
-      "current": "document",
-      "desc_now": "向模型暴露 MinerU 文档解析工具，将 PDF/图片/DOCX/PPTX/XLSX 转为结构化 Markdown/JSON | Exposes MinerU document-parsing tools to the model, converting PDF/images/DOCX/PPTX/XLSX into structured Markdown/JSON",
-      "desc_prev": "向模型暴露 MinerU 文档解析工具，将 PDF/图片/DOCX/PPTX/XLSX 转为结构化 Markdown/JSON | Exposes MinerU document-parsing tools to the model, converting PDF/images/DOCX/PPTX/XLSX into structured Markdown/JSON"
-    },
-    {
-      "full_name": "sailoumili/novel-writer",
-      "previous": "desktop",
-      "current": "agent",
-      "desc_now": "小说创作模式：一个统筹队长统领全局，5 个专职子代理各司其职——架构世界、策划剧情、管理人物、执笔写文、质检复核——协同写作。",
-      "desc_prev": "小说创作模式：一个统筹队长统领全局，5 个专职子代理各司其职——架构世界、策划剧情、管理人物、执笔写文、质检复核——协同写作。"
-    },
-    {
-      "full_name": "Meredith2328/dsh-sticky-note",
-      "previous": "resource",
-      "current": "memory",
-      "desc_now": "左下角便签：随手记点子/感想/TODO，实时保存到归档目录，清单+悬浮归档",
-      "desc_prev": "左下角便签：随手记点子/感想/TODO，实时保存到归档目录，清单+悬浮归档"
-    },
-    {
-      "full_name": "v587d/dsh-opencode-go-usage",
-      "previous": "agent",
-      "current": "web-ui",
-      "desc_now": "A DeepSeek Harness (dsh) bundle that shows OpenCode Go subscription usage in the Web GUI's composer dock — the same seat as the built-in conversation stats line.",
-      "desc_prev": "A DeepSeek Harness (dsh) bundle that shows OpenCode Go subscription usage in the Web GUI's composer dock — the same seat as the built-in conversation stats line."
-    },
-    {
-      "full_name": "shiningsprk-arch/dsh-context-viewer",
-      "previous": "resource",
-      "current": "other",
-      "desc_now": null,
-      "desc_prev": null
-    },
-    {
-      "full_name": "RaulLazaro/dsh-pwa-plugin",
-      "previous": "web-ui",
-      "current": "other",
-      "desc_now": "PWA plugin for DeepSeek Harness — adds offline support and install-as-app capability",
-      "desc_prev": "PWA plugin for DeepSeek Harness — adds offline support and install-as-app capability with service worker, manifest, and official DeepSeek icons."
+      "current": "tool",
+      "desc_now": "Native archive, retention, safe deletion, and verified backup management for DeepSeek Harness.",
+      "desc_prev": "DeepSeek Harness workspace and archived conversation manager for Windows"
     }
   ]
 }
