@@ -4467,6 +4467,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "BertramWang12399/dsh-projects-mode",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "bescriptkiddie/dsh-wechat-collector",
       "verdict": "bundle-plugin"
     },
@@ -13279,6 +13283,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-kanban",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-key-rotation",
       "verdict": "cordis-plugin"
     },
@@ -14089,6 +14097,10 @@
     {
       "full_name": "HanneLEE/dsh-agent-state",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "hanrr92/dsh-code-quote",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hanshanxue83/collaborative-emergent-intelligence",
@@ -16009,6 +16021,10 @@
     {
       "full_name": "iamzcr/dsh-obsidian-assistant",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ian00005/you-know-nothing",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ianho7/dsh-port-inspector",
@@ -24487,6 +24503,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "MEMZ-Edge01/GrokBot_in_DeepseekHerness",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "MEMZ-JZY/DSH-Claude-Style-Reasoning-Slider",
       "verdict": "cordis-plugin"
     },
@@ -30695,6 +30715,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "redfox-data/redfox-skill-gallery",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "RedreamR/dsh-remote-access",
       "verdict": "cordis-plugin"
     },
@@ -30817,6 +30841,10 @@
     {
       "full_name": "reshuibuduo/tmcra-memory",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "reshuibuduo/tmcra-plugin-deepseek-harness",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ret-c1/DeepSeek-Harness-Tutorial-Notes",
@@ -31708,6 +31736,10 @@
     },
     {
       "full_name": "sandersyao/dsh-plugin-ui-session-fork",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "sandersyao/dsh-session-persistence-mysql",
       "verdict": "cordis-plugin"
     },
     {
@@ -33631,6 +33663,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "sidrandom/deepseek-memory-capsule",
+      "verdict": "manual"
+    },
+    {
       "full_name": "siegfly/dsh-deepseek-vision",
       "verdict": "cordis-plugin"
     },
@@ -35107,12 +35143,20 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "statem-li/dsh-done-pill",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "statem-li/dsh-image-gallery",
       "verdict": "cordis-plugin"
     },
     {
       "full_name": "statem-li/dsh-session-message-nav",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "statem-li/dsh-think-tools",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "statem-li/dsh-tool-summary",
@@ -36729,6 +36773,10 @@
     {
       "full_name": "tianji-qingtian/dsh-spec-loop",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "tianjiqx/dsh-agentobs",
+      "verdict": "manual"
     },
     {
       "full_name": "tianjiqx/dsh-wigolo",
@@ -44459,6 +44507,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Waldsatte/dsh-theme-taojian",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "walkinglabs/awesome-deepseek-harness-plugins",
       "verdict": "manual"
     },
@@ -48631,6 +48683,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "xusuyang030218/dsh-skill-ui",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xuviga/dsh-plugin-mnemosyne",
       "verdict": "pkg-plain"
     },
@@ -48769,6 +48825,10 @@
     {
       "full_name": "xzy-jason/dsh-chinese-search",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "xzyonline/dsh-chat-files",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "xzyonline/dsh-file-attachments",
