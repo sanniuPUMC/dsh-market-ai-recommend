@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T19:13:30.639Z",
+  "generated_at": "2026-09-01T00:05:33.738Z",
   "counts": {
-    "bundle-plugin": 2410,
+    "bundle-plugin": 2417,
     "cordis-plugin": 7811,
     "pkg-plain": 984,
     "manual": 712,
@@ -1977,6 +1977,10 @@
     {
       "full_name": "Aik358/dsh-draw-gacha",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Aik358/dsh-literature",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "AikenFra/dsh-alive",
@@ -6723,6 +6727,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "chrisx9z/dsh-chat-share",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ChrisZhangWG/dsh-codex-meter",
       "verdict": "cordis-plugin"
     },
@@ -10565,6 +10573,10 @@
     {
       "full_name": "Equinox7379/dsh-update-radar",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "erdholion/dsh-loop-guard",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "erduotong/dsh-plugin-graph",
@@ -17727,6 +17739,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "joao-paulo-santos/dsh-wo-tmux",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "joao-paulo-santos/dsh-workspace-history",
       "verdict": "bundle-plugin"
     },
@@ -18548,6 +18564,10 @@
     },
     {
       "full_name": "jwilson411/dsh-ssrf-guard",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jwilson411/dsh-tool-quota",
       "verdict": "bundle-plugin"
     },
     {
@@ -47391,6 +47411,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "xiaokaizhou/dsh-llm-multimodal",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xiaokaizhou/dsh-media-preview",
       "verdict": "bundle-plugin"
     },
@@ -48425,6 +48449,10 @@
     {
       "full_name": "xxxyz/DeepSeekHarness-MCP-Manager",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Xyanxhu/kilo2dsh",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "xyidong/deepseek-usage-info-check",

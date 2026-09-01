@@ -1,47 +1,47 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T19:13:30.856Z",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T00:05:33.881Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Dominic789654/awesome-deepseek-harness",
-      "category": "resource",
-      "reason": "聚合资源 · 高星社区精选 · 近期更新活跃"
+      "full_name": "penguin-oo/dsh-delegate-router",
+      "category": "agent",
+      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Physicolor/dsh-widgets",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "EugeneVl/dsh_session_folders",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "vshulcz/deja-vu",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "shimingming520/dsh-conversation-process-collapse",
+      "full_name": "sunshaobei/dsh-input-history",
       "category": "conversation",
       "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "labring/sealos-skills",
-      "category": "vision",
-      "reason": "视觉多模态 · 近期更新活跃"
+      "full_name": "988hj7tczd-oss/harness-desktop",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "mnemon-dev/mnemon",
+      "full_name": "beiyege-01/dsh-voice-ai-girlfriend-plugin",
+      "category": "media",
+      "reason": "音视频 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "plur-ai/dsh-plugin",
       "category": "memory",
-      "reason": "记忆知识 · 人工验证通过 · 近期更新活跃"
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "songoao25/dsh-chatgpt-subscription",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "zhifengjiang/dsh-hover-archive",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "YMRYMR/deepseek-peak",
+      "category": "web-ui",
+      "reason": "界面美化 · 近期更新活跃"
+    },
+    {
+      "full_name": "834063245-creator/HoloGram",
+      "category": "coding",
+      "reason": "开发编码 · 近期更新活跃"
     }
   ]
 }
