@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T19:33:12.686Z",
+  "generated_at": "2026-09-02T22:39:02.772Z",
   "counts": {
-    "bundle-plugin": 2669,
+    "bundle-plugin": 2673,
     "cordis-plugin": 7829,
     "pkg-plain": 1017,
-    "manual": 730,
+    "manual": 731,
     "script": 233,
     "skill": 378,
     "multi-plugin": 417,
@@ -12251,6 +12251,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "FourTow/dsh-theme-win98",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "foxi-ui/dsh-command-vscode",
       "verdict": "cordis-plugin"
     },
@@ -13576,6 +13580,10 @@
     },
     {
       "full_name": "GooDAnDReaDY/dsh-russian-lang",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-shadow-auditor",
       "verdict": "bundle-plugin"
     },
     {
@@ -19887,6 +19895,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Kihara777/NixKits",
+      "verdict": "manual"
+    },
+    {
       "full_name": "kiim-wong/dsh-push",
       "verdict": "cordis-plugin"
     },
@@ -24963,6 +24975,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "mekos2772/dsh-plugin-mimi",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "mel0nyrame/deepseek-harness-desktop",
       "verdict": "pkg-plain"
     },
@@ -27356,6 +27372,10 @@
     },
     {
       "full_name": "NinjaSln-labs/dsh-context-compass",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "NinjaSln-labs/dsh-subagent-router",
       "verdict": "bundle-plugin"
     },
     {
