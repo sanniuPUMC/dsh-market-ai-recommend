@@ -1999,6 +1999,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "aijunjiang/dsh-remote-ssh",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "Aik358/dsh-anchored-monitor",
       "verdict": "cordis-plugin"
     },
@@ -5429,6 +5433,10 @@
     {
       "full_name": "BubblePtr/dsh-holdem",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "buchylx/create-dsh-content-plugin",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "bufeibufei/dsh-openai-codex",
@@ -10017,6 +10025,10 @@
     {
       "full_name": "dsh-research/dsh-research",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "dsh-ssh/dsh-ssh",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "dsh-tui-ecosystem/dsh-code-memory",
@@ -15895,6 +15907,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "huhaodong/dsh-auto-driving",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "HuiHuitie-zhu/dsh-check-update",
       "verdict": "cordis-plugin"
     },
@@ -17803,6 +17819,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "JimingYang25/Lafeng-UI-A-snazzy-personalized-custom-UI-plugin-for-DeepSeek-Harness-Cordis",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "JimingYang25/Lafeng-UI-A-snazzy-personalized-custom-UI-plugin-for-DeepSeek-Harness-Cordis-.",
       "verdict": "cordis-plugin"
     },
@@ -19363,6 +19383,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "KDronin/dsh-folder",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "KDronin/dsh-tray",
       "verdict": "pkg-plain"
     },
@@ -19541,6 +19565,10 @@
     {
       "full_name": "kevin-luo/dsh-org-panel",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Kevin66Z0/dsh-telegram",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Kevin87654/dsh-away-notify",
@@ -24211,6 +24239,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "MarchLiu/dsh-farm",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MarchLiu/dsh-rich-editor",
       "verdict": "cordis-plugin"
     },
@@ -25577,6 +25609,10 @@
     {
       "full_name": "MkaliezZ/dsh-task-board",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "MkaliezZ/dsh-test-normalizer",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "MkaliezZ/dsh-test-runner",
@@ -34269,6 +34305,10 @@
     {
       "full_name": "SipengXie2024/dsh-memory-hermes",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "SipengXie2024/dsh-rewind",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "SipengXie2024/dsh-session-topics",
@@ -46251,6 +46291,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "windfollowingheart/x-cli",
+      "verdict": "manual"
+    },
+    {
       "full_name": "winditer/dsh-elf",
       "verdict": "cordis-plugin"
     },
@@ -50193,6 +50237,10 @@
     {
       "full_name": "Yinbenfeng/dsh-plugin-quick-draw-Tool-",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "yindf/taskfold",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "YinFengWindy/dsh-plugin-shiori-role",
