@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T22:39:20.478Z",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T08:42:33.175Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "penguin-oo/dsh-delegate-router",
-      "category": "agent",
-      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "ChuanTianML/dsh-local-share",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "sunshaobei/dsh-input-history",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "988hj7tczd-oss/harness-desktop",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "beiyege-01/dsh-voice-ai-girlfriend-plugin",
-      "category": "media",
-      "reason": "音视频 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "plur-ai/dsh-plugin",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "zhifengjiang/dsh-hover-archive",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "YMRYMR/deepseek-peak",
+      "full_name": "mexiaosqwq/dsh-web-mobile",
       "category": "web-ui",
       "reason": "界面美化 · 近期更新活跃"
     },
     {
-      "full_name": "834063245-creator/HoloGram",
+      "full_name": "bwndlct/dsh-session-audit",
+      "category": "agent",
+      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "LaoYueHanNi/dsh-token-usage",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "category": "coding",
+      "reason": "开发编码 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "Hudson-Junior-Wang/dsh-search-switcher",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Viy1204/recruiting-copilot",
       "category": "coding",
       "reason": "开发编码 · 近期更新活跃"
+    },
+    {
+      "full_name": "PerryLink/dsh-memento",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
