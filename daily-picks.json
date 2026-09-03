@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T03:09:35.405Z",
+  "generated_at": "2026-09-03T08:51:28.463Z",
   "count": 8,
   "picks": [
     {
@@ -29,11 +29,6 @@
       "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "FuzzySoul/dsh-chatvoice",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
       "full_name": "shaokeyibb/dsh-plugin-product-subagents",
       "category": "agent",
       "reason": "Agent 自动化 · 近期更新活跃"
@@ -42,6 +37,11 @@
       "full_name": "fredalxin/dsh-solo-thinking",
       "category": "notify",
       "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-tool-regex",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
