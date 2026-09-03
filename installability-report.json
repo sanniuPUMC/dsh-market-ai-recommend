@@ -7503,6 +7503,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "codeMonkey-Pine/dsh-wallpaper",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "CodePrometheus/dsh-observability",
       "verdict": "cordis-plugin"
     },
@@ -8737,6 +8741,10 @@
     {
       "full_name": "ddll8023/dsh-access-mode",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ddll8023/dsh-rewind",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "DDSG-X/dsh-workspace-dir",
@@ -14701,6 +14709,10 @@
     {
       "full_name": "Harzva/dsh-session-context-menu",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Harzva/dsh-session-folders",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Harzva/dsh-uvm",
@@ -25283,6 +25295,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "MerlinShieh/Agent-skill-wechatPush",
+      "verdict": "skill"
+    },
+    {
       "full_name": "MerlinShieh/AgentMemHub",
       "verdict": "pkg-plain"
     },
@@ -27529,6 +27545,10 @@
     {
       "full_name": "NinjaSln-labs/dsh-knowledge-sqlite",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "NinjaSln-labs/dsh-plugins",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "NinjaSln-labs/dsh-session-slm-router",
@@ -34803,6 +34823,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "SiriusNEO/StarAgent",
+      "verdict": "manual"
+    },
+    {
       "full_name": "SiriusWJ/dsh-lite-memory",
       "verdict": "cordis-plugin"
     },
@@ -38041,6 +38065,10 @@
     {
       "full_name": "Tinzlu/dsh-review",
       "verdict": "skill"
+    },
+    {
+      "full_name": "tiphareth0/dsh-hardssh",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "tiphareth0/dsh-sshworkspaces",
@@ -44995,6 +45023,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "uuhihj/task-progress-bar",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "uwu9039/dsh-airbag",
       "verdict": "cordis-plugin"
     },
@@ -48751,6 +48783,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "xia-sc/dsh-git",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xiagaogaozi/dsh-silly-plugin",
       "verdict": "cordis-plugin"
     },
@@ -51855,6 +51891,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "yyh-001/dsh-launcher",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "yyh-001/dsh-meme",
       "verdict": "cordis-plugin"
     },
@@ -52516,6 +52556,10 @@
     },
     {
       "full_name": "zhan-tz/dsh-plugin-runbook",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ZhanboHua/dsh-pet",
       "verdict": "cordis-plugin"
     },
     {
@@ -53861,6 +53905,10 @@
     {
       "full_name": "zsxh1990/pr-genius",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "zsxian11/dsh-flywheel",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "zsyayo112/dsh-rick-and-morty",
