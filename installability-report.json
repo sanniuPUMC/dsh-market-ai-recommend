@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-03T19:30:23.874Z",
+  "generated_at": "2026-09-03T22:37:30.105Z",
   "counts": {
-    "bundle-plugin": 2777,
+    "bundle-plugin": 2779,
     "cordis-plugin": 7834,
-    "pkg-plain": 1037,
+    "pkg-plain": 1038,
     "manual": 738,
     "script": 235,
     "skill": 380,
     "multi-plugin": 422,
-    "gone": 51,
+    "gone": 52,
     "agent-preset": 48,
     "unknown": 55,
     "empty": 15
@@ -16749,6 +16749,10 @@
     {
       "full_name": "ilharp/dsh-tool-approval",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ilovedyou6666-hub/dshtools-sensevoice-input",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "iloveyanjialin1314/matlab-assistant",
@@ -47351,6 +47355,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "WLV-ZEDD/dsh-btw",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wly8691-jpg/dsh-office-com",
       "verdict": "bundle-plugin"
     },
@@ -47769,6 +47777,10 @@
     {
       "full_name": "wusai2333/YierPet",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "wushu75/conceptnet-dsh-plugin",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "wutian122/dsh-remote-shell",
@@ -53697,6 +53709,10 @@
     {
       "full_name": "ZIye1208/dsh-approval-voice",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ZIye1208/dsh-github-mcp-hint",
+      "verdict": "gone"
     },
     {
       "full_name": "ziyou979/dsh-llm-oauth",
