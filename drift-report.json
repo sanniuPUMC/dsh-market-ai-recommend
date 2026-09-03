@@ -1,55 +1,34 @@
 {
-  "generated_at": "2026-09-03T08:39:27.143Z",
-  "count": 7,
+  "generated_at": "2026-09-03T14:16:12.953Z",
+  "count": 4,
   "items": [
     {
-      "full_name": "Altairpaca/dshelm",
-      "previous": "agent",
-      "current": "model",
-      "desc_now": "Evidence-backed, explainable multi-model routing for DeepSeek Harness — policy resolution, provenance, and compatibility boundaries.",
-      "desc_prev": "DSHelm — DeepSeek Harness 的可解释多模型调度层。Chinese-first, DSH-native, evidence-backed."
-    },
-    {
-      "full_name": "ppy-web/dsh-plugin-xiaomi-mimo-tts",
-      "previous": "media",
-      "current": "tool",
-      "desc_now": "给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文",
-      "desc_prev": "给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义声音朗读正文"
-    },
-    {
-      "full_name": "kenny2077/dsh-web-search-zai",
+      "full_name": "rison114514/dsh-endfield-ui",
       "previous": "tool",
       "current": "coding",
-      "desc_now": "GLM/ZAI web search for DeepSeek Harness: Coding Plan quota or REST API billing",
-      "desc_prev": "One ZAI_API_KEY for both chat and search — plug-and-play Z.ai (GLM) web search for the DeepSeek Harness."
+      "desc_now": "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui",
+      "desc_prev": "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui"
     },
     {
-      "full_name": "zaizaizhao/dsh-branchmark",
-      "previous": "memory",
-      "current": "coding",
-      "desc_now": "While vibe coding, save an answer you may need later, use Side Chat for a question that suddenly comes up, or open a related conversation for deeper work without losing focus on the current task.",
-      "desc_prev": "为开发者提供重点知识摘录、可追溯 Session 树和注意力分叉，让主 Session 始终专注于当前目标，让每条支线都能找回来源，让 Vibe Coding 告别注意力丢失。"
-    },
-    {
-      "full_name": "nataliwhite20534-droid/dsh-xhs-collector",
+      "full_name": "plolpl789/dsh-raw-html",
       "previous": "tool",
-      "current": "memory",
-      "desc_now": "XHS batch collector via CDP Chrome + residential IP. Real case study: 8 keywords, 500+ notes. docs/case-study.md",
-      "desc_prev": "小红书批量搜索抓取工具 — 住宅 IP + CDP 真实 Chrome 指纹，批量关键词搜索，去重 + 结构化输出。为 DSH AI Agent 打造的 XHS 数据采集方案。"
+      "current": "web-ui",
+      "desc_now": "VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment",
+      "desc_prev": "VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment"
     },
     {
-      "full_name": "nataliwhite20534-droid/dsh-4-role-workflow",
-      "previous": "coding",
-      "current": "tool",
-      "desc_now": "4-agent workflow (PM + Browser + Programmer + DataEng) for complex DSH tasks. Real run in docs/run-example.md.",
-      "desc_prev": "DSH 4 角色 Agent 工作流 — PM + 浏览器使用者 + 编程专家 + 数据工程师，协作完成复杂 AI 任务。"
-    },
-    {
-      "full_name": "nataliwhite20534-droid/dsh-moe-plugin",
-      "previous": "conversation",
+      "full_name": "XMoon/dsh-pi-tui",
+      "previous": "model",
       "current": "other",
-      "desc_now": "10 preset moe character cards for DSH - freely combinable, editable, persistable. Real outputs in docs/usage-examples.md.",
-      "desc_prev": "萌属性 Persona 系统 — 10 种预设萌属性卡片，支持自由组合、自定义编辑、持久化 persona 存储。为 DSH 对话生成预设 system prompt。"
+      "desc_now": "A third-party TUI mode for DeepSeek Harness (dsh), built on a vendored fork of pi-tui",
+      "desc_prev": "A third-party TUI mode for DeepSeek Harness (dsh), built on a vendored fork of pi-tui"
+    },
+    {
+      "full_name": "STARDUSTLC666/dsh-suite",
+      "previous": "document",
+      "current": "resource",
+      "desc_now": "STARDUSTLC 插件全家桶（聚合安装包，不提供独立工具）：一条命令装入 18 个 DSH 插件。18 个插件已在 DeepSeek Harness v0.1.2-alpha.5 同载验证。The STARDUSTLC plugin suite: 18 DSH plugins, one command.",
+      "desc_prev": "STARDUSTLC 插件全家桶：一条命令装入 18 个 DSH 插件（办公流/媒体工坊/DevOps/做梦）。The STARDUSTLC plugin suite: 18 DSH plugins, one command."
     }
   ]
 }
