@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-02",
-  "generated_at": "2026-09-02T22:39:02.940Z",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T03:09:35.405Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "ChuanTianML/dsh-local-share",
+      "full_name": "Isanti2016/dsh-quicksight",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "jhuanxx44/dsh-paste-path",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "mexiaosqwq/dsh-web-mobile",
-      "category": "web-ui",
-      "reason": "界面美化 · 近期更新活跃"
-    },
-    {
-      "full_name": "bwndlct/dsh-session-audit",
-      "category": "agent",
-      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "LaoYueHanNi/dsh-token-usage",
+      "full_name": "CH4ACKO3/bites-the-dsh",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "category": "coding",
-      "reason": "开发编码 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "Hudson-Junior-Wang/dsh-search-switcher",
+      "full_name": "FeiZhuNiU-INFJA/dsh-stock-ticker",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Viy1204/recruiting-copilot",
-      "category": "coding",
-      "reason": "开发编码 · 近期更新活跃"
+      "full_name": "Luke-Yong/dsh-plugin-project-management",
+      "category": "document",
+      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "PerryLink/dsh-memento",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "FuzzySoul/dsh-chatvoice",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "shaokeyibb/dsh-plugin-product-subagents",
+      "category": "agent",
+      "reason": "Agent 自动化 · 近期更新活跃"
+    },
+    {
+      "full_name": "fredalxin/dsh-solo-thinking",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
