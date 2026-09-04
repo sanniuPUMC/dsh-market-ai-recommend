@@ -1,20 +1,48 @@
 {
-  "generated_at": "2026-09-04T08:35:12.763Z",
-  "count": 2,
+  "generated_at": "2026-09-04T14:07:19.782Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "BeforeWave/dsh-with-chatgpt",
-      "previous": "conversation",
-      "current": "tool",
-      "desc_now": "Let ChatGPT in your browser work directly with your local project — and hand work off to DSH when needed.",
-      "desc_prev": "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH."
+      "full_name": "liangmianya/dsh-synapse",
+      "previous": "web-ui",
+      "current": "conversation",
+      "desc_now": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "desc_prev": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness."
     },
     {
-      "full_name": "gongyijie85/dsh-agent-frugality",
-      "previous": "agent",
-      "current": "model",
-      "desc_now": "Multi-agent frugality defense plugin for DeepSeek Harness: read-ledger dedup, compaction-immune rules, completion gate, cheap-review lane.",
-      "desc_prev": "Multi-agent frugality defense plugin for DeepSeek Harness: read-ledger dedup, compaction-immune rules, completion gate, cheap-review lane."
+      "full_name": "zuorn/Tydora",
+      "previous": "tool",
+      "current": "document",
+      "desc_now": "Let Your Ideas Flow — Tydora is a modern desktop Markdown editor combining WYSIWYG editing, bidirectional links, mind maps, and an infinite canvas — empowering deep thinking and effortless expression.",
+      "desc_prev": "Let Your Ideas Flow — Tydora is a modern desktop Markdown editor combining WYSIWYG editing, bidirectional links, mind maps, and an infinite canvas — empowering deep thinking and effortless expression."
+    },
+    {
+      "full_name": "Lyn-77/ProMentor",
+      "previous": "conversation",
+      "current": "coding",
+      "desc_now": "ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。",
+      "desc_prev": "ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。"
+    },
+    {
+      "full_name": "dream12347/dsh-session-manager",
+      "previous": "coding",
+      "current": "resource",
+      "desc_now": "DSH 会话管理插件：删除（回收站恢复/彻底清除）、统计、继续/暂停、打开日志目录、对话顶部抽屉、工作区分组与排序、上下文压缩阈值设置。DSH session manager: delete with trash/restore/purge, stats, continue/pause, log folder, header drawer, workspace grouping, context compaction threshold.",
+      "desc_prev": "DSH 会话管理插件：删除（回收站恢复/彻底清除）、统计、继续/暂停、打开日志目录、对话顶部抽屉、工作区分组与排序、上下文压缩阈值设置。DSH session manager: delete with trash/restore/purge, stats, continue/pause, log folder, header drawer, workspace grouping, context compaction threshold."
+    },
+    {
+      "full_name": "amlyczz/dsh-agy-link",
+      "previous": "web-ui",
+      "current": "tool",
+      "desc_now": "Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login",
+      "desc_prev": "Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login"
+    },
+    {
+      "full_name": "mrbbbaixue/dsh-desktop",
+      "previous": "web-ui",
+      "current": "desktop",
+      "desc_now": ".NET WPF + WebView2 desktop launcher for DeepSeek Harness (dsh): managed child process, tray controls, HiDPI",
+      "desc_prev": ".NET 10 WPF + WebView2 desktop launcher for DeepSeek Harness (dsh): managed child process, tray controls, HiDPI, native title bar theme following"
     }
   ]
 }
