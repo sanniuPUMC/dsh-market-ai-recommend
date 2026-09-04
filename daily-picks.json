@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T22:37:30.252Z",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T03:03:59.954Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Isanti2016/dsh-quicksight",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "jhuanxx44/dsh-paste-path",
+      "full_name": "boogoo619/dsh-focus-overlay",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "CH4ACKO3/bites-the-dsh",
+      "full_name": "Physicolor/dsh-widgets",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "FeiZhuNiU-INFJA/dsh-stock-ticker",
+      "full_name": "chendefine/dsh-web-search-aggregation",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Luke-Yong/dsh-plugin-project-management",
-      "category": "document",
-      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "xobexo/dsh-smart-scenario-router",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "shaokeyibb/dsh-plugin-product-subagents",
+      "full_name": "MAXeaglet/dsh-bash-terminal",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "STARDUSTLC666/dsh-dream",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "SiriusNEO/StarAgent",
       "category": "agent",
       "reason": "Agent 自动化 · 近期更新活跃"
     },
     {
-      "full_name": "fredalxin/dsh-solo-thinking",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "omdsh-dev/dsh-tool-regex",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "young-tim/dsh-llm-governor",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T22:37:30.105Z",
+  "generated_at": "2026-09-04T03:03:59.815Z",
   "counts": {
-    "bundle-plugin": 2779,
+    "bundle-plugin": 2786,
     "cordis-plugin": 7834,
-    "pkg-plain": 1038,
+    "pkg-plain": 1040,
     "manual": 738,
     "script": 235,
     "skill": 380,
@@ -15571,6 +15571,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "hongbaiqi/dsh-model-account-login",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Hongcheng-LI/dsh-scientific",
       "verdict": "pkg-plain"
     },
@@ -17089,6 +17093,10 @@
     {
       "full_name": "islibaodong/dsh-login",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Islulua/dsh-code-navigator",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "ismoss/dsh-harness-zh-l10n",
@@ -23979,6 +23987,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "luoxunhao/dsh-codex-project",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "luoyan96/deepseek-harness-desktop",
       "verdict": "pkg-plain"
     },
@@ -25433,6 +25445,10 @@
     {
       "full_name": "Meredith2328/dsh-sticky-note",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "merenguesL/dsh-tool-normalizer",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "MerlinShieh/Agent-skill-wechatPush",
@@ -31023,6 +31039,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "qiqiangvae/dsh-newbe-plugins",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "qiqiangvae/dsh-obsidian",
       "verdict": "bundle-plugin"
     },
@@ -34735,6 +34755,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "shlouai/dsh-debate",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Shmilyol/galgame-skin",
       "verdict": "manual"
     },
@@ -37143,6 +37167,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "sxy-kumako/dsh-better-model-select",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SyamStud/dsh-opencode-usage",
       "verdict": "cordis-plugin"
     },
@@ -38233,6 +38261,10 @@
     {
       "full_name": "TindalosKorone/dsh-cheatengine",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "tingao/dsh-peaktime-clock",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Tinger-X/dsh-session-enhance",
@@ -46517,6 +46549,10 @@
     {
       "full_name": "weivwang/dsh-stack",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "weiwang988/dsh-session-spend",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "weixshaw/dsh-plugin-task-runner",
