@@ -34,14 +34,14 @@
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     },
     {
+      "full_name": "memorylake-ai/memorylake-harness",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
       "full_name": "SiriusNEO/StarAgent",
       "category": "agent",
       "reason": "Agent 自动化 · 近期更新活跃"
-    },
-    {
-      "full_name": "young-tim/dsh-llm-governor",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

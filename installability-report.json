@@ -5555,6 +5555,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "bug-huntter/dsh-vision-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "bugmaker2/dsh-plugin-template",
       "verdict": "cordis-plugin"
     },
@@ -7257,6 +7261,10 @@
     {
       "full_name": "CJYLZS/dsh-opencode-go-autosync",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "CJYLZS/dsh-remote-development",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "cjz-wr/agent-engineering-workflow",
@@ -16131,6 +16139,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Huauauaa/dsh-privacy-mask",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Huauauaa/privacy",
       "verdict": "cordis-plugin"
     },
@@ -16201,6 +16213,10 @@
     {
       "full_name": "Hudson-Junior-Wang/dsh-search-switcher",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "huenjie/dsh-paste-collapse",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "huermi/dsh-deepseek-web-adapter",
@@ -17597,6 +17613,10 @@
     {
       "full_name": "jay-chen-1102/dsh-vscode-layout",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "jaychouu/see_the_screen",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "Jayden-X-L/forkprobe",
@@ -22169,6 +22189,10 @@
     {
       "full_name": "libaie/onboard-dsh-projects",
       "verdict": "skill"
+    },
+    {
+      "full_name": "libinghui55/dsh-tavily-search",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "libinyam/dsh-experts",
@@ -27349,6 +27373,10 @@
     {
       "full_name": "nataliwhite20534-droid/dsh-xhs-collector",
       "verdict": "manual"
+    },
+    {
+      "full_name": "nateEc/dsh-gitLens",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Nath-Vikky/dsh-codekin",
@@ -34759,6 +34787,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "shinjiyu/dsh-plugin-search",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "shinjiyu/holdem",
       "verdict": "pkg-plain"
     },
@@ -35225,6 +35257,10 @@
     {
       "full_name": "siweina/dsh-novel-writer",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Six6stRINgs/dsh-client-ui-thinking-stats",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "sixtysevenlf/dsh-balance-window",
@@ -35857,6 +35893,10 @@
     {
       "full_name": "SongChengMing1/dsh-news",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "SongMiao-tech/dsh-prompt-optimizer",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "songoao25/bottom-info-bar",
@@ -38988,6 +39028,10 @@
     },
     {
       "full_name": "TT-Wang/dsh-cron",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "TT-Wang/dsh-eval-infra",
       "verdict": "cordis-plugin"
     },
     {
@@ -47319,6 +47363,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "winston-hoo/dsh-novel-craft",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "winston-hoo/dsh-spec-forge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Winter-And-You-Gone/dsh-deep-verbs",
       "verdict": "cordis-plugin"
     },
@@ -49191,6 +49243,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "xia-sc/dsh-opencode-go",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xiagaogaozi/dsh-silly-plugin",
       "verdict": "cordis-plugin"
     },
@@ -50691,6 +50747,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "yangbobo2021/relay-dsh-plugin-skill-creator",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "yangbobo2021/relay-dsh-plugin-terminal",
       "verdict": "bundle-plugin"
     },
@@ -51857,6 +51917,10 @@
     {
       "full_name": "yuanc1204/dsh-multi-selection-comments",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "yuandian-ailaw/yuandian_dsh_plugin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Yuanlang3/dsh-netease-music-plugin",
