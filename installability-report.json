@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T17:52:36.071Z",
+  "generated_at": "2026-09-04T20:36:37.038Z",
   "counts": {
-    "bundle-plugin": 2873,
+    "bundle-plugin": 2881,
     "cordis-plugin": 7841,
     "pkg-plain": 1046,
     "manual": 743,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 426,
+    "multi-plugin": 427,
     "gone": 52,
     "agent-preset": 48,
     "unknown": 55,
@@ -2979,6 +2979,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Anionex/dsh-smarter-edit",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Anionex/dsh-suggested-replies",
       "verdict": "cordis-plugin"
     },
@@ -4712,6 +4716,10 @@
     },
     {
       "full_name": "BharathBillawa/dsh-tool-ddgs",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "BHX-WL/dsh-approval-reminder",
       "verdict": "bundle-plugin"
     },
     {
@@ -6893,6 +6901,10 @@
     {
       "full_name": "chinosk6/dsh-roleplay",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "chiphoton/DeepSeek-Harness-Video-Director",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "chipweaver/veripower",
@@ -9435,6 +9447,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "dingminhua/dsh-sub-cli",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "dingminhua/dsh-subagent-default-model",
       "verdict": "multi-plugin"
     },
@@ -11793,6 +11809,10 @@
     {
       "full_name": "FeatherHunter/dsh-chinese-skill-patch",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "FeatherHunter/dsh-im-companion",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "FeatherHunter/dsh-mattpocock-skills-deck",
@@ -27825,6 +27845,10 @@
     {
       "full_name": "ngk3pori/dsh-zh-cn-ui",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "nguyenduclong-ict/dsh-plugin-live-terminal",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "niaccky/dsh-install-guard",
@@ -46455,6 +46479,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "wangser10032/dsh-model-autoconfig",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wangshunnn/oh-my-dsh",
       "verdict": "pkg-plain"
     },
@@ -46765,6 +46793,10 @@
     {
       "full_name": "wecode-ai/Wegent",
       "verdict": "script"
+    },
+    {
+      "full_name": "Wecury/dsh-owui-chat2api",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "weekitmo/dsh-trace",
@@ -54145,6 +54177,10 @@
     {
       "full_name": "zimzaza4/dsh-bash-win",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "zingzheng/dsh-gb",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zink-ning-lkr/dsh-chat-width",
