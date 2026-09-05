@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-05T20:11:14.093Z",
+  "generated_at": "2026-09-05T22:10:12.674Z",
   "counts": {
-    "bundle-plugin": 2975,
+    "bundle-plugin": 2977,
     "cordis-plugin": 7847,
     "pkg-plain": 1056,
-    "manual": 746,
+    "manual": 747,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 431,
+    "multi-plugin": 432,
     "gone": 52,
     "agent-preset": 49,
     "unknown": 55,
@@ -2111,6 +2111,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "AIMarshallLee/dsh-teacher-preset",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "AIMFllyYS/dsh-operating-context",
       "verdict": "cordis-plugin"
     },
@@ -2565,6 +2569,10 @@
     {
       "full_name": "All3nCN/dsh-qa-suite-N23",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "AllDurham/foreman-dsh",
+      "verdict": "manual"
     },
     {
       "full_name": "allen546/dsh-plugin-genshin-startup",
@@ -19859,6 +19867,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "kaerf15/dsh-geek-ui",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "kagura-agent/dsh-memes",
       "verdict": "cordis-plugin"
     },
@@ -31249,6 +31261,10 @@
     {
       "full_name": "puppet2004/dsh-chatpaper",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "pure-craft/dsh-capability-panel",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "puremapping/dsh-plugin-reading-pipeline",
