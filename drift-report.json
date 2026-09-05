@@ -1,34 +1,27 @@
 {
-  "generated_at": "2026-09-05T13:23:19.173Z",
-  "count": 4,
+  "generated_at": "2026-09-05T16:38:19.278Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "Alex-Yanggg/awesome-DSH-plugin",
+      "full_name": "FeatherHunter/dsh-opencode-palette",
       "previous": "web-ui",
+      "current": "coding",
+      "desc_now": "🎨 为长时间编程而生：34 款 opencode 护眼配色，一键换上 DSH | 34 eye-friendly opencode themes for DeepSeek Harness, one click",
+      "desc_prev": "🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck"
+    },
+    {
+      "full_name": "Vncntvx/dsh-zotero",
+      "previous": "conversation",
+      "current": "tool",
+      "desc_now": "Zotero toolkit for DeepSeek harness; Turn your Zotero library into an evidence store for agents.",
+      "desc_prev": "Turn your Zotero library into an evidence store for agents."
+    },
+    {
+      "full_name": "peiyucn/dsh-sparrow",
+      "previous": "vision",
       "current": "resource",
-      "desc_now": "A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.",
-      "desc_prev": "A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules."
-    },
-    {
-      "full_name": "zebbkira/dsh-skills-mcp-manager",
-      "previous": "desktop",
-      "current": "web-ui",
-      "desc_now": "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。",
-      "desc_prev": "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。"
-    },
-    {
-      "full_name": "sunxin-ai/dsh-design-qa",
-      "previous": "coding",
-      "current": "vision",
-      "desc_now": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision.",
-      "desc_prev": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision."
-    },
-    {
-      "full_name": "jcaiagent7143-ui/linkdigest-mcp",
-      "previous": "tool",
-      "current": "memory",
-      "desc_now": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP.",
-      "desc_prev": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP."
+      "desc_now": "A collection of small DeepSeek Harness (DSH) web plugins.",
+      "desc_prev": "A collection of small DeepSeek Harness (DSH) web plugins: chat input suggestions, an image-vision channel for text-only models, and archived-session management."
     }
   ]
 }
