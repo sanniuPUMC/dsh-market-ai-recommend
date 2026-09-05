@@ -1,27 +1,34 @@
 {
-  "generated_at": "2026-09-05T08:08:15.937Z",
-  "count": 3,
+  "generated_at": "2026-09-05T13:23:19.173Z",
+  "count": 4,
   "items": [
     {
-      "full_name": "cayan0x/Lume",
-      "previous": "other",
-      "current": "memory",
-      "desc_now": "微光 (Lume) — DSH Desktop 增强插件：Codex 风格自适应任务执行协议 + 人设系统（聊天记录蒸馏具名角色、长期记忆、风格纠偏自动捕获）",
-      "desc_prev": "Lume - DSH Desktop persona-switching plugin (loli/senpai/none) with P0-P3 thinking logic"
-    },
-    {
-      "full_name": "gcry13067381632-jpg/dsh-qqbot",
-      "previous": "tool",
+      "full_name": "Alex-Yanggg/awesome-DSH-plugin",
+      "previous": "web-ui",
       "current": "resource",
-      "desc_now": "DSH 接入官方 QQ 机器人增：富媒体收发 · 表情包图库 · 多预设多开 · 定时唤醒 · 远程审批 · 延迟聚合回复 · 自主静默or回复",
-      "desc_prev": "DSH接入腾讯官方qqbot/富媒体/表情包/多开不同预设的机器人/定时消息/远程审批"
+      "desc_now": "A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.",
+      "desc_prev": "A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules."
     },
     {
-      "full_name": "flykit-cc/dsh-flykit",
+      "full_name": "zebbkira/dsh-skills-mcp-manager",
+      "previous": "desktop",
+      "current": "web-ui",
+      "desc_now": "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。",
+      "desc_prev": "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。"
+    },
+    {
+      "full_name": "sunxin-ai/dsh-design-qa",
+      "previous": "coding",
+      "current": "vision",
+      "desc_now": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision.",
+      "desc_prev": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision."
+    },
+    {
+      "full_name": "jcaiagent7143-ui/linkdigest-mcp",
       "previous": "tool",
-      "current": "coding",
-      "desc_now": "flykit for DeepSeek Harness — explorer with live file watch, agent terminals (Claude Code, Pi, Codex), DSH agent tools, a searchable model picker and a Claude-Code-style status line. Fly your agents.",
-      "desc_prev": "FlyKit for DeepSeek Harness — file viewer, live file watch, Claude Code TUI orchestration, and a Claude-Code-style status line. Fly your agents."
+      "current": "memory",
+      "desc_now": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP.",
+      "desc_prev": "MCP server for LinkDigest — turn a Xiaohongshu, Douyin, TikTok, YouTube or X link into LLM-ready text: transcript, on-screen text, image descriptions, caption and metadata. Streamable HTTP."
     }
   ]
 }
