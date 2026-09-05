@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T20:36:37.038Z",
+  "generated_at": "2026-09-05T00:05:08.865Z",
   "counts": {
-    "bundle-plugin": 2881,
+    "bundle-plugin": 2884,
     "cordis-plugin": 7841,
     "pkg-plain": 1046,
-    "manual": 743,
+    "manual": 744,
     "script": 236,
     "skill": 380,
     "multi-plugin": 427,
@@ -12411,6 +12411,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "flykit-cc/dsh-flykit",
+      "verdict": "manual"
+    },
+    {
       "full_name": "flymysql/dsh-browser-client",
       "verdict": "bundle-plugin"
     },
@@ -12628,6 +12632,10 @@
     },
     {
       "full_name": "FraYoshi/dsh-ui-models-invert-selection",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "FraYoshi/dsh-widechat",
       "verdict": "bundle-plugin"
     },
     {
@@ -13831,7 +13839,15 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-clinebot",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-context-lens",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-cron",
       "verdict": "bundle-plugin"
     },
     {

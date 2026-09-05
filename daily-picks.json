@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T20:36:37.270Z",
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T00:05:09.190Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "boogoo619/dsh-focus-overlay",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Physicolor/dsh-widgets",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "chendefine/dsh-web-search-aggregation",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "xobexo/dsh-smart-scenario-router",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "MAXeaglet/dsh-bash-terminal",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "STARDUSTLC666/dsh-dream",
+      "full_name": "xiehuan123/dsh-deepread",
       "category": "memory",
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "SiriusNEO/StarAgent",
-      "category": "agent",
-      "reason": "Agent 自动化 · 近期更新活跃"
+      "full_name": "MichengAI/dsh-archive-manager",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "young-tim/dsh-llm-governor",
+      "full_name": "taoser258/dsh-client-ui-skin-qingxiao",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "RizenHNT/dsh-skin-digital-arcade",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Meredith2328/dsh-sticky-note",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "maxwell-feng/dsh-tinyfish-search",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "dingyi580/dsh-conversation-rail",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "AKS1st/model-usage-plugin",
       "category": "model",
       "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     }
