@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T00:05:08.865Z",
+  "generated_at": "2026-09-05T03:19:19.351Z",
   "counts": {
-    "bundle-plugin": 2884,
+    "bundle-plugin": 2892,
     "cordis-plugin": 7841,
-    "pkg-plain": 1046,
+    "pkg-plain": 1047,
     "manual": 744,
     "script": 236,
     "skill": 380,
@@ -185,6 +185,10 @@
     {
       "full_name": "1035041186/dsh-llm-ollama",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "1052326311/dsh-ask-first",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "1052326311/dsh-goal-quiescence",
@@ -12925,6 +12929,10 @@
     {
       "full_name": "future007s/dsh-peak-indicator",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "FuWenLianggit/dsh-goal-auto",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "FuWenLianggit/dsh-session-bridge",
@@ -28747,6 +28755,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Olympianz/dsh-xiaomili",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "omdsh-dev/7d7d",
       "verdict": "skill"
     },
@@ -33087,6 +33099,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "Saidoua/dsh-rs",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Saikel-Orado-Liu/dsh-archive-manager",
       "verdict": "cordis-plugin"
     },
@@ -37397,6 +37413,10 @@
     {
       "full_name": "supersyh-sss/dsh-voice-assitant",
       "verdict": "manual"
+    },
+    {
+      "full_name": "supery0ung/dsh-recovery-center",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "surenkid/dsh-selection-based-comments",
@@ -46839,7 +46859,15 @@
       "verdict": "script"
     },
     {
+      "full_name": "weibaohui/context-razor",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "weibaohui/dsh-continue",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "weibaohui/dsh-file-share",
       "verdict": "bundle-plugin"
     },
     {
@@ -46868,6 +46896,10 @@
     },
     {
       "full_name": "weibaohui/skills-management",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "weibaohui/user-management",
       "verdict": "bundle-plugin"
     },
     {
@@ -46960,6 +46992,10 @@
     },
     {
       "full_name": "Weiyang742/dsh-cross-session-messaging",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "WeiyangPro/dsh-deepseek-usage-panel",
       "verdict": "bundle-plugin"
     },
     {

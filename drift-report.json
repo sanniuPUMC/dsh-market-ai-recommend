@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-09-04T23:51:12.442Z",
-  "count": 2,
+  "generated_at": "2026-09-05T03:01:29.664Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "Ultronen/dsh-archived-chats",
-      "previous": "resource",
-      "current": "tool",
-      "desc_now": "Local-first session lifecycle for DeepSeek Harness agents: search, replay, restore-as-copy, backups, retention, and lineage.",
-      "desc_prev": "会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local."
-    },
-    {
-      "full_name": "chiphoton/DeepSeek-Harness-Video-Director",
-      "previous": "conversation",
+      "full_name": "yu-wenchao/dsh-tool-lipsync",
+      "previous": "tool",
       "current": "web-ui",
-      "desc_now": "🎬AI-Powered Director: MiniMax-H3 Video Generation Plugin Directed by DeepSeek-Harness. 🤖More than Prompting. 🪄Canvas UI.",
-      "desc_prev": "🎬AI-Powered Director: MiniMax-H3 Video Generation Directed by DeepSeek-Harness. 🤖More than Prompting."
+      "desc_now": "免 Key、免登录的 AI 对口型口播视频生成插件，为 DeepSeek Harness (DSH) 注册 5 个工具，使用免费开放 API 生成对口型视频。FreeLipSync lip-sync video plugin for DeepSeek Harness - No API key required",
+      "desc_prev": "FreeLipSync lip-sync video plugin for DeepSeek Harness - No API key required"
     }
   ]
 }
