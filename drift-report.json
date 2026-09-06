@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-06T13:29:28.547Z",
+  "count": 3,
+  "items": [
+    {
+      "full_name": "Jesseovo/last30days-skill-cn",
+      "previous": "web-ui",
+      "current": "memory",
+      "desc_now": "last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。",
+      "desc_prev": "last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。"
+    },
+    {
+      "full_name": "WSK-build/DSHBox",
+      "previous": "coding",
+      "current": "agent",
+      "desc_now": "Run DeepSeek Harness locally on Android phones and tablets. One APK with Debian, Node.js, DSH, and WebView — no root or Termux required. 在安卓手机和平板上本机运行完整 DSH。",
+      "desc_prev": "Run DeepSeek Harness on Android — a layered runtime (Debian + Node.js + DSH) inside a rootless PRoot sandbox, with an embedded WebView UI, file manager, persistent terminal, and one-tap runtime/DSH updates. Install the APK and go."
+    },
+    {
+      "full_name": "Oscar-Williams/dsh-deepcanary",
+      "previous": "vision",
+      "current": "notify",
+      "desc_now": "Know when your DeepSeek Harness tasks need you. Local alerts, quiet notifications, and a task inbox.",
+      "desc_prev": "Local attention supervision for DeepSeek Harness: evidence-first signals, quiet notifications, and an actionable inbox."
+    }
+  ]
+}
