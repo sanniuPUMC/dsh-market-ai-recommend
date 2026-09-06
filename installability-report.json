@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T22:10:12.674Z",
+  "generated_at": "2026-09-06T03:04:13.190Z",
   "counts": {
-    "bundle-plugin": 2977,
-    "cordis-plugin": 7847,
-    "pkg-plain": 1056,
+    "bundle-plugin": 2983,
+    "cordis-plugin": 7848,
+    "pkg-plain": 1059,
     "manual": 747,
     "script": 236,
     "skill": 380,
@@ -5883,6 +5883,14 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "Canary-Builds/dhs-connect",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Canary-Builds/dsh-mobile-ui",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "CanaryJing/dsh-big-fat-whale-maid-adaptive",
       "verdict": "agent-preset"
     },
@@ -8517,6 +8525,10 @@
     {
       "full_name": "d3vmeh/dsh-turn-doctor",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "d4551/cloudflare-dsh",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "d4551/DeepTail",
@@ -12155,6 +12167,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "fewoot/dsh-whale-particles",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ffdnm/ClashTUNWithDSH",
       "verdict": "script"
     },
@@ -13975,6 +13991,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-cost-meter",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-cron",
       "verdict": "bundle-plugin"
     },
@@ -15105,6 +15125,10 @@
     {
       "full_name": "Harzva/dsh-plugin-registry",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Harzva/dsh-pr-guardian",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Harzva/dsh-research-lab",
@@ -16941,6 +16965,10 @@
     {
       "full_name": "ice5kysl/dsh-file-explorer-kit",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ice5kysl/dsh-insights",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "ice5kysl/dsh-plugin-health",
@@ -29847,6 +29875,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "OuYangxin12/dsh-status-bar",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "ouyangyipeng/dsh-marketplace",
       "verdict": "cordis-plugin"
     },
@@ -35515,6 +35547,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "shuishuipingan/InkWeaver",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "SHUJILAI/dsh-model-auto-hot-switch",
       "verdict": "bundle-plugin"
     },
@@ -39841,6 +39877,10 @@
     {
       "full_name": "TYEclipse/dsh-checkdigit",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "TYEclipse/dsh-chem",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TYEclipse/dsh-color",

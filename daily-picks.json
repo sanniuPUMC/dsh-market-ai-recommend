@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-05",
-  "generated_at": "2026-09-05T22:10:12.825Z",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T03:04:13.339Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "xiehuan123/dsh-deepread",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "JanEickholt/dsh-inline-diff",
+      "category": "document",
+      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "MichengAI/dsh-archive-manager",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "taoser258/dsh-client-ui-skin-qingxiao",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "RizenHNT/dsh-skin-digital-arcade",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Meredith2328/dsh-sticky-note",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "maxwell-feng/dsh-tinyfish-search",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
-    },
-    {
-      "full_name": "dingyi580/dsh-conversation-rail",
+      "full_name": "huang-chunc/dsh-user-message-timeline",
       "category": "conversation",
       "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "AKS1st/model-usage-plugin",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "zhengjy01/dsh-flomo-report",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "xiaoyi-xx/dsh-peak-status",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "x2802490130-prog/dsh-client-ui-writing",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "mario03690/dsh-netcafe",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-advisor",
+      "category": "memory",
+      "reason": "记忆知识 · 近期更新活跃"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-tool-encoding",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
