@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T20:15:06.189Z",
+  "generated_at": "2026-09-06T22:18:58.873Z",
   "counts": {
-    "bundle-plugin": 3062,
+    "bundle-plugin": 3063,
     "cordis-plugin": 7853,
     "pkg-plain": 1070,
     "manual": 750,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 433,
+    "multi-plugin": 434,
     "gone": 52,
     "agent-preset": 51,
     "unknown": 55,
@@ -14184,6 +14184,10 @@
     },
     {
       "full_name": "GooDAnDReaDY/dsh-russian-lang",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-session-control",
       "verdict": "bundle-plugin"
     },
     {
@@ -30297,6 +30301,10 @@
     {
       "full_name": "pakco77/dsh-daqi.skill",
       "verdict": "manual"
+    },
+    {
+      "full_name": "pakgrou-porg/yardmaster",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "PAKIKNOWLEDGE/dsh-auto-classifier",
