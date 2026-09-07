@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T22:18:58.873Z",
+  "generated_at": "2026-09-07T00:01:21.687Z",
   "counts": {
-    "bundle-plugin": 3063,
+    "bundle-plugin": 3064,
     "cordis-plugin": 7853,
     "pkg-plain": 1070,
     "manual": 750,
@@ -11,7 +11,7 @@
     "gone": 52,
     "agent-preset": 51,
     "unknown": 55,
-    "empty": 15
+    "empty": 16
   },
   "repos": [
     {
@@ -35383,6 +35383,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "shaomingbo/dsh-codex-compaction",
+      "verdict": "empty"
+    },
+    {
       "full_name": "shaomingbo/dsh-file-picker",
       "verdict": "cordis-plugin"
     },
@@ -40269,6 +40273,10 @@
     {
       "full_name": "TYEclipse/dsh-plugins-hub",
       "verdict": "manual"
+    },
+    {
+      "full_name": "TYEclipse/dsh-probstat",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TYEclipse/dsh-semver",

@@ -1,20 +1,25 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T22:18:59.016Z",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T00:01:21.828Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "JanEickholt/dsh-inline-diff",
-      "category": "document",
-      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "huang-chunc/dsh-user-message-timeline",
+      "full_name": "choco9527/dsh-product-preview",
       "category": "conversation",
       "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "zhengjy01/dsh-flomo-report",
+      "full_name": "Wine-Red/dsh-codex-timeline",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "fufengyuan/dsh-stool-plugin",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "sharewiner/dsh-model-management",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
@@ -24,24 +29,19 @@
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "x2802490130-prog/dsh-client-ui-writing",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "mario03690/dsh-netcafe",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "omdsh-dev/dsh-advisor",
+      "full_name": "PerryLink/dsh-plugin-guide",
       "category": "memory",
       "reason": "记忆知识 · 近期更新活跃"
     },
     {
-      "full_name": "omdsh-dev/dsh-tool-encoding",
+      "full_name": "AX1202/ax-feishu-bridge",
       "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "开发编码 · 近期更新活跃"
+    },
+    {
+      "full_name": "tancheng33/dsh-yogacara",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
