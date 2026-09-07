@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T00:01:21.687Z",
+  "generated_at": "2026-09-07T03:00:59.720Z",
   "counts": {
-    "bundle-plugin": 3064,
+    "bundle-plugin": 3071,
     "cordis-plugin": 7853,
-    "pkg-plain": 1070,
+    "pkg-plain": 1071,
     "manual": 750,
     "script": 236,
     "skill": 380,
@@ -5757,6 +5757,10 @@
     {
       "full_name": "bunipai/dsh-fare-meter",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "busabase/busabase-dsh-plugin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "butingxz/dsh-asset-manager",
@@ -18019,6 +18023,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "jarvan1/dsh-aiops",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "jarvan642/dsh-hotswap",
       "verdict": "cordis-plugin"
     },
@@ -21903,6 +21911,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LastHopeOfGPNU/dsh-spec-graph",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "lastplayer82/dsh-sticky-notes",
       "verdict": "bundle-plugin"
     },
@@ -24033,6 +24045,10 @@
     {
       "full_name": "loadingvx/deepseek-harness-workbench-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "localSummer/dsh-proxy-env",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "LodyAI/acp-extension-dsh",
@@ -34881,6 +34897,10 @@
     {
       "full_name": "scubiry-glitch/dsh-yiyi-pet",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "scwlkq/dsh-second-opinion",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "scwlkq/dsh-task-board",
@@ -48795,6 +48815,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "WongYuYe/dsh-composer-recall",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Wongzexu/dsh-git-status",
       "verdict": "cordis-plugin"
     },
@@ -50975,6 +50999,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "xinghe-1018/dsh-token-plan-quota",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xingjisen/dsh-secure-gate",
       "verdict": "cordis-plugin"
     },
@@ -52557,6 +52585,10 @@
     {
       "full_name": "yiqizhuapangxiema/harness-plugin-store-optimized",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "YiRan0/dsh-bangumi",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "YiRan0/dsh-mobile-glass",
