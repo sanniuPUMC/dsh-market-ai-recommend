@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T19:52:21.251Z",
+  "generated_at": "2026-09-07T22:47:06.417Z",
   "counts": {
-    "bundle-plugin": 3136,
+    "bundle-plugin": 3138,
     "cordis-plugin": 7881,
     "pkg-plain": 1082,
     "manual": 756,
@@ -4848,6 +4848,10 @@
     },
     {
       "full_name": "better-er/dsh-live-token-stats",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "better-er/dsh-pause",
       "verdict": "bundle-plugin"
     },
     {
@@ -40649,6 +40653,10 @@
     {
       "full_name": "TYEclipse/dsh-ipcalc",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "TYEclipse/dsh-linalg",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TYEclipse/dsh-musictheory",
