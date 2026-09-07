@@ -4519,6 +4519,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "baolunshu/dsh-struct-guard",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "baosfeng/my-dsh-plugins",
       "verdict": "manual"
     },
@@ -6685,6 +6689,10 @@
     {
       "full_name": "chendefine/dsh-cdp-live-view",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "chendefine/dsh-composer-markdown",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "chendefine/dsh-hooks-claude-code-per-workspace",
@@ -14681,6 +14689,10 @@
     {
       "full_name": "GuZhengSVT/dsh-WeCom-notify",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "gwj001/arch-lens",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "gwrsfsfeefdsfs/dsh-skill-curator",
@@ -24063,6 +24075,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "ljzRober/L-clone",
+      "verdict": "manual"
+    },
+    {
       "full_name": "lk251066/dsh-tui-pro",
       "verdict": "pkg-plain"
     },
@@ -24364,6 +24380,10 @@
     },
     {
       "full_name": "loommii/dsh-thin-search",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "loommii/dsh-web-search-plus",
       "verdict": "bundle-plugin"
     },
     {
@@ -28795,6 +28815,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "ningbonb/dsh-math-thinking-teacher",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ningbonb/dsh-web-desktop",
       "verdict": "bundle-plugin"
     },
@@ -32233,6 +32257,10 @@
     {
       "full_name": "qiushi-dev/dsh-session-nexus",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "qiuyiwu1989-star/dsh-deepbrain",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "qiuyiwu1989-star/dsh-k12-substrate",
@@ -37475,6 +37503,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "StabCut/dsh-plugin-restart-desktop",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "staff-os/dsh-dify",
       "verdict": "cordis-plugin"
     },
@@ -39625,6 +39657,10 @@
     {
       "full_name": "tingao/dsh-peaktime-clock",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Tinger-X/dsh-chapter-word-counter",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "Tinger-X/dsh-session-enhance",
@@ -55705,6 +55741,10 @@
     {
       "full_name": "Zoramoris/Amoris-agent",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "Zoria-Lind/dsh-token-optimizer",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zoumutou/dsh-attachment-downscale",
