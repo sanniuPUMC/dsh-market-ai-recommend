@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T22:47:06.417Z",
+  "generated_at": "2026-09-08T03:13:34.187Z",
   "counts": {
-    "bundle-plugin": 3138,
+    "bundle-plugin": 3149,
     "cordis-plugin": 7881,
     "pkg-plain": 1082,
     "manual": 756,
     "script": 236,
     "skill": 380,
-    "multi-plugin": 436,
+    "multi-plugin": 437,
     "gone": 52,
     "agent-preset": 51,
     "unknown": 55,
@@ -977,6 +977,10 @@
     {
       "full_name": "54088lp/dsh-kafka-ui",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "54shitaimzf/dsh-price-less",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "54xkeee/dsh-anchored-standard-plus",
@@ -6131,6 +6135,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "careyourcake/dsh-plugin-litsearch-zotero",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Carl-5535/dsh-wechat-gateway",
       "verdict": "cordis-plugin"
     },
@@ -7205,6 +7213,10 @@
     {
       "full_name": "Choi-Peng/dsh-footer-order",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Choi-Peng/dsh-tenancy",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "chokwinlee/deepseek-harness-desktop",
@@ -11041,6 +11053,10 @@
     {
       "full_name": "edison7009/EchoBird",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "edisontaisite/codex-harness-control",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "EDMOK/claude-vision-mcp",
@@ -22039,6 +22055,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "langyo/dsh-mobile-upgrade",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lanlandeli/dsh-conversation-manager",
       "verdict": "cordis-plugin"
     },
@@ -23979,6 +23999,18 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "LiweiDonVee/dsh-cherry-provider-bridge",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "LiweiDonVee/dsh-preset-library",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "LiweiDonVee/dsh-tavern-renderer",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "liwuzhan/agent-native-trade",
       "verdict": "pkg-plain"
     },
@@ -24300,6 +24332,10 @@
     },
     {
       "full_name": "lnyanhongyan/dsh-rule-manager",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "lnyuqian/dsh-quick-prompts",
       "verdict": "bundle-plugin"
     },
     {
@@ -38159,6 +38195,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "sugarforever/dsh-plugins",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "sugarxl/dsh-safety",
       "verdict": "cordis-plugin"
     },
@@ -39179,6 +39219,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "teethyachi/dsh-usage-mini",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "telagod/dsh-ledger-compact",
       "verdict": "bundle-plugin"
     },
@@ -39905,6 +39949,10 @@
     {
       "full_name": "tkliuxing/dsh-hypatia",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "tkliuxing/dsh-presets-hidden",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "tkr520521/dsh-repo-analyzer",

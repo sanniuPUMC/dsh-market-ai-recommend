@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T22:47:06.584Z",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T03:13:34.349Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "choco9527/dsh-product-preview",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Wine-Red/dsh-codex-timeline",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "fufengyuan/dsh-stool-plugin",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "sharewiner/dsh-model-management",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "xiaoyi-xx/dsh-peak-status",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "PerryLink/dsh-plugin-guide",
-      "category": "memory",
-      "reason": "记忆知识 · 近期更新活跃"
-    },
-    {
-      "full_name": "AX1202/ax-feishu-bridge",
+      "full_name": "yuanzhenqi/dsh-mobile-ui",
       "category": "coding",
-      "reason": "开发编码 · 近期更新活跃"
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "tancheng33/dsh-yogacara",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Y1X1n/dsh-prompt-optimizer",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "yoshino-xiao7/dsh-codex",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "xxxyz/DeepSeekHarness-MCP-Manager",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "woosh2010/dsh-usage-dashboard",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Rianico/dsh-better-edit",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "XHR666/dsh-mpkg-wallpaper",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "oxlyn/dsh-model-health",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
