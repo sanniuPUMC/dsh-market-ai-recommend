@@ -4011,6 +4011,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "AwesomeHou/dsh-trace-collapse",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "AwesomeHou/dsh-trajectory-collapse",
       "verdict": "cordis-plugin"
     },
@@ -6707,6 +6711,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "chen704290901chen/dsh-newapi-video",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "chen70456-lang/dsh-tmwebdriver",
       "verdict": "bundle-plugin"
     },
@@ -7144,6 +7152,10 @@
     },
     {
       "full_name": "Chillizu/MiopIIk",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Chillizu/mop-plugins",
       "verdict": "pkg-plain"
     },
     {
@@ -14075,6 +14087,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "GM-HZ/agent-dag-workflow",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GM-HZ/dsh-dag-workflow",
       "verdict": "pkg-plain"
     },
@@ -20963,6 +20979,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "kevin-zx/dsh-park-notes",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Kevin66Z0/dsh-telegram",
       "verdict": "bundle-plugin"
     },
@@ -22155,8 +22175,16 @@
       "verdict": "manual"
     },
     {
+      "full_name": "lansi-ai/dsh-fetch-url",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lansi-ai/dsh-plugin-starter",
       "verdict": "skill"
+    },
+    {
+      "full_name": "lansi-ai/dsh-rule-manager",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Lanxi26/dsh-bash-windows",
@@ -23699,6 +23727,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "linxsy-code/dsh-plugin-window-input",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "linxuhao/AItelier",
       "verdict": "pkg-plain"
     },
@@ -24416,6 +24448,10 @@
     },
     {
       "full_name": "lnyuqian/dsh-quick-prompts",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "lnyuqian/dsh-restart-plugin",
       "verdict": "bundle-plugin"
     },
     {
@@ -30647,6 +30683,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "outprintHelloLi/dsh-piggy-bank",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "OuYangxin12/dsh-status-bar",
       "verdict": "cordis-plugin"
     },
@@ -34167,6 +34207,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Ryu6Zero/dsh-character-studio",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Ryu6Zero/dsh-hindsight",
       "verdict": "bundle-plugin"
     },
@@ -36039,6 +36083,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "shengyvself/dsh-reading-pad",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "shengyvself/narrative-prompt-polish",
       "verdict": "bundle-plugin"
     },
@@ -37475,6 +37523,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "sousike/dsh-faxin-search",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "soyoungzsy/soya",
       "verdict": "manual"
     },
@@ -37605,6 +37657,10 @@
     {
       "full_name": "spritebbb/dsh-skill-usage",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "sprog-xhy/dsh-cursorkit",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "spyfree/dsh-media-guard",
@@ -40748,6 +40804,10 @@
     },
     {
       "full_name": "TussalZeus18028/dsh-conflict-checker",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "TussalZeus18028/dsh-open-folder",
       "verdict": "bundle-plugin"
     },
     {
@@ -47711,6 +47771,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "wanderer-yk/dsh-xueqiu",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wang-22-code/dsh-qqbot-bridge",
       "verdict": "cordis-plugin"
     },
@@ -48565,6 +48629,10 @@
     {
       "full_name": "weshopai/weshop-dsh-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "weshopai/weshop-skill-package",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "weshopai/weshop-skill-pakage",
