@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T19:34:19.460Z",
+  "generated_at": "2026-09-08T22:43:17.033Z",
   "counts": {
-    "bundle-plugin": 3233,
+    "bundle-plugin": 3240,
     "cordis-plugin": 7886,
     "pkg-plain": 1092,
     "manual": 760,
-    "script": 236,
+    "script": 237,
     "skill": 380,
     "multi-plugin": 443,
     "gone": 52,
@@ -12727,6 +12727,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Fishsb/dsh-shoucang-memory",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "fishzjp/qa-skills",
       "verdict": "bundle-plugin"
     },
@@ -23943,6 +23947,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "LiPu-jpg/Openwrite",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "liqichen/dsh-plugin-manager",
       "verdict": "cordis-plugin"
     },
@@ -26915,6 +26923,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "Meteor-system/mattpocock-skills-for-dsh",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Meteor-system/superpowers-for-dsh",
       "verdict": "bundle-plugin"
     },
@@ -29461,6 +29473,10 @@
     {
       "full_name": "noah-qiao/dsh-human-agent-paradigm-web",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Noah-wang/dsh-agent-pet",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "nocobase/nocobase",
@@ -37567,6 +37583,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "songer522/dsh-launcher",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SongMiao-tech/dsh-prompt-optimizer",
       "verdict": "bundle-plugin"
     },
@@ -41065,6 +41085,10 @@
     {
       "full_name": "TYEclipse/dsh-color",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "TYEclipse/dsh-complex",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TYEclipse/dsh-geodesy",
@@ -47379,6 +47403,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "vecnode/dsh-vn-plugins",
+      "verdict": "script"
+    },
+    {
       "full_name": "veermetri05/dsh-plugins",
       "verdict": "multi-plugin"
     },
@@ -49812,6 +49840,10 @@
     },
     {
       "full_name": "WSL043/dsh-dictation",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "WSL043/dsh-image-viewer",
       "verdict": "bundle-plugin"
     },
     {
