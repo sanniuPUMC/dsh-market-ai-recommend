@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T19:20:45.857Z",
+  "generated_at": "2026-09-09T22:33:21.209Z",
   "counts": {
-    "bundle-plugin": 3327,
+    "bundle-plugin": 3329,
     "cordis-plugin": 7892,
     "pkg-plain": 1097,
     "manual": 764,
@@ -41423,6 +41423,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "TYEclipse/dsh-boolean",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "TYEclipse/dsh-checkdigit",
       "verdict": "cordis-plugin"
     },
@@ -48792,6 +48796,10 @@
     },
     {
       "full_name": "WaySeeSee/dsh-de-workbench",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "wbaws/dsh-scenery",
       "verdict": "bundle-plugin"
     },
     {
