@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-08T22:43:17.033Z",
+  "generated_at": "2026-09-09T03:19:34.826Z",
   "counts": {
-    "bundle-plugin": 3240,
-    "cordis-plugin": 7886,
+    "bundle-plugin": 3248,
+    "cordis-plugin": 7887,
     "pkg-plain": 1092,
-    "manual": 760,
+    "manual": 761,
     "script": 237,
     "skill": 380,
     "multi-plugin": 443,
@@ -1953,6 +1953,10 @@
     {
       "full_name": "aga-j/dsh-mini-games",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "agent-mobile/dsh-mobile",
+      "verdict": "manual"
     },
     {
       "full_name": "agent-mobile/dsh-mobile-gateway",
@@ -6899,6 +6903,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "chengzhicao/llm-capture",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "chenhaolove89/dsh-ccswitch-import",
       "verdict": "manual"
     },
@@ -7647,6 +7655,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "cjm-m/dsh-paste-code-block",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "CJYLZS/dsh-commandcode-plan-autosync",
       "verdict": "bundle-plugin"
     },
@@ -7761,6 +7773,10 @@
     {
       "full_name": "clearkurt/dsh-win-terminal-inspector",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "ClickPM/dsh-acp-interactive",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "climpea/daily-news-digest",
@@ -12732,6 +12748,10 @@
     },
     {
       "full_name": "fishzjp/qa-skills",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "fiven577/dsh-whale-widget-sankou",
       "verdict": "bundle-plugin"
     },
     {
@@ -19517,6 +19537,10 @@
     {
       "full_name": "JochenYang/dsh-remote",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "jockiller/dsh-translator",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Joe-rq/dsh-research-agent",
@@ -28779,6 +28803,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "nateyu/dsh-session-vault",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Nath-Vikky/dsh-codekin",
       "verdict": "bundle-plugin"
     },
@@ -36317,6 +36345,10 @@
     {
       "full_name": "ShenpingDD/wooden-fish-dsh",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ShenXuAkaEkstasis/dsh-ai-saas-deal-finder",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ShenXuAkaEkstasis/dsh-ai-shopping-assistant",
@@ -48555,6 +48587,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "weibaohui/dsh-webdav-server",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "weibaohui/dsh-xiuxian",
       "verdict": "bundle-plugin"
     },
@@ -50273,6 +50309,10 @@
     {
       "full_name": "wz-heng/dsh-feishu-bridge",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Wzh0718/dsh-minimal-transcript",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "wzwnolook/dsh-safe",

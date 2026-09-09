@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T22:43:17.186Z",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T03:19:34.960Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "yuanzhenqi/dsh-mobile-ui",
+      "full_name": "huang-chunc/dsh-user-message-timeline",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-annotation",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "940842546/dsh-usage-billing",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "hanrr92/dsh-code-quote",
       "category": "coding",
       "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Y1X1n/dsh-prompt-optimizer",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "yoshino-xiao7/dsh-codex",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "xxxyz/DeepSeekHarness-MCP-Manager",
+      "full_name": "Bobnemimimmi/dsh-always-status-bar",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "woosh2010/dsh-usage-dashboard",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Jesse-njx/dsh-memory",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Rianico/dsh-better-edit",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "sakikoTGW/pack-agent",
+      "category": "agent",
+      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "XHR666/dsh-mpkg-wallpaper",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "oxlyn/dsh-model-health",
+      "full_name": "PerryLink/dsh-session-sync",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     }
