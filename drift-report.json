@@ -1,41 +1,62 @@
 {
-  "generated_at": "2026-09-10T08:46:52.391Z",
-  "count": 5,
+  "generated_at": "2026-09-10T14:13:19.698Z",
+  "count": 8,
   "items": [
     {
-      "full_name": "jingyunstudio/jingyun-dsh",
+      "full_name": "Nagi-ovo/dsh-find-plugins",
+      "previous": "resource",
+      "current": "tool",
+      "desc_now": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
+      "desc_prev": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins"
+    },
+    {
+      "full_name": "ZSeven-W/dsh-android",
+      "previous": "vision",
+      "current": "conversation",
+      "desc_now": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
+      "desc_prev": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
+    },
+    {
+      "full_name": "chenw2759-wq/dsh-IDE",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服务器，全程零配置文件改动。",
+      "desc_prev": "dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服务器，全程零配置文件改动。"
+    },
+    {
+      "full_name": "WNJXYK/dsh-codex-oauth",
+      "previous": "document",
+      "current": "vision",
+      "desc_now": "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search.",
+      "desc_prev": "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search."
+    },
+    {
+      "full_name": "wei-806206088/dsh-skin",
+      "previous": "notify",
+      "current": "web-ui",
+      "desc_now": "内置极简主题、主色、文字色、区域文字色、图片 / GIF / 视频换肤、每个背景独立不透明度、可保存的命名预设。所有设置自动持久化，重启后自加载",
+      "desc_prev": "内置极简主题、主色、文字色、区域文字色、图片 / GIF / 视频换肤、每个背景独立不透明度、可保存的命名预设。所有设置自动持久化，重启后自加载"
+    },
+    {
+      "full_name": "shiningsprk-arch/dsh-context-viewer",
       "previous": "desktop",
       "current": "coding",
-      "desc_now": "基于 Jingyun Studio + DeepSeek Harness (DSH) 打造的一站式 AI 商业化桌面客户端，一个将 AI 智能体 / 技能 / 工作流转化为可交易商品的完整商业化平台客户端。  井云为 DSH 注入了完整的商业闭环：登录注册 → 会员体系 → 订阅支付 → 云端资产 → 多端同步，让 AI 开发者 30 分钟内将自己的智能体封装为独立的商业产品。",
-      "desc_prev": "基于 Jingyun Studio + DeepSeek Harness (DSH) 打造的一站式 AI 商业化桌面客户端"
+      "desc_now": "DeepSeek Harness (DSH) 上下文查看器 — 浏览思考链、shell 命令、工具调用与原始事件日志（Electron + React）",
+      "desc_prev": "DeepSeek Harness (DSH) 上下文查看器 — 浏览思考链、shell 命令、工具调用与原始事件日志（Electron + React）"
     },
     {
-      "full_name": "dclichang2022/dsh-green-meter",
-      "previous": "tool",
-      "current": "notify",
-      "desc_now": "Desktop app for DeepSeek Harness with a live energy/carbon console: measure local GPU inference, estimate cloud APIs via published coefficients, alert on waste",
-      "desc_prev": "Energy & carbon metering for DeepSeek Harness: per-turn/per-request energy, cache carbon savings, electricity cost."
-    },
-    {
-      "full_name": "jo32/DeepDeck",
-      "previous": "desktop",
-      "current": "tool",
-      "desc_now": "Build and reuse WebMCP tools in a macOS desktop workspace for DeepSeek Harness.",
-      "desc_prev": "DeepDeck — an extensible desktop workspace for DeepSeek Harness."
-    },
-    {
-      "full_name": "GooDAnDReaDY/dsh-russian-lang",
-      "previous": "other",
+      "full_name": "buhuikongpan/dsh-project-context",
+      "previous": "conversation",
       "current": "web-ui",
-      "desc_now": "100% русская локализация и Smart UX для DeepSeek Harness (DSH v0.1.5-rc.1+): 5688 ключей (ядро + 40+ плагинов), Центр оформления (Wallpaper Engine), витрина Workshop, экспорт в Markdown, инлайн-перевод, живая типографика, исправление раскладки (Alt+L).",
-      "desc_prev": "100% русская локализация и Smart UX для DeepSeek Harness (DSH v0.1.5-alpha.2+): 5530 ключей (ядро + 40+ плагинов), просмотрщики файлов, экспорт в Markdown, инлайн-перевод, живая типографика, исправление раскладки (Alt+L)."
+      "desc_now": "给 DSH 工作区一个用途维度：项目工作区注入项目约定，临时会话（$DSH_HOME/workspace/default，首次运行自动创建）注入『非项目』状态块。侧边栏底部一颗「临时会话」按钮 + 会话头用途徽标。dsh-plugin",
+      "desc_prev": "Turns each DSH workspace folder into a project: auto-injects a compact project-workspace convention into every new session, with a per-session Project toggle in the composer. dsh-plugin"
     },
     {
-      "full_name": "gcry13067381632-jpg/dsh-qqbot",
-      "previous": "web-ui",
-      "current": "document",
-      "desc_now": "AI 统管 QQ 群组：审核放行、群发文件、沟通其他web会话的ai！ 气氛组担当：表情包自动入库，AI 自己决定开口，多预设多人格轮班陪聊！ 远程办公：权限审批、提问卡片转发qq",
-      "desc_prev": "DSH 接入官方 QQ 机器人：qq群组管理 · 富媒体收发 · 表情包图库 · 多预设多开 · 定时唤醒 · 远程审批 ·ai自主决定回复 · 仿qq聊天界面 "
+      "full_name": "sojo-negai/dsh-prompt-refine",
+      "previous": "conversation",
+      "current": "model",
+      "desc_now": "DSH 提示词优化插件 —— 发送前点一下 ✨,模型结合上下文给出「补丁式」建议,勾选回填,不抢发送权。",
+      "desc_prev": null
     }
   ]
 }
