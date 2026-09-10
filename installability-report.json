@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T19:15:55.244Z",
+  "generated_at": "2026-09-10T22:32:35.719Z",
   "counts": {
-    "bundle-plugin": 3449,
+    "bundle-plugin": 3455,
     "cordis-plugin": 7895,
     "pkg-plain": 1105,
     "manual": 768,
@@ -375,6 +375,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "1569126506-sudo/dsh-team-cost",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "15828148/dsh-portable-launcher",
       "verdict": "manual"
     },
@@ -693,6 +697,10 @@
     {
       "full_name": "2275803244-cpu/dsh-session-search",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "2286893544/feishu-dsh-plugin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "2303572348/deepseek-harness-memory",
@@ -4775,6 +4783,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "Beatther-c/dsh-api-client",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Because66666/dsh-desktop-pet",
       "verdict": "pkg-plain"
     },
@@ -8171,6 +8183,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "coderHeJiyu/dsh-setting-manager",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "CodermanYHZ/dsh-node-flow",
       "verdict": "bundle-plugin"
     },
@@ -9408,6 +9424,10 @@
     },
     {
       "full_name": "DDA-DIGITAL/dsh-deepseek-peak-indicator",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "DDA-DIGITAL/dsh-web-lifecycle",
       "verdict": "bundle-plugin"
     },
     {
@@ -50009,6 +50029,10 @@
     {
       "full_name": "wicm84266964/dsh-minimal-mode-compaction",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "wig123/dsh-thread-tools",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Wike-CHI/deepseek-harness-best-practice",
