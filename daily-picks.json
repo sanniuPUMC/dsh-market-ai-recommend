@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09T22:33:21.356Z",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T03:17:23.817Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "huang-chunc/dsh-user-message-timeline",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "609476965/dsh-LorebookMD",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
     },
     {
-      "full_name": "omdsh-dev/dsh-annotation",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+      "full_name": "agentmail-to/dsh-agentmail",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "940842546/dsh-usage-billing",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "hanrr92/dsh-code-quote",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Bobnemimimmi/dsh-always-status-bar",
+      "full_name": "ShiXiangYu2/dsh-translate-pro",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Jesse-njx/dsh-memory",
+      "full_name": "djs326/dsh-plugin-width-slider",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "PerryLink/dsh-translate",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "hellosky983/dsh-skillradar",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "QuantumKuba/dsh-graphify-plugin",
       "category": "memory",
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "sakikoTGW/pack-agent",
-      "category": "agent",
-      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "PerryLink/dsh-session-sync",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Swd146296/dsh-memos-bridge",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
