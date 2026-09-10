@@ -1,62 +1,48 @@
 {
-  "generated_at": "2026-09-10T14:13:19.698Z",
-  "count": 8,
+  "generated_at": "2026-09-10T19:04:41.471Z",
+  "count": 6,
   "items": [
     {
-      "full_name": "Nagi-ovo/dsh-find-plugins",
+      "full_name": "EthanYoQ/AI-Novel-Writer",
+      "previous": "desktop",
+      "current": "vision",
+      "desc_now": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+      "desc_prev": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。"
+    },
+    {
+      "full_name": "Elave-66/dsh-blue-sea-launcher",
+      "previous": "web-ui",
+      "current": "model",
+      "desc_now": "蓝海之约启动器 · DSH bundle 插件：桌面一键打开 DeepSeek Harness Web（自适应新版 dsh 的 token 登录）",
+      "desc_prev": "Deepseek 二次元游戏/Galgame 风格启动图标。鲸鱼娘形象来源bilibili@上善无形 @ZipZipPipe，适合重度二次元使用，配合鲸鱼娘皮肤等二次元插件使用更佳！"
+    },
+    {
+      "full_name": "rootkiller6788/dsh-launcher",
+      "previous": "desktop",
+      "current": "agent",
+      "desc_now": "释放 DeepSeek Harness 插件化内核能力，将 Runtime、Provider、Plugin、Skill、MCP 等能力统一编排，让 Harness 真正成为可扩展、可组合、可管理的本地 AI 运行平台。",
+      "desc_prev": "DSHL — DeepSeek Harness 的本地运行与生态管理平台，用于统一管理运行时、实例、模型供应商、插件、MCP、技能与发行环境。"
+    },
+    {
+      "full_name": "labmimors/dsh-mcp-lens",
       "previous": "resource",
       "current": "tool",
-      "desc_now": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
-      "desc_prev": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins"
+      "desc_now": "Search 1,000 MCP tools through two interfaces in DeepSeek Harness. Load exact schemas on demand and keep structured results usable across tool calls.",
+      "desc_prev": "DeepSeek Harness MCP tool search for large catalogs: 1,000 MCP tools behind 2 MCP-facing schemas, exact-schema calls, allow/deny controls, and a local calculator."
     },
     {
-      "full_name": "ZSeven-W/dsh-android",
-      "previous": "vision",
-      "current": "conversation",
-      "desc_now": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
-      "desc_prev": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
+      "full_name": "GooDAnDReaDY/dsh-russian-lang",
+      "previous": "web-ui",
+      "current": "other",
+      "desc_now": "100% русская локализация и Smart UX для DeepSeek Harness (DSH v0.1.5-rc.1+): 5688 ключей (ядро + 40+ плагинов), единый дизайн настроек dsh-clinebot, экспорт в Markdown, инлайн-перевод, живая типографика, исправление раскладки (Alt+L).",
+      "desc_prev": "100% русская локализация и Smart UX для DeepSeek Harness (DSH v0.1.5-rc.1+): 5688 ключей (ядро + 40+ плагинов), Центр оформления (Wallpaper Engine), витрина Workshop, экспорт в Markdown, инлайн-перевод, живая типографика, исправление раскладки (Alt+L)."
     },
     {
-      "full_name": "chenw2759-wq/dsh-IDE",
-      "previous": "tool",
-      "current": "coding",
-      "desc_now": "dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服务器，全程零配置文件改动。",
-      "desc_prev": "dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服务器，全程零配置文件改动。"
-    },
-    {
-      "full_name": "WNJXYK/dsh-codex-oauth",
-      "previous": "document",
-      "current": "vision",
-      "desc_now": "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search.",
-      "desc_prev": "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search."
-    },
-    {
-      "full_name": "wei-806206088/dsh-skin",
-      "previous": "notify",
-      "current": "web-ui",
-      "desc_now": "内置极简主题、主色、文字色、区域文字色、图片 / GIF / 视频换肤、每个背景独立不透明度、可保存的命名预设。所有设置自动持久化，重启后自加载",
-      "desc_prev": "内置极简主题、主色、文字色、区域文字色、图片 / GIF / 视频换肤、每个背景独立不透明度、可保存的命名预设。所有设置自动持久化，重启后自加载"
-    },
-    {
-      "full_name": "shiningsprk-arch/dsh-context-viewer",
-      "previous": "desktop",
-      "current": "coding",
-      "desc_now": "DeepSeek Harness (DSH) 上下文查看器 — 浏览思考链、shell 命令、工具调用与原始事件日志（Electron + React）",
-      "desc_prev": "DeepSeek Harness (DSH) 上下文查看器 — 浏览思考链、shell 命令、工具调用与原始事件日志（Electron + React）"
-    },
-    {
-      "full_name": "buhuikongpan/dsh-project-context",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "给 DSH 工作区一个用途维度：项目工作区注入项目约定，临时会话（$DSH_HOME/workspace/default，首次运行自动创建）注入『非项目』状态块。侧边栏底部一颗「临时会话」按钮 + 会话头用途徽标。dsh-plugin",
-      "desc_prev": "Turns each DSH workspace folder into a project: auto-injects a compact project-workspace convention into every new session, with a per-session Project toggle in the composer. dsh-plugin"
-    },
-    {
-      "full_name": "sojo-negai/dsh-prompt-refine",
-      "previous": "conversation",
-      "current": "model",
-      "desc_now": "DSH 提示词优化插件 —— 发送前点一下 ✨,模型结合上下文给出「补丁式」建议,勾选回填,不抢发送权。",
-      "desc_prev": null
+      "full_name": "noteflowai/dsh-skills-anywhere",
+      "previous": "agent",
+      "current": "tool",
+      "desc_now": "Your skills, anywhere. Live Agent Skills provider for DeepSeek Harness (dsh): every agent's skill dirs (Claude Code, Codex, Cursor, 60+ more), Claude Code plugin marketplaces, and any GitHub skill repo. Zero copies, zero symlinks.",
+      "desc_prev": "Your skills, anywhere. Live Agent Skills provider for DeepSeek Harness (dsh): every agent's skill dirs (Claude Code, Codex, Cursor, 60+ more), Claude Code plugin marketplaces, and any GitHub skill repo. Zero copies, zero symlinks."
     }
   ]
 }
