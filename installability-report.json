@@ -4103,6 +4103,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "awol2005ex3/dsh-wecom",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Awu12277/dsh-sleep-send",
       "verdict": "cordis-plugin"
     },
@@ -5420,6 +5424,10 @@
     },
     {
       "full_name": "BlueChonk/dsh-balance-phoebe",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "bluechonk/dsh-cli-anything",
       "verdict": "bundle-plugin"
     },
     {
@@ -10279,6 +10287,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "domitor-syh/dsh-rollback",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "domitor-syh/dsh-ui-skin-switcher",
       "verdict": "bundle-plugin"
     },
@@ -13391,6 +13403,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "FriendsHL/dsh-agent-evolution",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "FriendsHL/dsh-agent-factory",
       "verdict": "bundle-plugin"
     },
@@ -13772,6 +13788,10 @@
     },
     {
       "full_name": "Gaines-cz/dsh-a-share-screener",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "gaishilaji/dsh-plugin-cost",
       "verdict": "bundle-plugin"
     },
     {
@@ -17777,6 +17797,14 @@
     {
       "full_name": "idkidknow/dsh-node-repl",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "idoall/dsh-quick-replies",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "idoall/dsh-update-status",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Idreamxkl/dsh-conversation-flat",
@@ -22097,6 +22125,10 @@
     {
       "full_name": "kouyichi/dsh-tui-app",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "kovey/dsh-chat-interaction",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "kovey/dsh-nvim-tui",
@@ -29915,6 +29947,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "NokorinNishikino/Kidai-Hub",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "NokorinNishikino/kidai-plugin-market-hub",
       "verdict": "cordis-plugin"
     },
@@ -33007,6 +33043,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "QinpanWan/dsh-doc-quick",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "QinpanWan/dsh-harmonyos-market",
       "verdict": "multi-plugin"
     },
@@ -33016,6 +33056,10 @@
     },
     {
       "full_name": "QinpanWan/dsh-prompt-antivirus",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "QinpanWan/dsh-sky-skin",
       "verdict": "bundle-plugin"
     },
     {
@@ -48515,6 +48559,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Wandering233/dsh-keyless-search",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wang-22-code/dsh-qqbot-bridge",
       "verdict": "cordis-plugin"
     },
@@ -57481,6 +57529,10 @@
     {
       "full_name": "zzy2210/y1n-agent-flow",
       "verdict": "skill"
+    },
+    {
+      "full_name": "zzy6-a/dsh-upgrade-guard",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zzyyyds88/dsh-solo-leveling",
