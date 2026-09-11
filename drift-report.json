@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-09-11T14:11:02.738Z",
-  "count": 4,
+  "generated_at": "2026-09-11T19:08:29.767Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "Rain-kl/dsh-preset-plus",
-      "previous": "vision",
-      "current": "coding",
-      "desc_now": "DSH 预设编辑器插件, 支持一键破甲.",
-      "desc_prev": "DSH 预设编辑器插件, 支持一键破甲."
-    },
-    {
-      "full_name": "limuyang2/agent-team",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.",
-      "desc_prev": "Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace."
-    },
-    {
-      "full_name": "WNJXYK/dsh-codex-oauth",
-      "previous": "document",
-      "current": "vision",
-      "desc_now": "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search.",
-      "desc_prev": "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search."
-    },
-    {
-      "full_name": "wszhoho/dsh-file-attachment",
-      "previous": "web-ui",
-      "current": "vision",
-      "desc_now": "支持拖入/粘贴 图片、文件，替换dsh本体上传按钮，支持文本模型调用多模态模型识别图片。",
-      "desc_prev": "拖入 / 粘贴 / 工具栏上传按钮（📎，可多选）为输入框附加文件：图片走既有草稿图片流程（不落盘）；文档全文落盘到会话工作区 .dsh-file-attachment/ 并插入 @绝对路径引用"
+      "full_name": "GooDAnDReaDY/dsh-tts",
+      "previous": "media",
+      "current": "web-ui",
+      "desc_now": "Text-to-Speech for DeepSeek Harness with fallback provider chains, offline neural models and streaming UI",
+      "desc_prev": "Text-to-speech for DeepSeek Harness: neural voice read-aloud with multi-provider fallback chains"
     }
   ]
 }
