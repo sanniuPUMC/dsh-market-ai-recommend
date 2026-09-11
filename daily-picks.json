@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T22:32:35.872Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T03:07:42.849Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "609476965/dsh-LorebookMD",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
-    },
-    {
-      "full_name": "agentmail-to/dsh-agentmail",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "ShiXiangYu2/dsh-translate-pro",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "djs326/dsh-plugin-width-slider",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "PerryLink/dsh-translate",
+      "full_name": "cyjyyd/dsh-ssh-tui",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "hellosky983/dsh-skillradar",
+      "full_name": "better-er/dsh-tool-autoexpand",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "nickkkkkk123123/dsh-whale-girl",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "xfqz86/dsh-usage-stats",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "MichengAI/dsh-im-connect",
+      "category": "notify",
+      "reason": "通知通讯 · 近期更新活跃"
+    },
+    {
+      "full_name": "Jimmy0123-ux/dsh-token-pet",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "cindyguyuehu123/dsh-webchatlike",
       "category": "conversation",
       "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "QuantumKuba/dsh-graphify-plugin",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Swd146296/dsh-memos-bridge",
+      "full_name": "PerryLink/dsh-composer-history",
       "category": "memory",
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }

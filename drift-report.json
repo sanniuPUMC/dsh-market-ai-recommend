@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-09-11T02:59:26.837Z",
+  "count": 1,
+  "items": [
+    {
+      "full_name": "SCP-CN-1059/dsh-zhouli",
+      "previous": "memory",
+      "current": "tool",
+      "desc_now": "DeepSeek Harness 的《周礼》插件。主打「周礼模式」agent 预设：会话全程依六官法度——开工「设官分职」，事中「依典援据」，收尾「岁终之会」依六计考成。另附 zhouli 工具，检索带稳定坐标（篇序.职官序）的《周礼》全文，含职官员额／职掌索引与 Kanripo 两本互校。",
+      "desc_prev": "《周礼》插件：给 DeepSeek Harness 提供带稳定坐标（篇序.职官序）的全文检索工具，含职官员额／职掌索引与 Kanripo 两本互校勘记，并附一套依六官法度行事的 agent 预设。引文可核，不凭记忆。"
+    }
+  ]
+}
