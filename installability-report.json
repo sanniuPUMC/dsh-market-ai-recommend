@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-11T19:21:51.679Z",
+  "generated_at": "2026-09-11T22:34:10.427Z",
   "counts": {
-    "bundle-plugin": 3604,
+    "bundle-plugin": 3613,
     "cordis-plugin": 7902,
     "pkg-plain": 1112,
-    "manual": 773,
+    "manual": 774,
     "script": 242,
     "unknown": 56,
     "skill": 385,
     "multi-plugin": 450,
     "gone": 52,
     "agent-preset": 51,
-    "empty": 22
+    "empty": 23
   },
   "repos": [
     {
@@ -10443,6 +10443,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "DoctorxPriestess/dsh-llama-model-manager",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "doebkblcya/dsh-vision-bridge",
       "verdict": "manual"
     },
@@ -10845,6 +10849,10 @@
     {
       "full_name": "dragonbaba/dsh-routing-suite",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Dragonk/dsh-locale-pl",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Dragonwinner/chromex-browser",
@@ -20471,6 +20479,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "joinsnow-star/dsh-agentic-proxy",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "JOJO666888888/dsh-gateway",
       "verdict": "cordis-plugin"
     },
@@ -22051,6 +22063,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "kim1232aa/dsh-mxpage",
+      "verdict": "manual"
+    },
+    {
       "full_name": "kimirong/deepseek-harness-desktop",
       "verdict": "pkg-plain"
     },
@@ -23277,6 +23293,10 @@
     {
       "full_name": "lcc815/dsh-debate-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "lcestou/dsh-oh-my-claude",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "lcgash/dsh-cli-mode",
@@ -25001,6 +25021,14 @@
     {
       "full_name": "liustack/summono",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "liutian11451-png/dsh-plugin-compact-button",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "liutian11451-png/dsh-plugin-model-config",
+      "verdict": "empty"
     },
     {
       "full_name": "liuup/dsh-latex-tools",
@@ -27289,6 +27317,10 @@
     {
       "full_name": "mattismegevand/dsh-terminal",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Mauit06/dsh-jinhsi-skin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "MauricioPerera/bench",
@@ -37659,6 +37691,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "shinzarou-eng/dsh-codebase-chat",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "ShiraGawaAnri/dsh-at-mention",
       "verdict": "cordis-plugin"
     },
@@ -37873,6 +37909,10 @@
     {
       "full_name": "shuxue6662-a11y/dsh-risk-guard",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "shxiaooo/dsh-account-quota",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "shy19805/dsh-tool-args-unwrap",
@@ -38093,6 +38133,10 @@
     {
       "full_name": "SiriusWJ/dsh-lite-memory",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "SiriusWJ/dsh-rp-tools",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "SiriusWJ/dsh-session-plugin-manager",
