@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T22:34:10.576Z",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T13:35:29.016Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "cyjyyd/dsh-ssh-tui",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "better-er/dsh-tool-autoexpand",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "nickkkkkk123123/dsh-whale-girl",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "xfqz86/dsh-usage-stats",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "MichengAI/dsh-im-connect",
-      "category": "notify",
-      "reason": "通知通讯 · 近期更新活跃"
-    },
-    {
-      "full_name": "Jimmy0123-ux/dsh-token-pet",
-      "category": "model",
-      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "cindyguyuehu123/dsh-webchatlike",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "PerryLink/dsh-composer-history",
+      "full_name": "woshishadowhunter/dsh-seed-society",
       "category": "memory",
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "freehul/sgme",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "dream12347/dsh-session-manager",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "xiaoyi-xx/dsh-peak-status",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "PKUfudawei/dsh-capability-menu",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
+    },
+    {
+      "full_name": "acefun29/dsh-file-mount",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
+    },
+    {
+      "full_name": "EthanYoQ/Invoice-Downloader",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
     }
   ]
 }
