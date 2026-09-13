@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T20:39:39.419Z",
+  "generated_at": "2026-09-13T00:09:15.256Z",
   "counts": {
-    "bundle-plugin": 3747,
+    "bundle-plugin": 3749,
     "cordis-plugin": 7909,
-    "pkg-plain": 1126,
+    "pkg-plain": 1127,
     "manual": 776,
     "script": 246,
     "unknown": 56,
@@ -1869,6 +1869,14 @@
     {
       "full_name": "acosmi/dsh-session-supervisor",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "acryldev/acryl-dsh-editor-plugin-cli",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "acryldev/acryl-dsh-editor-plugin-web",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "acryldev/cordis-plugin-graph",
@@ -40989,6 +40997,10 @@
     {
       "full_name": "syOPV/dsh-theme-background-center",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "syroezhkin/dsh-routerai",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "Syruph-dot/dsh-webui-annotateSKK",

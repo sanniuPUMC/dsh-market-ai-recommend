@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T20:39:39.552Z",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T00:09:15.411Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "woshishadowhunter/dsh-seed-society",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "freehul/sgme",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "dream12347/dsh-session-manager",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "xiaoyi-xx/dsh-peak-status",
+      "full_name": "sluminositys/dsh-nested-followups",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "PKUfudawei/dsh-capability-menu",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
+      "full_name": "SeverusZh/dsh-skills-mcp-group-manager",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "acefun29/dsh-file-mount",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
+      "full_name": "AX1202/ax-feishu-bridge",
+      "category": "coding",
+      "reason": "开发编码 · 近期更新活跃"
     },
     {
-      "full_name": "EthanYoQ/Invoice-Downloader",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+      "full_name": "hanshenmesen/dsh-turn-delete",
+      "category": "conversation",
+      "reason": "对话聊天 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "qkycir-123/dsh-run2skill",
+      "category": "conversation",
+      "reason": "对话聊天 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "hancao97/hanai-investment-dsh",
+      "category": "tool",
+      "reason": "通用工具 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "jcaiagent7143-ui/linkdigest-mcp",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "ne-ilyxa/dsh-session-drafts",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
