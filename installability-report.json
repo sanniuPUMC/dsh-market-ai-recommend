@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T00:09:15.256Z",
+  "generated_at": "2026-09-13T03:19:10.728Z",
   "counts": {
-    "bundle-plugin": 3749,
-    "cordis-plugin": 7909,
+    "bundle-plugin": 3752,
+    "cordis-plugin": 7911,
     "pkg-plain": 1127,
-    "manual": 776,
-    "script": 246,
+    "manual": 777,
+    "script": 247,
     "unknown": 56,
     "skill": 385,
     "multi-plugin": 456,
@@ -10099,6 +10099,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "devacc8/dsh-billing-badge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "developerdh/dsh-sandbox-allowlist",
       "verdict": "cordis-plugin"
     },
@@ -16359,6 +16363,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Harzva/dsh-wemedia-workbench",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Harzva/harness-flow-hub",
       "verdict": "cordis-plugin"
     },
@@ -20879,6 +20887,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "jonah791/dsh-agent-toolface",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "jonah791/dsh-agent-vision",
       "verdict": "cordis-plugin"
     },
@@ -20956,6 +20968,10 @@
     },
     {
       "full_name": "jonah791/dsh-sec-tools",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "jonah791/dsh-semantic-docs",
       "verdict": "cordis-plugin"
     },
     {
@@ -41747,6 +41763,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "ThinkForge-core/dsh-upgrade-tools",
+      "verdict": "manual"
+    },
+    {
       "full_name": "thinkingpeach-sketch/wan3-agent-skills",
       "verdict": "manual"
     },
@@ -51527,6 +51547,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "wjingshan/dsh-dock-launcher",
+      "verdict": "script"
+    },
+    {
       "full_name": "wjinxuan/dsh-ai-ui-studio",
       "verdict": "cordis-plugin"
     },
@@ -55901,6 +55925,10 @@
     {
       "full_name": "ymr6666/deepseekHarnessUI",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "YMRwithNoworry/dsh-nushell-only",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "YMRYMR/deepseek-peak",
