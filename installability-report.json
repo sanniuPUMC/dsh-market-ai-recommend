@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T18:57:11.804Z",
+  "generated_at": "2026-09-13T22:36:23.912Z",
   "counts": {
-    "bundle-plugin": 3848,
+    "bundle-plugin": 3853,
     "cordis-plugin": 7914,
     "pkg-plain": 1130,
     "manual": 784,
@@ -10699,6 +10699,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "DNAlec/dsh-message-push",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "dncore/dsh-inhibition",
       "verdict": "cordis-plugin"
     },
@@ -15619,6 +15623,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GuidoMaxier/dsh-locale-es",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GuionAI/web",
       "verdict": "pkg-plain"
     },
@@ -17545,6 +17553,10 @@
     {
       "full_name": "howmp/dsh-pentest",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "hoyin-law/dsh-notify-plus",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hoyyang/dsh-concise",
@@ -27657,6 +27669,10 @@
     {
       "full_name": "marcosmmjr2023/dsh-h-v1",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "MarcSierszen/dsh-specify-lite",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "MarecGents/deepseek-harness-hub",
@@ -41440,6 +41456,10 @@
     },
     {
       "full_name": "Tabbyaccessorial446/dsh-plugin-canvas",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "tabilet/tabilet-skills",
       "verdict": "bundle-plugin"
     },
     {
