@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-09-13T14:14:01.635Z",
-  "count": 1,
+  "generated_at": "2026-09-13T18:44:50.518Z",
+  "count": 4,
   "items": [
     {
-      "full_name": "wowyuarm/dsh-agent-team",
-      "previous": "agent",
-      "current": "memory",
-      "desc_now": "Give DeepSeek Harness a persistent agent team: durable Member identities with private memory, notes and skills across sessions. You set the direction — agents coordinate through Channels and Tasks, and manage their own context.",
-      "desc_prev": "Give DeepSeek Harness a persistent agent team for long-running collaboration"
+      "full_name": "zhengjy01/dsh-task-dispatcher",
+      "previous": "other",
+      "current": "notify",
+      "desc_now": "Task dispatcher for DeepSeek Harness: use TickTick (滴答清单) as the daily task dispatcher — a cordis timer pulls today's due tasks, writes them to the task file, and notifies (WeChat via ClawBot / flomo / macOS); optional auto-execute with result receipts",
+      "desc_prev": "Task dispatcher for DeepSeek Harness: use TickTick (滴答清单) 5️⃣AI as daily task dispatcher (timer + auto-execute + flomo/macOS notify)"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-live-canvas",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "Interactive Visual Frontend Studio, Retool-Style CRUD Engine, Time-Travel Debugger, 31 Agent Tools for DeepSeek Harness",
+      "desc_prev": "Interactive in-browser live canvas for previewing HTML, React JSX, SVG, and diagrams with SSE hot-reload"
+    },
+    {
+      "full_name": "converk/dsh-tweaks",
+      "previous": "tool",
+      "current": "other",
+      "desc_now": "让 DSH（DeepSeek Harness）更顺手的一套小改动",
+      "desc_prev": "让 DSH（DeepSeek Harness）更顺手的一套小改动：prompt-history / model-capabilities / turn-file-revert 三个独立插件"
+    },
+    {
+      "full_name": "geoqiao/paseo-deepseek-harness",
+      "previous": "tool",
+      "current": "other",
+      "desc_now": "Archived: development and releases moved to geoqiao/paseo-stuff/plugins/deepseek-harness. Historical tags retained.",
+      "desc_prev": "Official DeepSeek Harness ACP runtime in Paseo 0.8: native context resume and complete tool output."
     }
   ]
 }
