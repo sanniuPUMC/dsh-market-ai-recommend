@@ -4111,6 +4111,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "ateen18/dsh-plugin-security-review",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "athif23/dsh-context-rollover",
       "verdict": "bundle-plugin"
     },
@@ -4767,12 +4771,20 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "baixianger/dsh-codex-adapter",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "baixianger/dsh-network",
       "verdict": "cordis-plugin"
     },
     {
       "full_name": "baixianger/dsh-session-messaging",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "baixianger/dsh-uni-browser",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "baixianger/dsh-weave",
@@ -12227,6 +12239,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Emck/tirol-dsh-language-set",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "emeryxu1-blip/dsh-matrix-skin",
       "verdict": "bundle-plugin"
     },
@@ -16557,6 +16573,10 @@
     {
       "full_name": "HarryLi-7/dsh-zh",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "harryopo/dsh-cloud-workspaces",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "harryopo/dsh-remote-ide",
@@ -21931,6 +21951,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Kaiji-Z/dsh-plugin-stardeck",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Kaiji-Z/dsh-plugin-warroom",
       "verdict": "bundle-plugin"
     },
@@ -22401,6 +22425,10 @@
     {
       "full_name": "KeqingMoe/dsh-feng-gu",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Kerberos255/dsh-web-search-router",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "kerlyken/dsh-filetransfer",
@@ -27355,6 +27383,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "lyd123qw2008/pi-control-chrome",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Lydian815/anchored-pro",
       "verdict": "manual"
     },
@@ -31303,6 +31335,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Niobium-41-nb/dsh-html-output",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "nirvanaslash/dsh-artifact-preview",
       "verdict": "cordis-plugin"
     },
@@ -31956,6 +31992,10 @@
     },
     {
       "full_name": "odelbos/dsh-models-filter",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "oebeliever/dsh-video-gen",
       "verdict": "bundle-plugin"
     },
     {
@@ -34245,6 +34285,10 @@
     {
       "full_name": "PolinniZhong/dsh-session-kb",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "PolinniZhong/dsh-session-workbench",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "PolinniZhong/dsh-skill-trace",
@@ -57553,6 +57597,10 @@
     {
       "full_name": "Yvesgao/dsh-env-profile",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Yvesgao/dsh-shortcut-creator",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "yweilai77-dev/dsh-plugin-cost",
