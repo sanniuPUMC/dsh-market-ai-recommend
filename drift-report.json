@@ -1,34 +1,27 @@
 {
-  "generated_at": "2026-09-14T09:39:36.715Z",
-  "count": 4,
+  "generated_at": "2026-09-14T16:17:21.082Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "miuzel/dsh-graph",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "把工作组织成目标看板的 DeepSeek Harness (dsh) 插件：目标 / 判据 / 上下文卡片 / 执行 attempt 的二维泳道看板，数据以文件+事件流落在 .dsh-graph · Goal-kanban plugin for DeepSeek Harness",
-      "desc_prev": null
-    },
-    {
-      "full_name": "lemonxiny55/dsh-code-index",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "Structural code index for DeepSeek Harness (dsh): tree-sitter symbol index, ranked lexical search, a bounded auto-injected repo map, and call-graph tracing.",
-      "desc_prev": null
-    },
-    {
-      "full_name": "zukunftsholz/dsh-zgit",
+      "full_name": "seriousz158/dsh-memory",
       "previous": "agent",
-      "current": "coding",
-      "desc_now": "DeepSeek Harness 插件：纯 HTTPS 取源码与发行版，无需 git 二进制、不 clone。| DeepSeek Harness plugin: fetch source & releases over plain HTTPS, no git binary, no clone.",
-      "desc_prev": "敏捷的 git 替代插件，提升 DSH agent 效率 | An agile Git-alternative plugin designed to boost DSH Agent efficiency."
+      "current": "memory",
+      "desc_now": null,
+      "desc_prev": null
     },
     {
-      "full_name": "new-Beginner/dsh-thought-fold",
-      "previous": "other",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness 的原生执行过程折叠与样式增强插件。提供展开段底部收起、输入区智能浮动吸顶收起、中途插话自动分段与任务中断折叠；纯 UI 交互增强，零模型提示词注入，稳定不破坏消息 DOM。",
-      "desc_prev": "DeepSeek Harness ? Codex ?????????????????????"
+      "full_name": "Ayase34/gal-view",
+      "previous": "web-ui",
+      "current": "memory",
+      "desc_now": "把dsh会话界面切换成galgame游戏界面的插件",
+      "desc_prev": "把dsh会话界面切换成galgame游戏界面的插件"
+    },
+    {
+      "full_name": "webkubor/dsh-llm-hub",
+      "previous": "model",
+      "current": "resource",
+      "desc_now": "给 DSH 模型页补上官方适配器缺的那半：网关可达性探测、模型目录拉取、DeepSeek 余额常驻。零运行时依赖，不改动 DSH 安装。",
+      "desc_prev": "DSH 官方直连的 LLM 配置补强：模型发现（Models 页「获取可用模型」对 deepseek-official 生效）+ provider 卡片上的 DeepSeek 余额与可用性。零依赖，不改动 DSH 安装。"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T09:51:50.473Z",
+  "generated_at": "2026-09-14T16:31:36.263Z",
   "count": 8,
   "picks": [
     {
@@ -24,11 +24,6 @@
       "reason": "界面美化 · 近期更新活跃"
     },
     {
-      "full_name": "aosi526/dsh-workbuddy-xdpool",
-      "category": "resource",
-      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
       "full_name": "lehhair/dsh-diff-viewer",
       "category": "web-ui",
       "reason": "界面美化 · 近期更新活跃"
@@ -42,6 +37,11 @@
       "full_name": "omdsh-dev/dsh-plugin-check",
       "category": "coding",
       "reason": "开发编码 · 近期更新活跃"
+    },
+    {
+      "full_name": "NoxTyrannus/dsh-cipher",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
