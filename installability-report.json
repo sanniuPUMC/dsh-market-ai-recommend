@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T16:31:36.096Z",
+  "generated_at": "2026-09-14T21:51:25.407Z",
   "counts": {
-    "bundle-plugin": 3978,
-    "cordis-plugin": 7924,
-    "pkg-plain": 1142,
+    "bundle-plugin": 3987,
+    "cordis-plugin": 7926,
+    "pkg-plain": 1143,
     "manual": 789,
     "script": 250,
     "unknown": 56,
@@ -8155,6 +8155,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "ciceroyang/dsh-topic-audit",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "ciceroyang/dsh-trajectory",
       "verdict": "pkg-plain"
     },
@@ -9657,6 +9661,10 @@
     {
       "full_name": "dami9527/dsh-image-pathify",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "damlys99/dsh-queue-reorder",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "DamonBao/dsh-codex-provider-plugin",
@@ -12120,6 +12128,10 @@
     },
     {
       "full_name": "Ei-Ayw/dsh-word-docs",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "eiainano/agpa-dsh-plugin",
       "verdict": "bundle-plugin"
     },
     {
@@ -15563,6 +15575,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-model-search",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-model-sync",
       "verdict": "bundle-plugin"
     },
@@ -18165,6 +18181,10 @@
     {
       "full_name": "huashenglian/dsh-her-eyes",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "huashenglian/dsh-livechat",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "huashenglian/dsh-omni-workstation",
@@ -30043,6 +30063,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "moonbowterfly/dsh-bio-graft",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MoonCoder-HAPPY/SpecWorkflow",
       "verdict": "cordis-plugin"
     },
@@ -30404,6 +30428,10 @@
     },
     {
       "full_name": "MrTrujay/dsh-weixin-minigame",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "MrWeiCodes/dsh-fs-encoding",
       "verdict": "bundle-plugin"
     },
     {
@@ -30824,6 +30852,10 @@
     },
     {
       "full_name": "naivemap/dsh-geo-viewer",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "NakamuraIA/dsh-plugin-speech",
       "verdict": "cordis-plugin"
     },
     {
@@ -32809,6 +32841,10 @@
     {
       "full_name": "onlyqzq/dsh-riskproof",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "OoJae/dsh-technocore-watch",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ook826092-cloud/dsh-mobile-css",
@@ -42475,6 +42511,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Teow9/dsh-isolation-pod",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "teresalu2024/dsh-qual",
       "verdict": "skill"
     },
@@ -51551,6 +51591,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "wei125775-lab/whalegirl-deskpet",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "weibaohui/context-razor",
       "verdict": "bundle-plugin"
     },
@@ -55156,6 +55200,10 @@
     },
     {
       "full_name": "xinghe-1018/dsh-token-plan-quota",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "xingheyewang-1/dsh-whale-rod-cursor",
       "verdict": "bundle-plugin"
     },
     {
