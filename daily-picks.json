@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T22:36:24.065Z",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T03:36:58.391Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "sluminositys/dsh-nested-followups",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "liqiming-whu/dsh-environment-context",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "SeverusZh/dsh-skills-mcp-group-manager",
+      "full_name": "YZz-S/dsh-workspace-files-explorer",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "PerryLink/dsh-autotier",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "robiteame/dsh-session-tree-extension",
+      "category": "web-ui",
+      "reason": "界面美化 · 近期更新活跃"
+    },
+    {
+      "full_name": "aosi526/dsh-workbuddy-xdpool",
       "category": "resource",
       "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "lispking/dsh-qq-skin",
+      "full_name": "lehhair/dsh-diff-viewer",
       "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "界面美化 · 近期更新活跃"
     },
     {
-      "full_name": "AX1202/ax-feishu-bridge",
-      "category": "coding",
-      "reason": "开发编码 · 近期更新活跃"
-    },
-    {
-      "full_name": "hanshenmesen/dsh-turn-delete",
-      "category": "conversation",
-      "reason": "对话聊天 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "qkycir-123/dsh-run2skill",
-      "category": "conversation",
-      "reason": "对话聊天 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "hancao97/hanai-investment-dsh",
-      "category": "tool",
-      "reason": "通用工具 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "jcaiagent7143-ui/linkdigest-mcp",
+      "full_name": "highland0971/dsh-native-memory",
       "category": "memory",
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-plugin-check",
+      "category": "coding",
+      "reason": "开发编码 · 近期更新活跃"
     }
   ]
 }
