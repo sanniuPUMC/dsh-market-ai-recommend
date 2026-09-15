@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T21:51:25.569Z",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T00:35:10.532Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "liqiming-whu/dsh-environment-context",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "YZz-S/dsh-workspace-files-explorer",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "PerryLink/dsh-autotier",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "robiteame/dsh-session-tree-extension",
-      "category": "web-ui",
-      "reason": "界面美化 · 近期更新活跃"
-    },
-    {
-      "full_name": "lehhair/dsh-diff-viewer",
-      "category": "web-ui",
-      "reason": "界面美化 · 近期更新活跃"
-    },
-    {
-      "full_name": "highland0971/dsh-native-memory",
+      "full_name": "himovo/movo",
       "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "记忆知识 · 近期更新活跃"
     },
     {
-      "full_name": "omdsh-dev/dsh-plugin-check",
+      "full_name": "zh667/TokenLedger",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "k-ying/dsh-vsceditor",
       "category": "coding",
-      "reason": "开发编码 · 近期更新活跃"
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "NoxTyrannus/dsh-cipher",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Jimmyzwang-cloud/dsh-inkscreen-theme",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Minglink/dsh-infinite-gen-4",
+      "category": "tool",
+      "reason": "通用工具 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "MichengAI/dsh-agency-agents",
+      "category": "agent",
+      "reason": "Agent 自动化 · 近期更新活跃"
+    },
+    {
+      "full_name": "alexchenzl/dsh-plugin-directory",
+      "category": "resource",
+      "reason": "聚合资源 · 近期更新活跃"
+    },
+    {
+      "full_name": "tingfeng347/dsh-vscode-workbench",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

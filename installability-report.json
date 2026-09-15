@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T21:51:25.407Z",
+  "generated_at": "2026-09-15T00:35:10.392Z",
   "counts": {
-    "bundle-plugin": 3987,
+    "bundle-plugin": 3988,
     "cordis-plugin": 7926,
     "pkg-plain": 1143,
     "manual": 789,
@@ -57204,6 +57204,10 @@
     },
     {
       "full_name": "yoshino-xiao7/dsh-grok-provider",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "youdotcom-oss/dsh-plugin-youcom",
       "verdict": "bundle-plugin"
     },
     {
