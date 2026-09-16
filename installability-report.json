@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T19:42:50.650Z",
+  "generated_at": "2026-09-16T23:02:07.124Z",
   "counts": {
-    "bundle-plugin": 4184,
+    "bundle-plugin": 4191,
     "cordis-plugin": 7934,
     "pkg-plain": 1159,
     "manual": 796,
@@ -16235,11 +16235,31 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "guhanfei-ai/dsh-fingerprint-signature",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "guhanfei-ai/dsh-grafana",
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "guhanfei-ai/dsh-human-intent",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "guhanfei-ai/dsh-introspect",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "guhanfei-ai/dsh-mindmap",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "guhanfei-ai/dsh-searchops",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "guhanfei-ai/dsh-worldsense",
       "verdict": "bundle-plugin"
     },
     {
@@ -27689,6 +27709,10 @@
     {
       "full_name": "luhaifeng666/dsh-balance-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "luigiinred/dsh-git-status-pill",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "luis1232023/dsh-workspace-enhance",
@@ -42505,6 +42529,10 @@
     {
       "full_name": "suzike/freestyle-dsh-theme",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "SUZUNAMI/dsh-workspace-hide",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "suzuran520yyz/dsh-more-message-actions",
