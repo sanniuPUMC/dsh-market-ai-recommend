@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-16T14:57:16.934Z",
+  "generated_at": "2026-09-16T19:42:50.650Z",
   "counts": {
-    "bundle-plugin": 4168,
-    "cordis-plugin": 7933,
-    "pkg-plain": 1158,
-    "manual": 793,
+    "bundle-plugin": 4184,
+    "cordis-plugin": 7934,
+    "pkg-plain": 1159,
+    "manual": 796,
     "script": 256,
     "unknown": 56,
     "skill": 395,
-    "multi-plugin": 474,
+    "multi-plugin": 475,
     "gone": 54,
     "agent-preset": 54,
     "empty": 30
@@ -120,6 +120,10 @@
     },
     {
       "full_name": "0QwQ0/dsh-ui-auth",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "0rangeSoda1506/dsh-fx-marquee",
       "verdict": "bundle-plugin"
     },
     {
@@ -2356,6 +2360,10 @@
     },
     {
       "full_name": "Aik358/dsh-literature",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Aik358/dsh-memory-fitting",
       "verdict": "bundle-plugin"
     },
     {
@@ -4816,6 +4824,10 @@
     },
     {
       "full_name": "bainianlaoyao/windows-bash",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "bainianling/dsh-jailbreak-mode",
       "verdict": "cordis-plugin"
     },
     {
@@ -10095,6 +10107,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "DaXYao/dsh-plugin-fluffy-yard",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "DaYanHCD/DSH-Balance-Mini",
       "verdict": "bundle-plugin"
     },
@@ -12319,6 +12335,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Edisonzszs/web-clone",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "EDMOK/claude-vision-mcp",
       "verdict": "pkg-plain"
     },
@@ -13695,6 +13715,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "fengbinmov/dsh-git-panel",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "fenghua00/dsh-sound-effects",
       "verdict": "bundle-plugin"
     },
@@ -14380,6 +14404,10 @@
     },
     {
       "full_name": "FourTow/dsh-theme-win98",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "fourzkw/dsh-drawai",
       "verdict": "bundle-plugin"
     },
     {
@@ -15333,6 +15361,10 @@
     {
       "full_name": "gfds2005/dsh-timed-goal",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "GGboya/dsh-paper-reader",
+      "verdict": "manual"
     },
     {
       "full_name": "ggggggggggz/dsh-config",
@@ -19077,6 +19109,10 @@
     {
       "full_name": "iamaanahmad/everything-kiro",
       "verdict": "manual"
+    },
+    {
+      "full_name": "Iambatman1928/dsh-xingye",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "iambbp/dsh-monitor",
@@ -28811,6 +28847,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "masknull/dsh-workbuddy-connect",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "masknull/dsh-workspace-default-path",
       "verdict": "bundle-plugin"
     },
@@ -30669,6 +30709,10 @@
     {
       "full_name": "Moraxyc/dsh-cpa",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "more-nico/dsh-nico-theme",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "moreWax/dsh-remote-exec",
@@ -37215,6 +37259,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "rootkiller6788/dsh-plugin-anything",
+      "verdict": "manual"
+    },
+    {
       "full_name": "ropon/dsh-plugin-clawrouters",
       "verdict": "cordis-plugin"
     },
@@ -40545,6 +40593,10 @@
     {
       "full_name": "skystar567/dsh-openai-plugins",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "skyyyyyk/dsh-szg-hint",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "skyzhao1223/dsh-plugin-scaffold",
@@ -51463,6 +51515,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "vlozg/dsh-autoresearch",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "Vmarcelo49/dsh-local-models",
       "verdict": "bundle-plugin"
     },
@@ -58059,6 +58115,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "youdotcom-oss/agent-skills",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "youdotcom-oss/dsh-plugin-youcom",
       "verdict": "bundle-plugin"
     },
@@ -58375,6 +58435,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "yuanyiHY/deepseek-media-gallery",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yuanyiHY/dsh-rail-equalizer",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "YuanyuanMa03/cot-lint",
       "verdict": "cordis-plugin"
     },
@@ -58401,6 +58469,10 @@
     {
       "full_name": "YUCONG-28/dsh-skills-plugins",
       "verdict": "manual"
+    },
+    {
+      "full_name": "yudaxia1/dsh-sidebar-file-menu",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "YUEEEEY/dsh-desktop-tools",
@@ -59124,6 +59196,10 @@
     },
     {
       "full_name": "zaimokuza-yoshiteru/dsh-acp-adapter",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "zaimokuza-yoshiteru/dsh-agent-teams-office",
       "verdict": "bundle-plugin"
     },
     {
@@ -60853,6 +60929,18 @@
     {
       "full_name": "zmh2000829/dsh-x-connect",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "zmm863-commits/dsh-agnes-studio",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "zmm863-commits/dsh-client-ui-paopaocat",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "zmm863-commits/dsh-desktop-pack",
+      "verdict": "manual"
     },
     {
       "full_name": "zmm863-commits/dsh-dice-game",

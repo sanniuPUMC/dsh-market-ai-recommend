@@ -1,41 +1,13 @@
 {
-  "generated_at": "2026-09-16T14:43:12.640Z",
-  "count": 5,
+  "generated_at": "2026-09-16T19:29:21.057Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "howmp/dsh-pentest",
-      "previous": "coding",
-      "current": "other",
-      "desc_now": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "desc_prev": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs"
-    },
-    {
-      "full_name": "ZJU-LLMs/OpenStory",
-      "previous": "document",
-      "current": "tool",
-      "desc_now": "An LLM-powered multi-agent framework for simulating interactive, evolving story worlds.",
-      "desc_prev": "An LLM-powered multi-agent framework for simulating interactive, evolving story worlds."
-    },
-    {
-      "full_name": "kanneiren/dsh-network-settings",
-      "previous": "other",
-      "current": "tool",
-      "desc_now": "DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS",
-      "desc_prev": "DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS"
-    },
-    {
-      "full_name": "axelfreeman/marketing-mindset",
-      "previous": "coding",
-      "current": "notify",
-      "desc_now": "The marketing OS for AI agents — a free MIT skill that teaches how a marketer decides: 3-month horizon, fast tests, minimum test volumes, scale what comes easy.",
-      "desc_prev": "The marketing OS for AI agents — think like a marketer first, get tactics as the output."
-    },
-    {
-      "full_name": "aosi526/dsh-workbuddy-xdpool",
-      "previous": "resource",
-      "current": "other",
-      "desc_now": "将 WorkBuddy 桌面 App 里登录过的所有账号自动并入一个 DeepSeek Harness 模型池：无需任何手动配置，你在 WorkBuddy 桌面登录的每个账号都会成为一个池成员；某个账号被限流（429）时，请求会自动切换到下一个可用账号，实现多账号自动容错轮换。",
-      "desc_prev": "Merge every locally signed-in WorkBuddy account into DeepSeek Harness as one auto-failing-over model pool (multi-account rotation, live credits and model catalog)."
+      "full_name": "rootkiller6788/dsh-flow",
+      "previous": "conversation",
+      "current": "agent",
+      "desc_now": "A pluginized microkernel architecture for building, orchestrating, and extending multi-agent systems in DeepSeek Harness.",
+      "desc_prev": "dsh-flow —— DeepSeek Harness 的统一智能体画布：把需求会话、多智能体团队、成员任务与发言、依赖 DAG 编织进同一张可交互时间轴，让 Agent 从“后台运行”变成“可视化协作”。"
     }
   ]
 }
