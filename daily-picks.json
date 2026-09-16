@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T21:10:02.972Z",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T00:21:37.335Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "himovo/movo",
-      "category": "memory",
-      "reason": "记忆知识 · 近期更新活跃"
+      "full_name": "zljr/dsh-share",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "zh667/TokenLedger",
+      "full_name": "DavidRm1911/dsh-llm-subscription",
       "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "k-ying/dsh-vsceditor",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "EverMind-AI/EverOS",
+      "category": "memory",
+      "reason": "记忆知识 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "Jimmyzwang-cloud/dsh-inkscreen-theme",
+      "full_name": "Phant0Meow/dsh-meow-memory",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "BeiZi6/dsh-opencodego-usage",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Minglink/dsh-infinite-gen-4",
+      "full_name": "zmm863-commits/dsh-paperclip",
       "category": "tool",
-      "reason": "通用工具 · 高星社区精选 · 近期更新活跃"
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "MichengAI/dsh-agency-agents",
-      "category": "agent",
-      "reason": "Agent 自动化 · 近期更新活跃"
+      "full_name": "kingOfSoySauce/dsh-skin-market",
+      "category": "web-ui",
+      "reason": "界面美化 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "alexchenzl/dsh-plugin-directory",
-      "category": "resource",
-      "reason": "聚合资源 · 近期更新活跃"
-    },
-    {
-      "full_name": "tingfeng347/dsh-vscode-workbench",
+      "full_name": "yangshen830-eng/dsh-editor",
       "category": "coding",
       "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     }
