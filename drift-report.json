@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-09-16T03:47:02.226Z",
+  "count": 1,
+  "items": [
+    {
+      "full_name": "BananaSoldier01/dsh-tidychat",
+      "previous": "conversation",
+      "current": "web-ui",
+      "desc_now": "DSH Web 会话时间线整理：轮次自动折叠（只留结论）+ 过程/结论分隔线 + 边缘导航消息轨（左右贴边 / 横线·圆点）+ 智能加载更早历史；可接管 DSH 0.1.2+ 官方右缘 TurnNavigator",
+      "desc_prev": "DSH Web 会话时间线整理：自动折叠 / 分隔线 / 左缘定位条 / 四开关设置"
+    }
+  ]
+}
