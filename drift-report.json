@@ -1,41 +1,27 @@
 {
-  "generated_at": "2026-09-17T09:18:25.433Z",
-  "count": 5,
+  "generated_at": "2026-09-17T14:49:55.873Z",
+  "count": 3,
   "items": [
     {
-      "full_name": "ZSeven-W/dsh-android",
-      "previous": "conversation",
-      "current": "web-ui",
-      "desc_now": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
-      "desc_prev": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
+      "full_name": "yjh051108/dsh-router-standard",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
+      "desc_prev": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite"
     },
     {
-      "full_name": "v587d/capital-generation",
-      "previous": "agent",
-      "current": "tool",
-      "desc_now": "面向中国股市散户的金融投资智能体。Next-Gen AI-Driven Capital Generation.",
-      "desc_prev": "面向中国股市散户的金融投资智能体。Next-Gen AI-Driven Capital Generation."
+      "full_name": "Ultronen/dsh-archived-chats",
+      "previous": "tool",
+      "current": "memory",
+      "desc_now": "Local-first Session Archive for DeepSeek Harness: bulk archive, full-text search and native preview, tags and notes, ZIP backups, snapshot-protected Recycle Bin, storage and retention, lineage, and preserved legacy recovery data.",
+      "desc_prev": "Local-first session lifecycle for DeepSeek Harness: safely bulk-archive workspaces, search and preview archived chats, restore history as copies, manage backups, recycle protection, retention, and lineage."
     },
     {
-      "full_name": "GTC2080/dsh-APEX_Plugin",
+      "full_name": "chen731215-dev/dsh-tavern-v2",
       "previous": "agent",
-      "current": "other",
-      "desc_now": "DeepSeek Harness 的 APEX 实验插件",
-      "desc_prev": "DeepSeek Harness 的 APEX 实验插件：Minimal 锚定、Pro 主导、视觉版 Flash Max 有界协作与宿主级 Web 验收。"
-    },
-    {
-      "full_name": "He2way/dsh-task-console",
-      "previous": "agent",
-      "current": "conversation",
-      "desc_now": "DSH client plugin: flip the page over to a glass task console — live jobs, subagents, session and workspace cards, an infinite canvas that unrolls a card into its own controls, embedded web apps, and a conversation box that edits the canvas.",
-      "desc_prev": "DSH client plugin: a floating glass task console on the back of the page — live background jobs, subagents, session overview and workspace for the current session, with mouse-draggable cards."
-    },
-    {
-      "full_name": "darrien1998/dsh-ditto",
-      "previous": "agent",
-      "current": "tool",
-      "desc_now": "AI is great at doing one file. Ditto is for doing the same thing to 30 files without babysitting all 30. Review-first batch automation plugin for DeepSeek Harness: 3 reviewed samples → full preview → approve → safe apply.",
-      "desc_prev": "Review-first batch automation for DeepSeek Harness — review a few examples, preview the whole batch, then apply safely."
+      "current": "memory",
+      "desc_now": "DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0",
+      "desc_prev": "DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0"
     }
   ]
 }
