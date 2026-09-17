@@ -1,27 +1,41 @@
 {
-  "generated_at": "2026-09-17T14:49:55.873Z",
-  "count": 3,
+  "generated_at": "2026-09-17T19:41:16.695Z",
+  "count": 5,
   "items": [
     {
-      "full_name": "yjh051108/dsh-router-standard",
+      "full_name": "weekitmo/oh-my-dsh-plugins",
+      "previous": "other",
+      "current": "resource",
+      "desc_now": "A curated collection of awesome plugins for DeepSeek Harness (DSH) — task notifications, LLM trace inspection, keybindings with a built-in terminal, and local agent delegation.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "john-walks-slow/dsh-simulated-life",
       "previous": "tool",
+      "current": "memory",
+      "desc_now": "Simulated life context for DeepSeek Harness: reads .life/<date> events into agent context with dedup, and a life_react tool to write feelings, thoughts and actions back for world-evolution workflows.",
+      "desc_prev": "Simulated life context and world evolution for DeepSeek Harness: injects past 24h simulated events and provides life_react tool."
+    },
+    {
+      "full_name": "john-walks-slow/dsh-proactive",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "Proactive follow-ups for DeepSeek Harness: the model schedules host-level alarms (once/every/cron with jitter, quiet hours, daily budget) that resume cold sessions, with tombstone compaction and a live web panel.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "akvi0921/dsh-console-tap",
+      "previous": "web-ui",
+      "current": "other",
+      "desc_now": "【已停止维护/归档】旧版控制台显形插件 → 新插件见 akvi0921/dsh-build-progress",
+      "desc_prev": "DSH 控制台显形插件:把助手执行的命令与完整控制台输出实时推给前端(官方 WebUI 悬浮控制台)"
+    },
+    {
+      "full_name": "xswt442-cmd/dsh-xswt-tauriapp",
+      "previous": "desktop",
       "current": "coding",
-      "desc_now": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "desc_prev": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite"
-    },
-    {
-      "full_name": "Ultronen/dsh-archived-chats",
-      "previous": "tool",
-      "current": "memory",
-      "desc_now": "Local-first Session Archive for DeepSeek Harness: bulk archive, full-text search and native preview, tags and notes, ZIP backups, snapshot-protected Recycle Bin, storage and retention, lineage, and preserved legacy recovery data.",
-      "desc_prev": "Local-first session lifecycle for DeepSeek Harness: safely bulk-archive workspaces, search and preview archived chats, restore history as copies, manage backups, recycle protection, retention, and lineage."
-    },
-    {
-      "full_name": "chen731215-dev/dsh-tavern-v2",
-      "previous": "agent",
-      "current": "memory",
-      "desc_now": "DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0",
-      "desc_prev": "DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0"
+      "desc_now": "给 DeepSeek Harness 的轻量 Tauri 桌面外壳：窗口、进程、启停与复用、会话交接、菜单与托盘、快捷键、更新和故障恢复归外壳，页面内容仍归 dsh。 A lightweight Tauri desktop shell for DeepSeek Harness: windows, the dsh server process, launch and reuse, the session hand-off, menu and tray, hotkeys, updates and failure recovery are the shell's; the page stays dsh's.",
+      "desc_prev": null
     }
   ]
 }
