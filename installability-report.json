@@ -6111,6 +6111,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "BOWLUNA/dsh-custom-mode",
+      "verdict": "script"
+    },
+    {
       "full_name": "BoWuGit/dsh-reasoning",
       "verdict": "bundle-plugin"
     },
@@ -6832,6 +6836,10 @@
     },
     {
       "full_name": "CARVIN94/dsh-router-codebuddy",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "CARVIN94/dsh-router-ext-rtk",
       "verdict": "bundle-plugin"
     },
     {
@@ -9584,6 +9592,10 @@
     },
     {
       "full_name": "cyanTao/dsh-process-board",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "cyanxi-eb/dsh-self-memory",
       "verdict": "bundle-plugin"
     },
     {
@@ -15127,6 +15139,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "ganningniang/dsh-offpeak-job",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GanymedeNil/dsh-plugins",
       "verdict": "multi-plugin"
     },
@@ -15561,6 +15577,22 @@
     {
       "full_name": "ginuim/multi-screen-wireframe",
       "verdict": "skill"
+    },
+    {
+      "full_name": "Gishi1/calaloud",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Gishi1/fanficfare-service",
+      "verdict": "manual"
+    },
+    {
+      "full_name": "Gishi1/katacoda-scenarios",
+      "verdict": "manual"
+    },
+    {
+      "full_name": "Gishi1/OpenAI-TTS-API-Relay-Server",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "GIStudio/ai-companion-reading",
@@ -26999,6 +27031,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LLLike27/One-Time-Link",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "llluchy/dsh-hive",
       "verdict": "cordis-plugin"
     },
@@ -27560,6 +27596,10 @@
     },
     {
       "full_name": "loyalchiiina/dsh-todo-float-ball",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "lpf20200901/dsh-memory-delta",
       "verdict": "bundle-plugin"
     },
     {
@@ -31491,6 +31531,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "mzzsfy/dsh-plugin",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "n0pe-sled/clear-session-history",
       "verdict": "bundle-plugin"
     },
@@ -31801,6 +31845,10 @@
     {
       "full_name": "NB4747/dsh-session-sync",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "NBagent-dev/metaflywheel",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ne-ilyxa/dsh-session-drafts",
@@ -35929,6 +35977,10 @@
     {
       "full_name": "qinyre/dsh-Desktop",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "qinyre/dsh-plugin-archive-manager",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "qinyre/dsh-plugin-atlas",
@@ -42605,6 +42657,10 @@
     {
       "full_name": "SuperMate-Ai/SuperMate-Harness-System",
       "verdict": "manual"
+    },
+    {
+      "full_name": "SuperPaiGu/dsh-conversation-outline",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "SuperPaiGu/dsh-mcp-panel",
@@ -61201,6 +61257,10 @@
     {
       "full_name": "zmm863-commits/dsh-dice-game",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "zmm863-commits/dsh-paopaocat-suite",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zmm863-commits/dsh-paperclip",
