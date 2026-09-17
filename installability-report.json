@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T19:58:57.447Z",
+  "generated_at": "2026-09-17T23:03:39.917Z",
   "counts": {
-    "bundle-plugin": 4291,
+    "bundle-plugin": 4295,
     "cordis-plugin": 7938,
-    "pkg-plain": 1172,
-    "manual": 809,
+    "pkg-plain": 1173,
+    "manual": 810,
     "script": 258,
     "unknown": 56,
     "skill": 396,
@@ -6109,6 +6109,10 @@
     {
       "full_name": "botaochen840-lgtm/fatfish-pet-smart-companion",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "BotHarness/BotHarness",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "BotonJ/dsh-plugin-sentinel",
@@ -17583,6 +17587,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "heartmove/dsh-session-bridge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "heartmove/dsh-side-chat",
       "verdict": "cordis-plugin"
     },
@@ -27525,6 +27533,10 @@
     {
       "full_name": "loongsuite/dsh-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "loonylabs-dev/dsh-cache-guard",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Loopiplusplus/dsh-plugin-toggle-manager",
@@ -44635,6 +44647,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "tommyhedgerow/Mimir",
+      "verdict": "manual"
+    },
+    {
       "full_name": "tomowang/dsh-data-agent",
       "verdict": "bundle-plugin"
     },
@@ -59983,6 +59999,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "zemanzhang809/dsh-stt-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "zemul/dsh-generate-image",
       "verdict": "cordis-plugin"
     },
@@ -60161,6 +60181,10 @@
     {
       "full_name": "Zessi-C/biofigure-self-evolve",
       "verdict": "skill"
+    },
+    {
+      "full_name": "zeta987/dsh-git-style-zeta",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zeta987/dsh-notify-zeta",
