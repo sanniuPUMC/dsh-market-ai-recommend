@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T23:02:07.282Z",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T03:34:04.967Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "zljr/dsh-share",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "DavidRm1911/dsh-llm-subscription",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "EverMind-AI/EverOS",
-      "category": "memory",
-      "reason": "记忆知识 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "Phant0Meow/dsh-meow-memory",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "BeiZi6/dsh-opencodego-usage",
+      "full_name": "cookiesheep/whale-on-desk",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "zmm863-commits/dsh-paperclip",
+      "full_name": "Max-Null/dsh-memory",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Asher-2000/dsh-memory-connect",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Hua1Q1nG/dsh-prompt-self",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "ringoage/dsh-subagent-model-picker",
+      "category": "agent",
+      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Rianico/dsh-better-edit",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
+    },
+    {
+      "full_name": "Isilsolme/dsh-splash-launcher",
+      "category": "desktop",
+      "reason": "桌面应用 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "MarchLiu/dsh-graft",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "kingOfSoySauce/dsh-skin-market",
-      "category": "web-ui",
-      "reason": "界面美化 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "yangshen830-eng/dsh-editor",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
