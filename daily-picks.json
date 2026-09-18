@@ -4,6 +4,11 @@
   "count": 8,
   "picks": [
     {
+      "full_name": "fuhefei/dsh-sentinel",
+      "category": "web-ui",
+      "reason": "界面美化 · 近期更新活跃"
+    },
+    {
       "full_name": "SZMY-haruhi/dsh-session-plus",
       "category": "resource",
       "reason": "聚合资源 · 社区聚合页收录"
@@ -32,11 +37,6 @@
       "full_name": "whitelonng/dshcode",
       "category": "resource",
       "reason": "聚合资源 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "AITabby/dockyard-dsh",
-      "category": "web-ui",
-      "reason": "界面美化 · 近期更新活跃"
     },
     {
       "full_name": "zkl22492-star/Toolfolk-for-DSH",
