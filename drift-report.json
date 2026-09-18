@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-09-18T08:55:31.976Z",
-  "count": 1,
+  "generated_at": "2026-09-18T14:13:08.522Z",
+  "count": 4,
   "items": [
     {
-      "full_name": "avdergh/poe2-exile-architect",
+      "full_name": "TFboy1/dsh-minecraft-ui",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "deepseek harness  Minecraft UI ",
+      "desc_prev": "deepseek harness  Minecraft UI "
+    },
+    {
+      "full_name": "wss534857356/dsh-plugin-codex",
       "previous": "tool",
-      "current": "memory",
-      "desc_now": "Research, create, and understand Path of Exile 2 builds with AI agents and Path of Building.",
-      "desc_prev": "Research, create, and understand Path of Exile 2 builds with AI agents and Path of Building."
+      "current": "other",
+      "desc_now": "Codex App Server model provider for DeepSeek Harness using your local Codex login.",
+      "desc_prev": "Codex App Server model provider for DeepSeek Harness using your local Codex login."
+    },
+    {
+      "full_name": "loyalchiiina/dsh-todo-float-ball",
+      "previous": "tool",
+      "current": "web-ui",
+      "desc_now": "Floating todo progress ball for DSH: live done/total + active task, status colours, draggable, Shadow-DOM isolated, dual-channel sync, history archive (cleanup/restore/copy), pinned sessions, layout switch, discipline injection + first-call gate, 128 shared skins, web + desktop. 常驻 todo 进度悬浮球：实时进度/状态色/历史归档/固定会话/布局切换/纪律注入+首调用硬门/128 皮肤统一，双端可用。",
+      "desc_prev": "Floating progress ball for DeepSeek Harness (DSH): keeps the AI agent's todo_write checklist on a persistent, draggable ball with live status colors. EN/CN bilingual."
+    },
+    {
+      "full_name": "BOWLUNA/dsh-custom-mode",
+      "previous": "conversation",
+      "current": "coding",
+      "desc_now": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its base mode, switch plugins row by row, and keep several assistants (multi-mode) side by side.",
+      "desc_prev": "Custom agent modes for DeepSeek Harness (dsh): manage many assistants from one settings page, each with its own editable system prompt, base mode and per-row plugin switches."
     }
   ]
 }
