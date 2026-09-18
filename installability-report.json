@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T19:11:59.621Z",
+  "generated_at": "2026-09-18T22:38:10.936Z",
   "counts": {
-    "bundle-plugin": 4395,
+    "bundle-plugin": 4398,
     "multi-plugin": 487,
     "cordis-plugin": 7949,
-    "pkg-plain": 1179,
+    "pkg-plain": 1180,
     "manual": 815,
     "script": 260,
     "unknown": 56,
@@ -16215,6 +16215,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-agent-orchestrator",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-approval-gate",
       "verdict": "bundle-plugin"
     },
@@ -27563,6 +27567,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "LMPrado-DZ23/awesome-agent-plugins",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "lmr233/dsh-git-update-notifier",
       "verdict": "bundle-plugin"
     },
@@ -36935,6 +36943,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Qulierm/dsh-macos-settings-shortcut",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Quophic/dsh-persona-memory",
       "verdict": "cordis-plugin"
     },
@@ -38845,6 +38857,10 @@
     {
       "full_name": "saqie803/ponytail",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Saretheya/dsh-lantern",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Saretheya/dsh-settings-nav-order",
