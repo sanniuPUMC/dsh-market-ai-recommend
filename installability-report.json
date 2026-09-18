@@ -1,22 +1,26 @@
 {
-  "generated_at": "2026-09-17T23:03:39.917Z",
+  "generated_at": "2026-09-18T03:26:25.996Z",
   "counts": {
-    "bundle-plugin": 4295,
-    "cordis-plugin": 7938,
+    "bundle-plugin": 4304,
+    "cordis-plugin": 7939,
     "pkg-plain": 1173,
-    "manual": 810,
+    "manual": 811,
     "script": 258,
     "unknown": 56,
     "skill": 396,
-    "multi-plugin": 483,
+    "multi-plugin": 484,
     "gone": 54,
-    "agent-preset": 54,
+    "agent-preset": 55,
     "empty": 30
   },
   "repos": [
     {
       "full_name": "00080000/dsh-project-memory",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "01men/CDPP",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "01men/RQ-DSH",
@@ -2155,6 +2159,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "afterrealism/dsh-conn-dot",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "afterrealism/dsh-session-ctxmenu",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "aga-j/dsh-mini-games",
       "verdict": "cordis-plugin"
     },
@@ -3621,6 +3633,10 @@
     {
       "full_name": "AntheaLaffy/missing-semester-skills-dsh",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "anthonyyu-verkada/dsh-mcp-client-plus",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "antibrow/dsh-antibrow",
@@ -10976,6 +10992,10 @@
     },
     {
       "full_name": "ding112/MoneyPal",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "dingchenhui0618-arch/dsh-imagegen-skill",
       "verdict": "bundle-plugin"
     },
     {
@@ -24079,6 +24099,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "knyazev741/knyazevai-dsh",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "KoanJan/dsh-plugin-boundary",
       "verdict": "cordis-plugin"
     },
@@ -24349,6 +24373,10 @@
     {
       "full_name": "krystal-cao/deepseek-harness-swift",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "KSF1216/chinese-script-policy",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ktao732084-arch/dsh-vibegap",
@@ -29075,6 +29103,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "mario841859784/dsh-expert-orchestrator",
+      "verdict": "agent-preset"
+    },
+    {
       "full_name": "mario841859784/dsh-onebot",
       "verdict": "cordis-plugin"
     },
@@ -29405,6 +29437,10 @@
     {
       "full_name": "MAXeaglet/dsh-plugin-manager",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "maxesisnclaw/dsh-download-button",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "maxesisnclaw/dsh-lan-gate",
@@ -30229,6 +30265,10 @@
     {
       "full_name": "Mingbing-get/holdRein",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "mingger77/project-learning-helper",
+      "verdict": "manual"
     },
     {
       "full_name": "mingger77/project-learning-preset",
@@ -40355,6 +40395,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "shkzhang/dsh-file-link-menu",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "shlouai/dsh-debate",
       "verdict": "bundle-plugin"
     },
@@ -44161,6 +44205,10 @@
     {
       "full_name": "tianyagk/dsh-tradewatcher",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "tianyaojiudi-prog/dsh-djy-xttsc",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "tianyhjg-lab/dsh-font",
@@ -51653,6 +51701,10 @@
     {
       "full_name": "vcxmug/dsh-evo",
       "verdict": "script"
+    },
+    {
+      "full_name": "VDERR/echocat-skill-panel-3.0",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "vdnight89/InfiniteDSH",

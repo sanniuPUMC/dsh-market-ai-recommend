@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T23:03:40.156Z",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T03:26:26.165Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "cookiesheep/whale-on-desk",
+      "full_name": "SZMY-haruhi/dsh-session-plus",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录"
+    },
+    {
+      "full_name": "bycall/dsh-code-collector",
+      "category": "conversation",
+      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "lovezi0/dsh-model-extension",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Clarklevis1995/dsh-mobile",
       "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "界面美化 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "Max-Null/dsh-memory",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "ishuowang/dsh-sideband",
+      "category": "notify",
+      "reason": "通知通讯 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Asher-2000/dsh-memory-connect",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "whitelonng/dshcode",
+      "category": "resource",
+      "reason": "聚合资源 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "Hua1Q1nG/dsh-prompt-self",
+      "full_name": "AITabby/dockyard-dsh",
       "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "界面美化 · 近期更新活跃"
     },
     {
-      "full_name": "ringoage/dsh-subagent-model-picker",
-      "category": "agent",
-      "reason": "Agent 自动化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Rianico/dsh-better-edit",
-      "category": "tool",
-      "reason": "通用工具 · 近期更新活跃"
-    },
-    {
-      "full_name": "Isilsolme/dsh-splash-launcher",
-      "category": "desktop",
-      "reason": "桌面应用 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "MarchLiu/dsh-graft",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "zkl22492-star/Toolfolk-for-DSH",
+      "category": "document",
+      "reason": "文档办公 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

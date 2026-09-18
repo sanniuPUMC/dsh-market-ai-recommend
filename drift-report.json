@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-18T03:11:32.642Z",
+  "count": 2,
+  "items": [
+    {
+      "full_name": "FishBottle7/opencode2dsh",
+      "previous": "coding",
+      "current": "tool",
+      "desc_now": "DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key",
+      "desc_prev": "DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key"
+    },
+    {
+      "full_name": "liuhange789/data-asset-inspector",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "Data Asset Inspector Plugin Suite - full-chain data asset registration toolkit for DeepSeek Harness (DSH)",
+      "desc_prev": "???????"
+    }
+  ]
+}
