@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-19T14:00:32.931Z",
+  "generated_at": "2026-09-19T17:15:14.110Z",
   "counts": {
-    "bundle-plugin": 4457,
+    "bundle-plugin": 4469,
     "multi-plugin": 490,
-    "cordis-plugin": 7954,
-    "pkg-plain": 1182,
+    "cordis-plugin": 7955,
+    "pkg-plain": 1185,
     "manual": 815,
     "script": 262,
     "unknown": 56,
@@ -19267,6 +19267,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Hugo16/dsh-session-rotate-on-compact",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "huguangyu666/dsh-plugin-ai-gateway",
       "verdict": "bundle-plugin"
     },
@@ -20175,6 +20179,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "imtokenxinluo/dsh-contract-check",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Imzl-zl/dsh-mcp-manager-ui",
       "verdict": "cordis-plugin"
     },
@@ -20324,6 +20332,10 @@
     },
     {
       "full_name": "IQzhan/deepseek-harness-model-router",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "IQzhan/dsh-rebooter",
       "verdict": "pkg-plain"
     },
     {
@@ -22769,6 +22781,10 @@
     {
       "full_name": "JR-JR07/dsh-modlens-installer",
       "verdict": "script"
+    },
+    {
+      "full_name": "JRJRJPRO/dsh-tree",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "JRNitre/dsh_deepseekapi_quota",
@@ -28027,6 +28043,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "loopx-project/loopx",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "Loping151/dsh-vibeos",
       "verdict": "cordis-plugin"
     },
@@ -30331,6 +30351,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Meowrium/dsh-copy-file-path",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Meowrium/dsh-sidebar-image-zoom",
       "verdict": "bundle-plugin"
     },
@@ -31531,6 +31555,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "moonbowterfly/dsh-bio-gem",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "moonbowterfly/dsh-bio-genie",
       "verdict": "cordis-plugin"
     },
@@ -32083,6 +32111,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "mustakimabdullah25-tech/dsh-screen-translator",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MutaLucem/dsh-plugin-integration",
       "verdict": "cordis-plugin"
     },
@@ -32181,6 +32213,10 @@
     {
       "full_name": "my-dsh/dsh-web-search-tavily",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "myc0576/SmartMoney-Cub",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "mycherish/dsh-bridge",
@@ -33497,6 +33533,10 @@
     {
       "full_name": "Noob-stupid/dsh-github-login",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Noob-stupid/dsh-plugin-gating-hub",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Noob-stupid/dsh-plugin-hub",
@@ -35524,6 +35564,10 @@
     },
     {
       "full_name": "PerryLink/dsh-plugin-upgrade",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "PerryLink/dsh-plugin-upgrade-016",
       "verdict": "bundle-plugin"
     },
     {
@@ -37783,6 +37827,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "reisen-ww/dsh-bonk-pet",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "rekey/dsh-link",
       "verdict": "pkg-plain"
     },
@@ -38119,6 +38167,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "rinttt233/dsh-peak-brief",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "RiRi9909/DeepSeekHarness-community-index",
       "verdict": "cordis-plugin"
     },
@@ -38441,6 +38493,10 @@
     {
       "full_name": "rsagacom/dsh-ajw",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "rsdgnchen/dsh-bottom-dock",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "rsdgnchen/dsh-terminal",
@@ -54963,6 +55019,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "WoodSettler/dsh-local-proxy",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "WOOK98/airesearch-plugin",
       "verdict": "cordis-plugin"
     },
@@ -58621,6 +58681,10 @@
     {
       "full_name": "YaoaY/dsh-gpt-compat",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "yaodongH/dsh-better-summary",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "yaodongH/dsh-doc-review",
