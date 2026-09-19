@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-09-19T08:38:07.795Z",
-  "count": 2,
+  "generated_at": "2026-09-19T13:47:40.605Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "qishuilalala/dsh-voice-mode",
-      "previous": "media",
-      "current": "document",
-      "desc_now": "DSH 全双工语音插件：流式语音识别入草稿、语音合成按句朗读 + 实时字幕、开口即打断；本地识别免 API Key，可选唤醒词。 · Full-duplex voice plugin for DeepSeek Harness: streaming speech-to-text into an editable draft, text-to-speech read-aloud with live captions, true barge-in and wake word; on-device ASR, no API key.",
-      "desc_prev": "DSH 全双工语音插件：流式语音识别入草稿、按句朗读 + 实时字幕、开口即打断；本地识别、免 API Key。 · Full-duplex voice for DeepSeek Harness: streaming ASR to an editable draft, sentence-by-sentence read-aloud with live captions, true barge-in. On-device ASR, no API key."
-    },
-    {
-      "full_name": "Hotsteel2901/dsh-client-ui-mobile-adapt",
-      "previous": "coding",
-      "current": "web-ui",
-      "desc_now": "该仓库将不再作为重心，请移步：https://hotsteel2901.github.io/dsh-frutiger-aero/                      Please go to: https://hotsteel2901.github.io/dsh-frutiger-aero/.",
-      "desc_prev": "Your DeepSeek Harness web UI, rebuilt for the phone in your hand. Built for developers who code in Termux on Android: single-column layout, sidebar drawer, one-line composer, fullscreen scrollable settings & trajectory details, tap-to-open session stats. Desktop untouched."
+      "full_name": "rison114514/dsh-endfield-ui",
+      "previous": "tool",
+      "current": "coding",
+      "desc_now": "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui",
+      "desc_prev": "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui"
     }
   ]
 }

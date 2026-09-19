@@ -1,13 +1,8 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T08:53:03.279Z",
+  "generated_at": "2026-09-19T14:00:33.292Z",
   "count": 8,
   "picks": [
-    {
-      "full_name": "WSK-build/DSHBox",
-      "category": "agent",
-      "reason": "Agent 自动化 · 近期更新活跃"
-    },
     {
       "full_name": "toolclub/dsh-agent-team-gui",
       "category": "tool",
@@ -42,6 +37,11 @@
       "full_name": "Totoro-qaq/dsh-plugin-bridge",
       "category": "notify",
       "reason": "通知通讯 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "nexsjournal/dsh-vision-plugin",
+      "category": "vision",
+      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
