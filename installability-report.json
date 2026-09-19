@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T22:38:10.936Z",
+  "generated_at": "2026-09-19T03:17:14.626Z",
   "counts": {
-    "bundle-plugin": 4398,
-    "multi-plugin": 487,
+    "bundle-plugin": 4402,
+    "multi-plugin": 488,
     "cordis-plugin": 7949,
-    "pkg-plain": 1180,
+    "pkg-plain": 1181,
     "manual": 815,
     "script": 260,
     "unknown": 56,
@@ -3871,6 +3871,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "appthin/dsh-skills-manager-plus",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "april-jk/dsh-mobile-plugin",
       "verdict": "cordis-plugin"
     },
@@ -6493,6 +6497,10 @@
     {
       "full_name": "BubblePtr/dsh-holdem",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "buberlo/dsh-jev",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "buchylx/create-dsh-content-plugin",
@@ -9260,6 +9268,10 @@
     },
     {
       "full_name": "Coprexist/AIsChat",
+      "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "Coprexist/Copree",
       "verdict": "multi-plugin"
     },
     {
@@ -40779,6 +40791,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "shkzhang/dsh-appearance",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "shkzhang/dsh-file-link-menu",
       "verdict": "bundle-plugin"
     },
@@ -45769,6 +45785,10 @@
     {
       "full_name": "tylina/dsh-tylina",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "tynr426/dsh-relationship",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Tyon-nos-Ty90/dsh-mcsm-panel",
@@ -54084,6 +54104,10 @@
     },
     {
       "full_name": "wilburli/onlyMemory-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "wild-River2016/dsh-canvas-xiaohe",
       "verdict": "bundle-plugin"
     },
     {
