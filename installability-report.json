@@ -411,6 +411,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "1622352030/ansys-agent-bridge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "1624318455/dsh-plugin-adapter",
       "verdict": "bundle-plugin"
     },
@@ -18215,6 +18219,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "hfdsdfgr/dsh-balance-bar",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "hfh1999/dsh-file-confirm",
       "verdict": "cordis-plugin"
     },
@@ -18372,6 +18380,10 @@
     },
     {
       "full_name": "HiSeax/dsh-image-to-text",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "HIT-HTML/dsh-ENHANCED",
       "verdict": "cordis-plugin"
     },
     {
@@ -19384,6 +19396,10 @@
     },
     {
       "full_name": "Huuuuung/dsh-artifact-index",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "huxin7735-collab/dsh-maintainer-doc-guard",
       "verdict": "bundle-plugin"
     },
     {
@@ -20452,6 +20468,10 @@
     },
     {
       "full_name": "ivbrajkovic/dsh-balance-pill",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "IvenKooLab/loci-dsh",
       "verdict": "bundle-plugin"
     },
     {
@@ -25755,6 +25775,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "leolee9086/dsh-better-retry",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "leolee9086/dsh-session-title-refresh",
       "verdict": "bundle-plugin"
     },
@@ -28937,6 +28961,10 @@
     {
       "full_name": "LynLiCoder/scan-corrector",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "lynote-ai/dsh-humanizer",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "lynsucceed/dsh-openclaw-persona",
@@ -37035,6 +37063,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Qulierm/orbital-agents",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Quophic/dsh-persona-memory",
       "verdict": "cordis-plugin"
     },
@@ -39876,6 +39908,10 @@
     },
     {
       "full_name": "SCP-CN-1059/dsh-zhouli",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "SCP-QQ/dsh-notice-center",
       "verdict": "bundle-plugin"
     },
     {
@@ -45211,6 +45247,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "tongji-1/dsh-doudizhu",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "TongY1n/ui-muyu",
       "verdict": "cordis-plugin"
     },
@@ -45989,6 +46029,10 @@
     {
       "full_name": "ubggyhjb/mathmodel-agent",
       "verdict": "agent-preset"
+    },
+    {
+      "full_name": "ubik-dsh/deepseek-mods",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "uckkk/dsh-ab-sample",
@@ -54931,6 +54975,14 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "wqy-cell/dsh-task-flow",
+      "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "wqy-cell/dsh-url-trace",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "wqy8593521/dsh-model-pro",
       "verdict": "cordis-plugin"
     },
@@ -55377,6 +55429,10 @@
     {
       "full_name": "wwwwwald/dsh-story",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "wx-yss/dsh-composer-enter",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "wx-yss/dsh-message-rail",
@@ -59928,6 +59984,10 @@
     },
     {
       "full_name": "Yurzi/dsh-web-search-enhanced",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "YUsaltyfish/dsh-fish-sound-notify",
       "verdict": "bundle-plugin"
     },
     {
