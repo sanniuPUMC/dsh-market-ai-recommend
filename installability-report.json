@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T14:13:32.560Z",
+  "generated_at": "2026-09-20T17:33:38.358Z",
   "counts": {
-    "bundle-plugin": 4558,
+    "bundle-plugin": 4577,
     "multi-plugin": 491,
-    "cordis-plugin": 7957,
-    "pkg-plain": 1188,
-    "manual": 819,
+    "cordis-plugin": 7958,
+    "pkg-plain": 1191,
+    "manual": 822,
     "script": 262,
     "unknown": 56,
     "skill": 399,
@@ -3175,6 +3175,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "AMC-tp/dsh-work-buddy",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "AmeKrance/anan-thermal-monitor",
       "verdict": "cordis-plugin"
     },
@@ -3645,6 +3649,10 @@
     {
       "full_name": "anonRTtty/DSH-mobile-remote-mode-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "AnonyJcy/dsh-j-space",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "AnonyJcy/dsh-plugin-j-space",
@@ -5829,6 +5837,10 @@
     {
       "full_name": "birdmanhj/dsh-mv-session",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "birew83538-oss/dsh-chat-thinking-editor",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "BISTU-guheihei/DSH-SessionManager",
@@ -10315,6 +10327,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "dashitongzhi/dsh-config-webdav-sync",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "Dasooul03/dsh-plugin-deepseek-pricing",
       "verdict": "multi-plugin"
     },
@@ -10584,6 +10600,10 @@
     },
     {
       "full_name": "DDDMUC/dsh-delete-session",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "DDDMUC/dsh-delete-turn",
       "verdict": "bundle-plugin"
     },
     {
@@ -12771,6 +12791,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "EdwardXiao-bit/dsh-run-button",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "edwardyang0011/dsh-ui-skins",
       "verdict": "cordis-plugin"
     },
@@ -12953,6 +12977,10 @@
     {
       "full_name": "elizax/dsh-http-proxy",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "elk-9527/dsh-vscode",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "ellelkktrraaa/dsh-audio-alert",
@@ -16135,6 +16163,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "gluztm/DSHGuard",
+      "verdict": "manual"
+    },
+    {
       "full_name": "GM-HZ/agent-dag-workflow",
       "verdict": "bundle-plugin"
     },
@@ -16427,6 +16459,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-github-ops",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GooDAnDReaDY/dsh-goal",
       "verdict": "bundle-plugin"
     },
@@ -16480,6 +16516,10 @@
     },
     {
       "full_name": "GooDAnDReaDY/dsh-model-sync",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-plugin-notify",
       "verdict": "bundle-plugin"
     },
     {
@@ -16549,6 +16589,10 @@
     {
       "full_name": "gooosie/dsh-whale-bg",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "gorban/dsh-job-stop",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "gordonlu/dsh-context-lens",
@@ -17629,6 +17673,34 @@
     {
       "full_name": "hardes11/dsh-squeeze-command",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-agent-chat",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-codex-micro",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-persona-anchor",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-power-controls",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-self-built-plugins",
+      "verdict": "manual"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-whale-emote",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "harmless0819-dev/dsh-whale-live2d",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "HarmlessFunny/dsh-pet-in-frame",
@@ -18789,6 +18861,10 @@
     {
       "full_name": "Horizon215/dsh-plugins",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "HorusJiang/dsh-jev-tools",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "HorusJiang/dsh-map-tools",
@@ -24759,6 +24835,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "kolawong/fast-compaction-dsh",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Kolos-alter/dsh-security-manager",
       "verdict": "cordis-plugin"
     },
@@ -30507,6 +30587,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "mengge237/dsh-model-priority",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Menghuan1918/dsh-apollo",
       "verdict": "bundle-plugin"
     },
@@ -33029,6 +33113,10 @@
     {
       "full_name": "NEVSTOP-LAB/dsh-approval-mode",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "NEVSTOP-LAB/dsh-import-copilot-files",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "NEVSTOP-LAB/dsh-import-vscode-ai-files",
@@ -35897,6 +35985,10 @@
     {
       "full_name": "PerryLink/dsh-translate",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "PerryLink/jevcore",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "PerryLink/perrylink",
@@ -39087,6 +39179,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Ryuu-64/dsh-session-tools",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "RyzenWang/dsh-token-usage-observer",
       "verdict": "bundle-plugin"
     },
@@ -41021,6 +41117,10 @@
     {
       "full_name": "shenA2024/whale-persona",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "shenA2024/whale-persona-presets",
+      "verdict": "manual"
     },
     {
       "full_name": "shendeguize/AgentSideCar",
@@ -53120,6 +53220,10 @@
     },
     {
       "full_name": "vocsong/deepseek-harness-portal",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Voellin/dsh-deephub-share",
       "verdict": "pkg-plain"
     },
     {

@@ -1,41 +1,20 @@
 {
-  "generated_at": "2026-09-20T14:02:26.456Z",
-  "count": 5,
+  "generated_at": "2026-09-20T17:22:14.474Z",
+  "count": 2,
   "items": [
     {
-      "full_name": "Awu12277/dsh-stock-watch",
+      "full_name": "frederico-kluser/dsh-worktree-jump",
       "previous": "web-ui",
-      "current": "tool",
-      "desc_now": "A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗",
-      "desc_prev": "A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗"
+      "current": "conversation",
+      "desc_now": "DeepSeek Harness plugin: a New-Conversation trigger that creates a git worktree — or starts inside an existing one — and moves the conversation into it (session fork with the worktree as cwd).",
+      "desc_prev": "DeepSeek Harness plugin: a web-UI button that creates a git worktree and moves the conversation into it (session fork with the worktree as cwd)"
     },
     {
-      "full_name": "fishzjp/qa-skills",
-      "previous": "coding",
-      "current": "memory",
-      "desc_now": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）",
-      "desc_prev": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）"
-    },
-    {
-      "full_name": "chouxiaohuai/dsh-uiskin-theme",
-      "previous": "coding",
-      "current": "web-ui",
-      "desc_now": "Blue Glass Theme (ocean fantasy) for DeepSeek Harness Web — static profile bundle. 海洋幻想主题:海洋背景、玻璃气泡、海洋侧边栏、鲸鱼设置按钮、炫彩模型文字。安装: dsh plugin --profile web add github:chouxiaohuai/uiskin-theme",
-      "desc_prev": "Blue Glass Theme (ocean fantasy) for DeepSeek Harness Web — static profile bundle. 海洋幻想主题:海洋背景、玻璃气泡、海洋侧边栏、鲸鱼设置按钮、炫彩模型文字。安装: dsh plugin --profile web add github:chouxiaohuai/uiskin-theme"
-    },
-    {
-      "full_name": "akira399/dsh-godot-skill",
-      "previous": "other",
-      "current": "coding",
-      "desc_now": "Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime",
-      "desc_prev": "Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime"
-    },
-    {
-      "full_name": "Hotsteel2901/dsh-client-ui-mobile-adapt",
-      "previous": "web-ui",
-      "current": "coding",
-      "desc_now": "[Slow down]Allow Mobie Developer to use DeepSeek Harness.",
-      "desc_prev": "该仓库将不再作为重心，请移步：https://hotsteel2901.github.io/dsh-frutiger-aero/                      Please go to: https://hotsteel2901.github.io/dsh-frutiger-aero/."
+      "full_name": "bbaz123/dsh-confirmation-resolution",
+      "previous": "conversation",
+      "current": "model",
+      "desc_now": "Post-task confirmation decision guard for DeepSeek Harness — balance output quality with real user impact.",
+      "desc_prev": "Resolve DSH post-task confirmations by balancing output quality and real user impact."
     }
   ]
 }
