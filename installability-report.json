@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T17:33:38.358Z",
+  "generated_at": "2026-09-20T20:40:47.411Z",
   "counts": {
-    "bundle-plugin": 4577,
-    "multi-plugin": 491,
+    "bundle-plugin": 4583,
+    "multi-plugin": 492,
     "cordis-plugin": 7958,
     "pkg-plain": 1191,
-    "manual": 822,
+    "manual": 823,
     "script": 262,
     "unknown": 56,
     "skill": 399,
@@ -1577,6 +1577,10 @@
     {
       "full_name": "a86582751/dsh-nexttavern",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "A8Chann/dsh-pet-live2d",
+      "verdict": "multi-plugin"
     },
     {
       "full_name": "a903067276-rgb/dsh-backup",
@@ -16571,6 +16575,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "GooDAnDReaDY/dsh-web-gateway",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "goodddGrades/dsh-behuman",
       "verdict": "bundle-plugin"
     },
@@ -28899,6 +28907,14 @@
       "verdict": "script"
     },
     {
+      "full_name": "LuminariSoftwares/context-guardian",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "LuminariSoftwares/tool-guardian",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "LUMOGRESS/dsh-skill-navigator",
       "verdict": "bundle-plugin"
     },
@@ -32051,6 +32067,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "MosesCharm/dsh-sidebar-stack",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "moshe-233/dsh-web-splash-loader",
       "verdict": "bundle-plugin"
     },
@@ -32197,6 +32217,10 @@
     {
       "full_name": "mrbbbaixue/dsh-desktop",
       "verdict": "manual"
+    },
+    {
+      "full_name": "mrbeandev/dsh-flowglass",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "mrbeandev/dsh-short-tool-ids",
@@ -39504,6 +39528,10 @@
     },
     {
       "full_name": "Saretheya/dsh-settings-nav-order",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Saretheya/dsh-tick",
       "verdict": "bundle-plugin"
     },
     {
@@ -52477,6 +52505,10 @@
     {
       "full_name": "UndeadSheep/dsh-file-preview",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Underwater008/deepshell",
+      "verdict": "manual"
     },
     {
       "full_name": "UnforgetMemory/um-dsh-azimg",
