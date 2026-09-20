@@ -9,7 +9,7 @@
     "script": 262,
     "unknown": 56,
     "skill": 399,
-    "gone": 54,
+    "gone": 55,
     "agent-preset": 57,
     "empty": 30
   },
@@ -5217,6 +5217,10 @@
     {
       "full_name": "bass1125/imemory",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Bay-Zeddie/dsh-agent-instructions",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Bazley13/dsh-multi-model-orchestrator",
@@ -11055,6 +11059,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "dhdbvcg/opencodeAI",
+      "verdict": "gone"
+    },
+    {
       "full_name": "dhicoc/dsh-chinese-traditional-wisdom-skill",
       "verdict": "cordis-plugin"
     },
@@ -14013,6 +14021,10 @@
     {
       "full_name": "FeatherHunter/dsh-prompt",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "FeatherHunter/ilife",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "FeatureAgents/AgentsGitFlowController",
@@ -19625,6 +19637,10 @@
     {
       "full_name": "hyper-dsh-plugins/dsh-open-file",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "HyperForce/dsh-workspace-lock",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hyperion2144/dsh-desktop-tauriapp",
@@ -28383,6 +28399,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "lovstudio/dsh-search-model",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lovstudio/dsh-video-studio",
       "verdict": "bundle-plugin"
     },
@@ -35225,6 +35245,10 @@
     {
       "full_name": "pang123hui/dsh-workspace-sidebar",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "PangXitong/dsh-restart-button",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "PangYiMing/dsh-batch-regression",
@@ -42548,6 +42572,10 @@
     },
     {
       "full_name": "sousike/dsh-faxin-search",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "SoyBeanMilkx/CompFlow",
       "verdict": "bundle-plugin"
     },
     {
@@ -55155,6 +55183,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "WODE25500/dsh-wsl",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Wodexinhaoleng-Kasssa/dsh-reader",
       "verdict": "bundle-plugin"
     },
@@ -60179,6 +60211,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "yueyexiayu/dsh-zhanshi",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "YUEYUEXYS/dsh-think-ultra",
       "verdict": "gone"
     },
@@ -60363,6 +60399,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "yunxiyang/dsh-stepwise-distill",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "yunxiyang/dsh-web-search-litellm",
       "verdict": "bundle-plugin"
     },
@@ -60492,6 +60532,10 @@
     },
     {
       "full_name": "yuyolin/dsh-decision-log",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "YUYUY9527/dsh-plugin-management",
       "verdict": "bundle-plugin"
     },
     {
