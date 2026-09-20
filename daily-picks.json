@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T17:15:14.261Z",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T03:36:07.442Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "toolclub/dsh-agent-team-gui",
-      "category": "tool",
-      "reason": "通用工具 · 高星社区精选 · 近期更新活跃"
+      "full_name": "seven282/oss-prompt-optimizer",
+      "category": "conversation",
+      "reason": "对话聊天 · 近期更新活跃"
     },
     {
-      "full_name": "boogoo619/dsh-focus-overlay",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "zhou1736948757-cpu/dsh-auto-continue",
+      "category": "model",
+      "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "yoli-mi/dsh-client-ui-custom",
+      "full_name": "dsh-market/dsh-market",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 人工验证通过 · 近期更新活跃"
+    },
+    {
+      "full_name": "Coprexist/dsh-session-recovery",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "shuguang1994/project-blueprint",
       "category": "coding",
       "reason": "开发编码 · 近期更新活跃"
     },
     {
-      "full_name": "clown139880/dsh-live2d-avatar",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "zuoguyoupan2023/adhdgofly-dsh-ext",
+      "category": "media",
+      "reason": "音视频 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "GooDAnDReaDY/dsh-model-sync",
+      "full_name": "eomis/packhub-workbench-assistant",
       "category": "resource",
       "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "zhuifengqug/pixel-skin",
+      "full_name": "e2mcc/dsh-popout-sidebar",
       "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Totoro-qaq/dsh-plugin-bridge",
-      "category": "notify",
-      "reason": "通知通讯 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
-    },
-    {
-      "full_name": "nexsjournal/dsh-vision-plugin",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
+      "reason": "界面美化 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
     }
   ]
 }
