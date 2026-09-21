@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T20:40:47.411Z",
+  "generated_at": "2026-09-21T00:09:21.163Z",
   "counts": {
-    "bundle-plugin": 4583,
+    "bundle-plugin": 4586,
     "multi-plugin": 492,
     "cordis-plugin": 7958,
     "pkg-plain": 1191,
@@ -2996,6 +2996,10 @@
     },
     {
       "full_name": "ALIWUER/dsh-process-panel",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Aliww2468/dsh-client-ui-aqua-patched",
       "verdict": "bundle-plugin"
     },
     {
@@ -26867,6 +26871,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "lijiawei255/dsh-status-chime",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lijinhao315/dsh-question-index",
       "verdict": "bundle-plugin"
     },
@@ -38040,6 +38048,10 @@
     },
     {
       "full_name": "RBkreb/dsh-console-hub",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "rbviz/dsh-plugin-jules",
       "verdict": "bundle-plugin"
     },
     {
