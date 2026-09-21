@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T16:36:07.105Z",
+  "generated_at": "2026-09-21T21:59:42.264Z",
   "counts": {
-    "bundle-plugin": 4688,
+    "bundle-plugin": 4700,
     "multi-plugin": 496,
-    "cordis-plugin": 7962,
-    "pkg-plain": 1202,
-    "manual": 826,
+    "cordis-plugin": 7964,
+    "pkg-plain": 1203,
+    "manual": 828,
     "script": 263,
     "unknown": 56,
     "skill": 400,
@@ -1079,6 +1079,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "5101good/amoji",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "5102a/dsh-plugin-hot-toggle",
       "verdict": "cordis-plugin"
     },
@@ -1233,6 +1237,10 @@
     {
       "full_name": "7dgroup-ai/dsh-skill-7d-git-commit",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "7starsseeker/dsh-fact-check",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "7starsseeker/dsh-jev-guard",
@@ -2264,6 +2272,10 @@
     },
     {
       "full_name": "agentscope-ai/ReMe",
+      "verdict": "manual"
+    },
+    {
+      "full_name": "AgentsDanceAI/AIStore",
       "verdict": "manual"
     },
     {
@@ -6192,6 +6204,10 @@
     },
     {
       "full_name": "boheastill/phone-eye",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "bojansandhaus/jev-lcm-dsh-compaction",
       "verdict": "bundle-plugin"
     },
     {
@@ -12139,6 +12155,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "Drowsy-Zn/dsh-skill-notes",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "drscrewdriver/dsh-arrowkey-nav",
       "verdict": "bundle-plugin"
     },
@@ -17285,6 +17305,10 @@
     {
       "full_name": "gzr123166/dsh-cloud-connector",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "gzsxy/dsh-plugin-skills-manager",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "GZX2211/dsh-Visual-Workflow",
@@ -23063,6 +23087,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "jonah791/dsh-dream-tavern",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "jonah791/dsh-earn-radar",
       "verdict": "bundle-plugin"
     },
@@ -24719,6 +24747,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "kira905/dsh-task-board-local",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "kirbylynx/deepshell-agent",
       "verdict": "pkg-plain"
     },
@@ -25860,6 +25892,10 @@
     },
     {
       "full_name": "law-star-cn/lawstar-dsh-mcp",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "LAwLi3tCoding/dsh-api-ledger",
       "verdict": "bundle-plugin"
     },
     {
@@ -28443,6 +28479,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Lon-dawn/dsh-notify-whale",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lonebone/dsh-vscode-shell",
       "verdict": "cordis-plugin"
     },
@@ -29859,6 +29899,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "magian1127/GodotMCP",
+      "verdict": "manual"
+    },
+    {
       "full_name": "MagicCrazyMan/dsh-password-prompt",
       "verdict": "skill"
     },
@@ -30268,6 +30312,10 @@
     },
     {
       "full_name": "martinkot9336299-cell/dsh-session-atlas",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Martlet-Tech/dsh-approval-explain",
       "verdict": "bundle-plugin"
     },
     {
@@ -33237,6 +33285,10 @@
     {
       "full_name": "NattoCB/dsh-widget-center",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "nautahakk/jev-codex-router",
+      "verdict": "cordis-plugin"
     },
     {
       "full_name": "navid-kianfar/dsh-add-assets",
@@ -37271,6 +37323,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "qaz040619/dsh-bluefatfish",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "QChengW/dsh-conversation-shortcuts",
       "verdict": "bundle-plugin"
     },
@@ -38756,6 +38812,10 @@
     },
     {
       "full_name": "rezon-aki/dsh-memory-steward",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "rezon-aki/dsh-streamfold",
       "verdict": "bundle-plugin"
     },
     {
@@ -44003,6 +44063,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "suan2inf/dsh-cockpit",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "suanlayu666/suanlayu-dsh-plugins",
       "verdict": "multi-plugin"
     },
@@ -45825,6 +45889,10 @@
     {
       "full_name": "Tiger3807861189/J-Space-Cognition-Suite-V3.7",
       "verdict": "skill"
+    },
+    {
+      "full_name": "TikaFlow/dsh-model-fix",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "TikaFlow/dsh-model-reasoning",
