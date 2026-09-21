@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T00:09:21.163Z",
+  "generated_at": "2026-09-21T03:32:53.514Z",
   "counts": {
-    "bundle-plugin": 4586,
+    "bundle-plugin": 4594,
     "multi-plugin": 492,
-    "cordis-plugin": 7958,
-    "pkg-plain": 1191,
+    "cordis-plugin": 7959,
+    "pkg-plain": 1192,
     "manual": 823,
     "script": 262,
     "unknown": 56,
@@ -4560,6 +4560,10 @@
     },
     {
       "full_name": "awnlight/talon-ui",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "awol2005ex3/dsh-cas",
       "verdict": "bundle-plugin"
     },
     {
@@ -9387,6 +9391,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "corlinniu/dsh-daily-chat",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "corrinehu/dsh-buddy-checkin",
       "verdict": "bundle-plugin"
     },
@@ -13915,6 +13923,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "fangqian616/dsh-say",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "fangweixuan26-hash/dsh-a2a-agent",
       "verdict": "cordis-plugin"
     },
@@ -16883,6 +16895,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "gulagala001/oh-my-dsh",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "GULI-lab/DSH-element-source",
       "verdict": "cordis-plugin"
     },
@@ -18499,6 +18515,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "hi-wenw/dsh-csv-viewer",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "hi-wenw/dsh-telegram-channel",
       "verdict": "script"
     },
@@ -18988,6 +19008,10 @@
     },
     {
       "full_name": "hoyyang/dsh-android-pane",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "hoyyang/dsh-best-ponytail",
       "verdict": "bundle-plugin"
     },
     {
@@ -29835,6 +29859,10 @@
       "verdict": "multi-plugin"
     },
     {
+      "full_name": "MaRi23333/dsh-agent-instructions-editor",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MaRi23333/dsh-fish-tts",
       "verdict": "cordis-plugin"
     },
@@ -32799,6 +32827,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "nanami-0713/dsh-jev-decide",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "nanami-0713/dsh-notifier",
       "verdict": "cordis-plugin"
     },
@@ -35657,6 +35689,10 @@
     {
       "full_name": "PeanutsDou/peanut-dsh-plugin",
       "verdict": "skill"
+    },
+    {
+      "full_name": "pearjelly/deep-blend",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "PEClound/dsh-harness-memory",
@@ -60440,6 +60476,10 @@
     },
     {
       "full_name": "yueyexiayu/dsh-OAuth",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yueyexiayu/dsh-shengcheng",
       "verdict": "bundle-plugin"
     },
     {
