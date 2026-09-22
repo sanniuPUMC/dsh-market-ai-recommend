@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-09-22T07:25:55.967Z",
+  "count": 4,
+  "items": [
+    {
+      "full_name": "STARDUSTLC666/dsh-calendar",
+      "previous": "tool",
+      "current": "other",
+      "desc_now": "DSH 日历插件：可视化周/月视图、拖拽改期与 CalDAV 日程管理，支持 Google OAuth2、iCloud、Nextcloud。",
+      "desc_prev": "DSH 日历插件：CalDAV 日程查询、创建、修改、删除与搜索，支持 Google OAuth2、iCloud、Nextcloud 与自建服务。"
+    },
+    {
+      "full_name": "nightosong/gord-dsh-worktree",
+      "previous": "other",
+      "current": "web-ui",
+      "desc_now": "Git worktrees for DeepSeek Harness: five agent tools (list, create, inspect, remove, prune) plus a working-location picker in the New Session row and a settings panel. Refuses to remove a worktree with uncommitted or untracked changes, and never removes the main one.",
+      "desc_prev": null
+    },
+    {
+      "full_name": "huangfuren/dsh-conversation",
+      "previous": "web-ui",
+      "current": "memory",
+      "desc_now": "DSH web plugin: conversation outline panel - user questions (index, time, per-turn stats) as root nodes with the assistant reply's Markdown headings beneath; three width tiers, density rail, search scope, bookmarks, Markdown export, section jump, keyboard nav, reading-position memory. Read-only UI.",
+      "desc_prev": "DSH web plugin: conversation outline panel - history questions (index + time) plus the assistant reply Markdown heading tree, with level slider, search, bookmarks, copy and click-to-jump."
+    },
+    {
+      "full_name": "Ryuu-64/dsh-find-all",
+      "previous": "coding",
+      "current": "tool",
+      "desc_now": "Ctrl+F find bar for the DSH desktop app: it searches the whole conversation, not just the messages already on screen.",
+      "desc_prev": "DSH web plugin: a Cmd/Ctrl+F find bar for the DeepSeek Harness desktop shell that searches the WHOLE conversation, not just the rendered tail."
+    }
+  ]
+}
