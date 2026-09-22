@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T18:18:23.906Z",
+  "generated_at": "2026-09-22T21:13:57.643Z",
   "counts": {
-    "bundle-plugin": 4811,
+    "bundle-plugin": 4817,
     "multi-plugin": 497,
     "cordis-plugin": 7968,
     "pkg-plain": 1209,
-    "manual": 831,
+    "manual": 832,
     "script": 264,
     "unknown": 56,
     "skill": 400,
@@ -2145,6 +2145,10 @@
     {
       "full_name": "Adachi-Hougetsu/dsh-api-tools",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "adamkhalile/luau-docs-oracle",
+      "verdict": "manual"
     },
     {
       "full_name": "AdamPlatin123/awesome-dsh-plugins",
@@ -4447,6 +4451,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "AskTheWay/dsh-jev-interceptor",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Asong6824/dsh-llm-rate-limit",
       "verdict": "cordis-plugin"
     },
@@ -6376,6 +6384,10 @@
     },
     {
       "full_name": "boomboomxx/dsh-markstream",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Boomerangz/dsh-openrouter-live",
       "verdict": "bundle-plugin"
     },
     {
@@ -14931,6 +14943,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "flandre2233/dsh-recovery-resume",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "flaricy/herdr-bridge",
       "verdict": "pkg-plain"
     },
@@ -16049,6 +16065,10 @@
     {
       "full_name": "GCWing/OpenBitFun",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "Gdenich/dsh-live-teams",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Gdenich/dsh-opencode-go-key-broker",
@@ -41379,6 +41399,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "SeanTolstoyevski/dsh-code-review",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SeanWang114514/dsh-memo-notebook",
       "verdict": "bundle-plugin"
     },
@@ -61456,6 +61480,10 @@
     },
     {
       "full_name": "yueyexiayu/dsh-bianji",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yueyexiayu/dsh-chrome",
       "verdict": "bundle-plugin"
     },
     {

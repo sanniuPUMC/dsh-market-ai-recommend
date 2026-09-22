@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-09-22T18:03:03.259Z",
-  "count": 2,
+  "generated_at": "2026-09-22T20:58:30.815Z",
+  "count": 1,
   "items": [
     {
-      "full_name": "Edge-Echo/dsh-driftwatch",
-      "previous": "other",
+      "full_name": "zwbao/dsh-plugin-longpi",
+      "previous": "agent",
       "current": "tool",
-      "desc_now": "Behavior-drift reports for DeepSeek Harness agents: compare two session logs and see exactly how behavior changed — tool sequence, file operations, reasoning volume, timing, retries — zero dependencies, CI-ready.",
-      "desc_prev": "Behavior-drift reports for DeepSeek Harness: compare two session logs and see exactly how behavior changed. Zero dependencies, CI-ready."
-    },
-    {
-      "full_name": "hoyyang/dsh-manage-sessions",
-      "previous": "web-ui",
-      "current": "conversation",
-      "desc_now": "DSH 会话管理插件：批量归档/恢复/永久删除，卡死会话两段式强停（自动复活/离线），工作区行一键复制绝对路径，双击重命名，零配置开箱即用。",
-      "desc_prev": "Native-feeling session management for the DSH sidebar: bulk archive/restore/hard-delete, two-stage force-stop with auto-resume, instant copy-workspace-path."
+      "desc_now": "Personal longevity harness for DeepSeek Harness: dispatch longevity-skills from one person's Mirobody record, with a health board.",
+      "desc_prev": "LongPi 1.0.0 for DeepSeek Harness: longevity concierge, personal genome, VCF ingest, multi-omics report, s2f-agent routing."
     }
   ]
 }
