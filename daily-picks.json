@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T21:59:42.421Z",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T00:51:02.679Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Iwctwbh/dsh-flowglass",
+      "full_name": "Smith-yue/harness-plugin",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Vergil-long/dsh-custom-font",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "himeope/dsh-queue-first-enter",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Max-Null/dsh-memory",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "WNJXYK/dsh-codex-oauth",
-      "category": "vision",
-      "reason": "视觉多模态 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Hua1Q1nG/dsh-hindsight-local-optimize",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "HongMing-Huang/dsh-file-upload",
+      "full_name": "yeastcloud/dsh-anchor",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "cpj-dev/dsh-plugin-cc",
+      "full_name": "Renzic-Stone/DSH-EasyRewrite",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "AliceLJY/dsh-thumb",
+      "category": "coding",
+      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Frog755/dsh-hybrid-memory",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "xuedai-mayi/dsh-wenshan",
+      "category": "vision",
+      "reason": "视觉多模态 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "0nt-one/dsh-neo-skin",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "bobcat848/dsh-calculator",
       "category": "tool",
-      "reason": "通用工具 · 高星社区精选 · 近期更新活跃"
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }

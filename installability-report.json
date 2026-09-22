@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T21:59:42.264Z",
+  "generated_at": "2026-09-22T00:51:02.517Z",
   "counts": {
-    "bundle-plugin": 4700,
+    "bundle-plugin": 4702,
     "multi-plugin": 496,
     "cordis-plugin": 7964,
-    "pkg-plain": 1203,
+    "pkg-plain": 1204,
     "manual": 828,
     "script": 263,
     "unknown": 56,
@@ -6273,6 +6273,10 @@
     {
       "full_name": "boooooooer/dsh-balance-and-cost",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "BorisLoveDev/dsh-plugin-ponytail",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "BorisShaw6/dsh-cyber-pet",
@@ -14145,6 +14149,10 @@
     {
       "full_name": "fatatalia/dsh-webhook",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "fatefgo2050/dsh-mcp-scanner",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "fatmind/dsh-plugin-browser-use",
@@ -24741,6 +24749,10 @@
     {
       "full_name": "kira905/dsh-ecosystem-panel",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "kira905/dsh-firstaid",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "kira905/dsh-session-title-live",
