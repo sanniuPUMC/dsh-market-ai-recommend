@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-22T13:13:09.808Z",
+  "generated_at": "2026-09-22T18:03:03.259Z",
   "count": 2,
   "items": [
     {
-      "full_name": "Han-1413141/dsh-cost-meter",
-      "previous": "notify",
-      "current": "coding",
-      "desc_now": "Cost tracking for DeepSeek Harness: session and model costs, token usage, budgets, provider balances, and coding-plan quotas. Bilingual English/Chinese UI.",
-      "desc_prev": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI"
+      "full_name": "Edge-Echo/dsh-driftwatch",
+      "previous": "other",
+      "current": "tool",
+      "desc_now": "Behavior-drift reports for DeepSeek Harness agents: compare two session logs and see exactly how behavior changed — tool sequence, file operations, reasoning volume, timing, retries — zero dependencies, CI-ready.",
+      "desc_prev": "Behavior-drift reports for DeepSeek Harness: compare two session logs and see exactly how behavior changed. Zero dependencies, CI-ready."
     },
     {
-      "full_name": "bbaz123/dsh-confirmation-resolution",
-      "previous": "model",
-      "current": "tool",
-      "desc_now": "DeepSeek Harness plugin: a code-level guard that resolves post-task confirmation items by weighing output quality against real user impact.",
-      "desc_prev": "Post-task confirmation decision guard for DeepSeek Harness — balance output quality with real user impact."
+      "full_name": "hoyyang/dsh-manage-sessions",
+      "previous": "web-ui",
+      "current": "conversation",
+      "desc_now": "DSH 会话管理插件：批量归档/恢复/永久删除，卡死会话两段式强停（自动复活/离线），工作区行一键复制绝对路径，双击重命名，零配置开箱即用。",
+      "desc_prev": "Native-feeling session management for the DSH sidebar: bulk archive/restore/hard-delete, two-stage force-stop with auto-resume, instant copy-workspace-path."
     }
   ]
 }
