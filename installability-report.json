@@ -16667,6 +16667,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "Gnatnaituy/dsh_sidebar_element_picker",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "gnulife/dsh-plugin-wechat",
       "verdict": "cordis-plugin"
     },
@@ -18169,6 +18173,10 @@
     {
       "full_name": "hardcandydemoralisation573/dsh-xiaoyao-skins",
       "verdict": "manual"
+    },
+    {
+      "full_name": "harde1/dsh-xcodebuild",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "hardes11/dsh-squeeze-command",
@@ -41424,6 +41432,10 @@
     },
     {
       "full_name": "scientisbo/dsh-codex-usage",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "SciF-Lin/dsh-browsercontrol-mcp",
       "verdict": "bundle-plugin"
     },
     {
