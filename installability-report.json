@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T16:23:41.205Z",
+  "generated_at": "2026-09-23T21:22:01.040Z",
   "counts": {
-    "bundle-plugin": 4901,
-    "multi-plugin": 498,
-    "cordis-plugin": 7975,
+    "bundle-plugin": 4909,
+    "multi-plugin": 499,
+    "cordis-plugin": 7976,
     "pkg-plain": 1214,
     "manual": 842,
-    "script": 266,
+    "script": 267,
     "unknown": 56,
     "skill": 400,
     "gone": 56,
@@ -2569,6 +2569,10 @@
     {
       "full_name": "aibo204/dsh-plugin-computer-use",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "AIcivilization/deepseek-harness-vps",
+      "verdict": "script"
     },
     {
       "full_name": "AIcivilization/dsh-vps-manager",
@@ -8135,6 +8139,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "chenhz01/dsh-sample-plugin",
+      "verdict": "cordis-plugin"
+    },
+    {
       "full_name": "chenjiajungithub/dsh-doc-generator",
       "verdict": "agent-preset"
     },
@@ -8557,6 +8565,10 @@
     {
       "full_name": "chinosk6/dsh-roleplay",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "chintoleung/dsh-ping",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "CHIP-PHILO-GH/dsh-loop-breaker",
@@ -9179,6 +9191,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "ClearLeaf13/dsh-llamacpp-connect",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "clevebitr/dsh-base16-skins",
       "verdict": "script"
     },
@@ -9604,6 +9620,10 @@
     },
     {
       "full_name": "ComeCaramelos/dsh-docker-desktop-mcp",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "ComeCaramelos/dsh-hOver-information",
       "verdict": "bundle-plugin"
     },
     {
@@ -10180,6 +10200,10 @@
     },
     {
       "full_name": "CWNU-Open-Source-Community/dsh-webgate",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "cx2002302-lang/dsh-chat-collapse",
       "verdict": "bundle-plugin"
     },
     {
@@ -17072,6 +17096,10 @@
     },
     {
       "full_name": "GooDAnDReaDY/dsh-subscriptions",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "GooDAnDReaDY/dsh-test-pilot",
       "verdict": "bundle-plugin"
     },
     {
@@ -33791,6 +33819,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "NanamiKite/Coyote-x-dsh",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "nanbbb/dsh-plus",
       "verdict": "cordis-plugin"
     },
@@ -43455,6 +43487,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "slow-stack/mneme",
+      "verdict": "multi-plugin"
+    },
+    {
       "full_name": "Slowdownnn/dsh-read-history",
       "verdict": "cordis-plugin"
     },
@@ -47001,6 +47037,10 @@
     {
       "full_name": "TohsakaRIN521/dsh-academic-skill",
       "verdict": "skill"
+    },
+    {
+      "full_name": "tokai-teiodh/dsh-script-cards",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Tokeii0/dsh-lovelyaudit",
@@ -58585,6 +58625,10 @@
     {
       "full_name": "XGrin/dsh-search-router",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "XGUIMAX/dsh-wrongbook",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "xhqm-xyz/mira_live2d",
