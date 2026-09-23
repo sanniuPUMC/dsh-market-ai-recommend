@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T21:13:57.643Z",
+  "generated_at": "2026-09-23T00:22:10.955Z",
   "counts": {
-    "bundle-plugin": 4817,
+    "bundle-plugin": 4819,
     "multi-plugin": 497,
     "cordis-plugin": 7968,
     "pkg-plain": 1209,
-    "manual": 832,
+    "manual": 833,
     "script": 264,
     "unknown": 56,
     "skill": 400,
@@ -15585,6 +15585,10 @@
     {
       "full_name": "fulander0301/dsh-tool-read-tiff",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "FuLuTang/dsh-message-hub",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "FuLuTang/dsh-search-hub",
@@ -32247,6 +32251,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "MnemosyneOS/mnemosyne",
+      "verdict": "manual"
+    },
+    {
       "full_name": "mo-n/dsh-provider-qoder",
       "verdict": "bundle-plugin"
     },
@@ -38729,6 +38737,10 @@
     {
       "full_name": "Ratevoid/dsh-aseprite",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "RaulLazaro/dsh-jev-plugin",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "RaulLazaro/dsh-preview-plugin",

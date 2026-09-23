@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T21:13:58.185Z",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T00:22:11.322Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "Smith-yue/harness-plugin",
+      "full_name": "megatronyy/dsh-skin-background",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "yeastcloud/dsh-anchor",
+      "full_name": "suntianc/dsh-codex-auth",
       "category": "tool",
       "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "Renzic-Stone/DSH-EasyRewrite",
-      "category": "memory",
-      "reason": "记忆知识 · 社区聚合页收录 · 高星社区精选 · 近期更新活跃"
+      "full_name": "ddbj-hub/dsh-wallpaper-skin",
+      "category": "web-ui",
+      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "AliceLJY/dsh-thumb",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "Frog755/dsh-hybrid-memory",
+      "full_name": "hr98w/dsh-memory",
       "category": "memory",
       "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "fieldnote-ops/keyringseam",
+      "category": "tool",
+      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
     },
     {
       "full_name": "xuedai-mayi/dsh-wenshan",
@@ -34,14 +34,14 @@
       "reason": "视觉多模态 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "0nt-one/dsh-neo-skin",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "EPCN-fla/dsh-observational-memory",
+      "category": "memory",
+      "reason": "记忆知识 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "bobcat848/dsh-calculator",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "lrplrplrp/dsh-live2d",
+      "category": "media",
+      "reason": "音视频 · 社区聚合页收录 · 近期更新活跃"
     }
   ]
 }
