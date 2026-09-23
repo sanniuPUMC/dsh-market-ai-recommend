@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-23T00:22:10.955Z",
+  "generated_at": "2026-09-23T04:33:37.623Z",
   "counts": {
-    "bundle-plugin": 4819,
+    "bundle-plugin": 4834,
     "multi-plugin": 497,
     "cordis-plugin": 7968,
-    "pkg-plain": 1209,
-    "manual": 833,
-    "script": 264,
+    "pkg-plain": 1212,
+    "manual": 835,
+    "script": 265,
     "unknown": 56,
     "skill": 400,
     "gone": 56,
-    "agent-preset": 59,
+    "agent-preset": 60,
     "empty": 30
   },
   "repos": [
@@ -971,6 +971,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "2507483326/dsh-eteams",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "2507483326/eTeam",
       "verdict": "bundle-plugin"
     },
@@ -1807,6 +1811,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "aa2246740/dsh-skillhub",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "aa2246740/dsh-watcher",
       "verdict": "bundle-plugin"
     },
@@ -2499,6 +2507,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "ai-tools-mtl/Aurify",
+      "verdict": "manual"
+    },
+    {
       "full_name": "ai-yucheng/dsh-audio-copilot",
       "verdict": "cordis-plugin"
     },
@@ -2860,6 +2872,10 @@
     },
     {
       "full_name": "alaliqing/claude-paper",
+      "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "alaliqing/dsh-annotate",
       "verdict": "pkg-plain"
     },
     {
@@ -5315,6 +5331,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "banana770/dsh-work-badge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "BananaSoldier01/dsh-tidychat",
       "verdict": "cordis-plugin"
     },
@@ -6492,6 +6512,10 @@
     },
     {
       "full_name": "BOWLUNA/dsh-mobile-first",
+      "verdict": "manual"
+    },
+    {
+      "full_name": "BOWLUNA/dsh-multi-instance",
       "verdict": "manual"
     },
     {
@@ -13983,6 +14007,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "exoticknight/dsh-system1",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "exoticknight/dsh-theme-eink-retro",
       "verdict": "bundle-plugin"
     },
@@ -19243,6 +19271,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "hongxin/dsh-tvision",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "hongyue0721/dsh-kimicode-swarm",
       "verdict": "cordis-plugin"
     },
@@ -21329,6 +21361,10 @@
     {
       "full_name": "jackchen13755/dsh-file-tree",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jackchen13755/dsh-jev-core",
+      "verdict": "pkg-plain"
     },
     {
       "full_name": "jackchen13755/dsh-jev-kit",
@@ -26551,6 +26587,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "lemonmmice/dsh-agent-toolchain",
+      "verdict": "script"
+    },
+    {
       "full_name": "lemonorangeapple/dsh-effort-switcher",
       "verdict": "cordis-plugin"
     },
@@ -29423,6 +29463,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "LuckVd/dsh-taskflow",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lucky8197/dsh-code-smell",
       "verdict": "cordis-plugin"
     },
@@ -29921,6 +29965,10 @@
     {
       "full_name": "LyaxZ/dsh-quick-toc",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "lycheelink/dsh-workbench",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "lyd123qw2008/pi-control-chrome",
@@ -31027,6 +31075,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "McBonB/dsh-dd-forge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "mccxs/dsh-client-plugin-manager",
       "verdict": "cordis-plugin"
     },
@@ -31868,6 +31920,10 @@
     },
     {
       "full_name": "minhdevtry/dsh-markdown-ide",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "minivv/dsh-activity-bell",
       "verdict": "bundle-plugin"
     },
     {
@@ -32847,6 +32903,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "MoyaMryia/dsh-steal-code",
+      "verdict": "agent-preset"
+    },
+    {
       "full_name": "moyu-good/dsh-lark-bridge",
       "verdict": "cordis-plugin"
     },
@@ -33320,6 +33380,10 @@
     },
     {
       "full_name": "mykeura/dsh-minimalist-themes",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "MyPanda-Hash/CHENGXIAO",
       "verdict": "bundle-plugin"
     },
     {
@@ -34373,6 +34437,10 @@
     {
       "full_name": "NIyueeE/dsh-container",
       "verdict": "manual"
+    },
+    {
+      "full_name": "njjpro/dsh-remote-workspace",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "njuptlzf/dsh-dynamic-background",
@@ -37517,6 +37585,10 @@
     {
       "full_name": "ptonlix/dsh-forge",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ptrel1/dsh-postapi-bridge",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "publieople/dsh-chat-offscreen",
@@ -44691,6 +44763,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "sun603/dsh-setup",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "sunchaokun/PPT-Design-Skill",
       "verdict": "skill"
     },
@@ -45085,6 +45161,10 @@
     {
       "full_name": "sweatybear12138/dsh-collection",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "sweet-boby/dsh-session-isolation",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "SweetCandy-gift/dsh-beige-theme",
@@ -54083,6 +54163,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "virzs/dsh-plugin-data-mask",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "visail/dsh-vision-tool",
       "verdict": "cordis-plugin"
     },
@@ -62477,6 +62561,10 @@
     {
       "full_name": "zdx8637-gitdog/dshmobile",
       "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "zdz6215591/dsh-theme-doubao",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "zealot00/dsh-pet",
