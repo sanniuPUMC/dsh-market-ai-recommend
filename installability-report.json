@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T11:29:34.042Z",
+  "generated_at": "2026-09-24T13:30:29.153Z",
   "counts": {
-    "bundle-plugin": 4965,
+    "bundle-plugin": 4977,
     "multi-plugin": 499,
     "cordis-plugin": 7982,
-    "pkg-plain": 1217,
-    "manual": 844,
+    "pkg-plain": 1218,
+    "manual": 845,
     "script": 268,
     "unknown": 56,
     "skill": 400,
@@ -727,6 +727,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "1azybug/dsh-real-time-computer-use",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "1byteone/dsh-plugin-nlbi",
       "verdict": "bundle-plugin"
     },
@@ -1069,6 +1073,10 @@
     {
       "full_name": "2h0n/dsh-web-notification",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "2huy4n/ProjectKaren",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "2huy4n/roleplaytimer",
@@ -2248,6 +2256,10 @@
     },
     {
       "full_name": "adithyanraj03/dsh-graft-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "adithyanraj03/dsh-schedule-later",
       "verdict": "bundle-plugin"
     },
     {
@@ -4984,6 +4996,10 @@
     },
     {
       "full_name": "azazo1/dsh-reject-message",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "azazo1/dsh-reveal-context",
       "verdict": "bundle-plugin"
     },
     {
@@ -15619,6 +15635,10 @@
       "verdict": "skill"
     },
     {
+      "full_name": "frederico-kluser/dsh-tavily-resilient-search",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "frederico-kluser/dsh-worktree-jump",
       "verdict": "bundle-plugin"
     },
@@ -22875,6 +22895,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "JinzhaoTian/git-worktree",
+      "verdict": "pkg-plain"
+    },
+    {
       "full_name": "jinzheng8115/dsh-Minesweeper",
       "verdict": "bundle-plugin"
     },
@@ -29477,6 +29501,10 @@
     {
       "full_name": "LoveDoLove/Project-Memory-Agent",
       "verdict": "agent-preset"
+    },
+    {
+      "full_name": "LoveDoLove/Veyra",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "LoveIrishCoffee/dsh-effort-ultra",
@@ -39571,6 +39599,10 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "relaxyabc/git-sidebar",
+      "verdict": "manual"
+    },
+    {
       "full_name": "Relethe/dsh-brief-session-title",
       "verdict": "cordis-plugin"
     },
@@ -44900,6 +44932,10 @@
     },
     {
       "full_name": "Stolyarovmn/dsh-schedule-tab",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "stone-brick/dsh-report-ledger",
       "verdict": "bundle-plugin"
     },
     {
@@ -55471,6 +55507,14 @@
       "verdict": "manual"
     },
     {
+      "full_name": "wanjiaju3108/dsh-feishu-assistant",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "wanjiaju3108/dsh-feishu-cui",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "wannanbigpig/dsh-sidebar",
       "verdict": "bundle-plugin"
     },
@@ -59467,6 +59511,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "xiazhicheng/dsh-remote-retry-llm-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xibaoxuan/dsh-voice-interaction",
       "verdict": "multi-plugin"
     },
@@ -60791,6 +60839,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "yangyu666/dsh-jev-prune",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "yangyue1974/dsh-plugin-audiolib",
       "verdict": "cordis-plugin"
     },
@@ -61169,6 +61221,10 @@
     {
       "full_name": "yflmq001/dsh-cost-tracker",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "yfwu2020/dsh-selection-explain",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "yfzhou0904/dsh-plugin-gallery",

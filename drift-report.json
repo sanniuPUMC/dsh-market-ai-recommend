@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-09-24T13:17:13.630Z",
+  "count": 1,
+  "items": [
+    {
+      "full_name": "latte03/dsh-select-quote",
+      "previous": "tool",
+      "current": "conversation",
+      "desc_now": "在对话里划词加批注——把选中的原文连同你的评论一起交给模型，并让它在回答里明确指出说的是哪一段。",
+      "desc_prev": "对话中划词，把选中文本作为引用带进下一条消息：划词浮动工具条（复制 / 添加到任务）、输入框内的引用卡片，以及对话记录里对应的引用卡片。"
+    }
+  ]
+}
