@@ -5,7 +5,7 @@
     "multi-plugin": 500,
     "cordis-plugin": 7982,
     "pkg-plain": 1220,
-    "manual": 847,
+    "manual": 848,
     "script": 268,
     "unknown": 56,
     "skill": 401,
@@ -3545,6 +3545,10 @@
     {
       "full_name": "AnCoSONG/dsh-task-notifier",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Andersen216/dsh-whale-girl-live2d",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Andiii208/dsh-ultramath",
@@ -7267,6 +7271,10 @@
       "verdict": "script"
     },
     {
+      "full_name": "Camusugar/dsh-notify",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Canary-Builds/dhs-connect",
       "verdict": "bundle-plugin"
     },
@@ -9491,6 +9499,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "CNyaotian-Lunar/dsh-toolbox",
+      "verdict": "manual"
+    },
+    {
       "full_name": "cnzgray/dsh-plugins",
       "verdict": "multi-plugin"
     },
@@ -10984,6 +10996,10 @@
     },
     {
       "full_name": "DaydreAmRing/dsh-cho-kaguya-plugin-public",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Dayi-Z/dsh-learn-wiki",
       "verdict": "bundle-plugin"
     },
     {
@@ -15212,6 +15228,10 @@
     },
     {
       "full_name": "fishzjp/qa-skills",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "FitBBC/dsh-plugin-tokenmarket",
       "verdict": "bundle-plugin"
     },
     {
@@ -26995,6 +27015,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "leeyoung1/dsh-advisor-plugin",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "leeyoung1/dsh-web-search-opencode-go",
       "verdict": "bundle-plugin"
     },
@@ -36815,6 +36839,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Paloma966/dsh-thesis",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "pan17/dsh-github-token-injector",
       "verdict": "bundle-plugin"
     },
@@ -44117,6 +44145,10 @@
     {
       "full_name": "snowshadow/dsh-llm-gateway-compat",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "snylonue/dsh-direnv",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "soarGuo/dsh-auto-vision",
@@ -65136,6 +65168,10 @@
     },
     {
       "full_name": "zlZayn/dsh-ds-balance",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "zlZayn/dsh-workbuddy-bridge",
       "verdict": "bundle-plugin"
     },
     {
