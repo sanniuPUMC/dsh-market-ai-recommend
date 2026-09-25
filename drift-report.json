@@ -1,34 +1,20 @@
 {
-  "generated_at": "2026-09-25T09:29:37.357Z",
-  "count": 4,
+  "generated_at": "2026-09-25T15:07:29.265Z",
+  "count": 2,
   "items": [
     {
-      "full_name": "agentrq/agentrq",
-      "previous": "tool",
-      "current": "memory",
-      "desc_now": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
-      "desc_prev": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support."
+      "full_name": "akira399/dsh-novel-writer",
+      "previous": "agent",
+      "current": "tool",
+      "desc_now": "大肥鱼的小说工坊 — DSH 网络小说创作插件：九阶段门禁式创作流程 + 世界书设定注入 + 本地书籍导入 + AI 一键润色 + 去AI味 + 黄金三章诊断 + 百万字一致性 + 市场调研与模板复制。",
+      "desc_prev": "大肥鱼的小说工坊 — DSH 网络小说创作插件：九阶段门禁式创作流程 + 世界书设定注入 + 本地书籍导入 + AI 一键润色 + 去AI味 + 黄金三章诊断 + 百万字一致性 + 市场调研与模板复制。"
     },
     {
-      "full_name": "lyhue1991/dsh-soup",
+      "full_name": "0xsline/dsh-spotlight",
       "previous": "tool",
-      "current": "web-ui",
-      "desc_now": "dsh 体验增强四件套 = Jupyter风格SideBar + 中央文件预览Tab + 多行GoalBar + 实时Token流速徽标",
-      "desc_prev": null
-    },
-    {
-      "full_name": "xbzbing/dsh-openviking-manager",
-      "previous": "tool",
-      "current": "memory",
-      "desc_now": "OpenViking 的 DSH 配置管理 UI：连接与用户 Key 配置、本机诊断、会话级记忆开关，以及记忆隔离与召回调优（分数阈值 / 注入条数 / 查询扩写 / 排除 URI）。 | DSH config UI for OpenViking: connection and user-key setup, local diagnostics, a per-session memory toggle, plus memory isolation and recall tuning (score threshold, item limit, query expansion, excluded URIs).",
-      "desc_prev": "OpenViking 的管理工具，可以配置 OV in DSH，也可以实时控制 OV 插件的启停。"
-    },
-    {
-      "full_name": "blueberrymaid/dsh-midtalk",
-      "previous": "other",
-      "current": "conversation",
-      "desc_now": "给正在跑的回合插话：/say 无损，/cut 中止当前步并留下恢复卡。Interject into a running DSH turn without losing work: /say queues losslessly at the next step boundary, /cut aborts the step and leaves a structured recovery card.",
-      "desc_prev": null
+      "current": "other",
+      "desc_now": "Keyboard-first command palette for DeepSeek Harness Web",
+      "desc_prev": "Keyboard-first command palette for DeepSeek Harness Web"
     }
   ]
 }
