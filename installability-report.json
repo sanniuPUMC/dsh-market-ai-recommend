@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T20:16:05.226Z",
+  "generated_at": "2026-09-25T23:27:56.594Z",
   "counts": {
-    "bundle-plugin": 5088,
+    "bundle-plugin": 5095,
     "multi-plugin": 500,
     "cordis-plugin": 7982,
     "pkg-plain": 1222,
@@ -6165,6 +6165,10 @@
     {
       "full_name": "Biogod2020/cnki-search",
       "verdict": "manual"
+    },
+    {
+      "full_name": "Biogod2020/dsh-article-review",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Biogod2020/dsh-bing-search",
@@ -14463,6 +14467,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "fan56/dsh-approval-policy",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "fan56/dsh-ask-router",
       "verdict": "bundle-plugin"
     },
@@ -21439,6 +21447,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "inrainbws/dsh-vibe-mode",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "InterPSS-Project/ipss-agent",
       "verdict": "manual"
     },
@@ -24621,6 +24633,10 @@
     {
       "full_name": "kaaaaahn/dsh-vision",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Kaede0614/dsh-history-fictionologists",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "kaelorvyn/dsh-archived-sessions",
@@ -56227,6 +56243,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "weibaohui/dsh-flow",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "weibaohui/dsh-gaokao",
       "verdict": "bundle-plugin"
     },
@@ -62667,6 +62687,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "yuanzukun/dsh-plugin-cards",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "yuc16/PatentRadar",
       "verdict": "manual"
     },
@@ -64105,6 +64129,10 @@
     {
       "full_name": "Zhang9628/qixi-plugin",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ZhangBo-cmd/dsh-coros-badge",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "ZhangBo-cmd/dsh-pricing-badge",
