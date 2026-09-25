@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T23:19:11.855Z",
+  "generated_at": "2026-09-25T03:36:11.266Z",
   "counts": {
-    "bundle-plugin": 5006,
+    "bundle-plugin": 5021,
     "multi-plugin": 499,
     "cordis-plugin": 7982,
     "pkg-plain": 1220,
-    "manual": 846,
+    "manual": 847,
     "script": 268,
     "unknown": 56,
     "skill": 401,
@@ -1117,6 +1117,10 @@
     {
       "full_name": "3274375092/dsh-voice",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "3289192-bot/dsh-cache-bricks",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "3361805598-gif/dsh-md-annotator",
@@ -5399,6 +5403,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "bakasbk/dsh-connect-comate",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "balaleikaerina/dsh-paper",
       "verdict": "manual"
     },
@@ -9473,6 +9481,10 @@
     {
       "full_name": "cnyac/dsh-polling",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "CNyaotian-Lunar/dsh-time-inject",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "cnzgray/dsh-plugins",
@@ -14052,6 +14064,10 @@
     },
     {
       "full_name": "Ethereal-ljq/dsh-prompt-toolkit",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "etony668/dsh-balance",
       "verdict": "bundle-plugin"
     },
     {
@@ -18719,6 +18735,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "hbgdjb/dsh-mimo-quota",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "hccccc01333/dsh-analytics",
       "verdict": "cordis-plugin"
     },
@@ -21704,6 +21724,10 @@
     },
     {
       "full_name": "jackchen13755/dsh-source-control",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "jackControls/dsh-nbcad-plate",
       "verdict": "bundle-plugin"
     },
     {
@@ -29203,6 +29227,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "Locietta/dsh-rewind-retry",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lodfather/dsh-workspace-alias",
       "verdict": "bundle-plugin"
     },
@@ -31183,6 +31211,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "martyartem/dsh-plannotator",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "MarvekG/deepseek-harness-model-config",
       "verdict": "cordis-plugin"
     },
@@ -31337,6 +31369,10 @@
     {
       "full_name": "MatsMQ/dsh-deepseek-balance",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "mattcarvercom/dsh-unified-memory",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "mattheliu/dsh-accessibility",
@@ -34681,6 +34717,10 @@
     {
       "full_name": "nicklin99/dsh-ui-sidebar",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "NickyWooden/dsh-halo",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Nico0713520/dsh-doc-to-markdown",
@@ -38463,6 +38503,10 @@
       "verdict": "manual"
     },
     {
+      "full_name": "qikairo7/dsh-gemini-pool",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "qilin-zhu/dsh-model-relay",
       "verdict": "bundle-plugin"
     },
@@ -39641,6 +39685,10 @@
     {
       "full_name": "RedreamR/dsh-remote-access",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "refkitjs/dsh-plugin",
+      "verdict": "manual"
     },
     {
       "full_name": "ReGMeIoN/cancer-meta-pipeline",
@@ -42207,6 +42255,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "SenmuuuuW/dsh-diagnostic-tutor",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "SenmuuuuW/dsh-group-photo",
       "verdict": "skill"
     },
@@ -42253,6 +42305,10 @@
     {
       "full_name": "SepineTam/mcp-for-stata",
       "verdict": "manual"
+    },
+    {
+      "full_name": "sequoiayunus-hue/dsh-subagent-model-config",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "sereinmono/dsh-desktop-pet",
@@ -54511,6 +54567,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "VCPr0j3k7/dsh-index-tap-bridge",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "vcxmug/dsh-enhance",
       "verdict": "script"
     },
@@ -55924,6 +55984,10 @@
     },
     {
       "full_name": "weibaohui/dsh-file-share",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "weibaohui/dsh-gaokao",
       "verdict": "bundle-plugin"
     },
     {

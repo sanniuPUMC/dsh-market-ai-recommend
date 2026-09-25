@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T23:19:12.142Z",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T03:36:11.443Z",
   "count": 8,
   "picks": [
     {
-      "full_name": "alchemistwu/dsh-tool-call-guard",
-      "category": "tool",
-      "reason": "通用工具 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "LyaxZ/dsh-quick-toc",
-      "category": "web-ui",
-      "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
-    },
-    {
-      "full_name": "BlackBearCC/dsh-pet-sprite",
+      "full_name": "Ztyss/dsh-llm-provider",
       "category": "model",
       "reason": "模型用量 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "sunzhentao/dsh--prompt--enhance",
-      "category": "conversation",
-      "reason": "对话聊天 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "titanwings/dsh-automation",
+      "category": "coding",
+      "reason": "开发编码 · 高星社区精选 · 近期更新活跃"
     },
     {
-      "full_name": "seven282/oss-prompt-optimizer",
-      "category": "conversation",
-      "reason": "对话聊天 · 近期更新活跃"
+      "full_name": "Boomerangz/dsh-openrouter-live",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "ysr666/dsh-vision-router",
-      "category": "vision",
-      "reason": "视觉多模态 · 高星社区精选 · 近期更新活跃"
+      "full_name": "GDWhisper/dsh-web-startup-auth",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
     },
     {
-      "full_name": "YRN-playmaker/dsh-wallpaper_share",
+      "full_name": "nikoart-liu/dsh-open-in-x",
+      "category": "resource",
+      "reason": "聚合资源 · 社区聚合页收录 · 近期更新活跃"
+    },
+    {
+      "full_name": "Freakz2z/dsh-catgirl-plugin",
       "category": "web-ui",
       "reason": "界面美化 · 社区聚合页收录 · 近期更新活跃"
     },
     {
-      "full_name": "TecFancy/dsh-mobile",
-      "category": "coding",
-      "reason": "开发编码 · 社区聚合页收录 · 近期更新活跃"
+      "full_name": "Clearailhc/clearai-dsh",
+      "category": "agent",
+      "reason": "Agent 自动化 · 高星社区精选 · 近期更新活跃"
+    },
+    {
+      "full_name": "HakureiMonika/dsh-sandbox-escalation-fix",
+      "category": "tool",
+      "reason": "通用工具 · 近期更新活跃"
     }
   ]
 }
