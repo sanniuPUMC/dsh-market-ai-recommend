@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-26T09:12:55.089Z",
+  "generated_at": "2026-09-26T14:13:42.437Z",
   "count": 1,
   "items": [
     {
-      "full_name": "masknull/dsh-workbuddy-connect",
-      "previous": "tool",
-      "current": "model",
-      "desc_now": "将 WorkBuddy（国内版/国际版）接入 DeepSeek Harness —— 内置登录、侧栏额度展示、模型自由开关、每日自动签到。WorkBuddy CN & Global models for DeepSeek Harness; signs itself in. 支持 DSH 0.1.5-rc.1+。",
-      "desc_prev": "将 WorkBuddy（国内版/国际版）接入 DeepSeek Harness —— 浏览器免App登录、侧栏额度展示、模型自由开关、每日自动签到。WorkBuddy CN & Global models for DeepSeek Harness; signs itself in. 支持 DSH 0.1.5-rc.1+。"
+      "full_name": "moon09300731/dsh-approval-gate",
+      "previous": "vision",
+      "current": "tool",
+      "desc_now": "DeepSeek Harness 自动审批门控：Flash 预判不可回补操作，安全自动批准、危险转人工（fail-safe）",
+      "desc_prev": "DeepSeek Harness 自动审批门控：Flash 预判不可回补操作，安全自动批准、危险转人工（fail-safe）"
     }
   ]
 }
