@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T03:40:18.432Z",
+  "generated_at": "2026-09-26T09:26:05.315Z",
   "counts": {
-    "bundle-plugin": 5108,
-    "multi-plugin": 500,
+    "bundle-plugin": 5125,
+    "multi-plugin": 502,
     "cordis-plugin": 7983,
     "pkg-plain": 1222,
-    "manual": 850,
+    "manual": 852,
     "script": 269,
     "unknown": 56,
     "skill": 402,
@@ -4261,6 +4261,10 @@
     {
       "full_name": "arcships/dsh-llm-aimux",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "ardesp0630/dsh-work-progress",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "Ardig24/dsh-trajectory-ablation",
@@ -18523,6 +18527,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "HapyRain/dsh-router-laya",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "HarcoChen/dsh-intellij-integration",
       "verdict": "manual"
     },
@@ -24043,6 +24051,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "jonah791/dsh-temporal-self",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "jonah791/dsh-tool-wsl",
       "verdict": "cordis-plugin"
     },
@@ -24109,6 +24121,10 @@
     {
       "full_name": "JoukoPuro/dsh-prompt-polish",
       "verdict": "cordis-plugin"
+    },
+    {
+      "full_name": "Jovan1666/commandcode-usage",
+      "verdict": "manual"
     },
     {
       "full_name": "Jovan1666/dsh-commandcode-quota",
@@ -27463,6 +27479,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "Lequait/dsh-glm-web",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "Leshm0321/dsh-plugin-local-agent-bridge",
       "verdict": "cordis-plugin"
     },
@@ -28309,6 +28329,10 @@
     {
       "full_name": "linanatoly/dsh-chat-history-locator",
       "verdict": "manual"
+    },
+    {
+      "full_name": "linanbuan/dsh-usage",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "linbin-mk/dsh-brand-deepseek",
@@ -29331,6 +29355,46 @@
       "verdict": "pkg-plain"
     },
     {
+      "full_name": "Ln1m/anoslide-plugins",
+      "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-archive-button",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-extensions-panel",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-hot-memory",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-lan-services",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-local-file-search",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-restart-button",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-skill-sets",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-vk-suite",
+      "verdict": "multi-plugin"
+    },
+    {
+      "full_name": "Ln1m/dsh-wifi-access",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "lna-lab/distill-kura",
       "verdict": "multi-plugin"
     },
@@ -29541,6 +29605,10 @@
     {
       "full_name": "LongFuXiaoFeng/dsh-task-reminder",
       "verdict": "pkg-plain"
+    },
+    {
+      "full_name": "longgege-cd/dsh-skin-pixel-anime",
+      "verdict": "bundle-plugin"
     },
     {
       "full_name": "longlongdragons/roleplay-plugin",
@@ -43244,6 +43312,10 @@
     },
     {
       "full_name": "shiyan688/dsh-novel-craft",
+      "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "shiyan688/dsh-paperdesk",
       "verdict": "bundle-plugin"
     },
     {
@@ -57091,6 +57163,10 @@
       "verdict": "bundle-plugin"
     },
     {
+      "full_name": "win10ogod/dsh-fount-reality",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "win4r/dsh-pi-review",
       "verdict": "bundle-plugin"
     },
@@ -60483,6 +60559,10 @@
       "verdict": "cordis-plugin"
     },
     {
+      "full_name": "xlxs123/dsh-session-multiselect",
+      "verdict": "bundle-plugin"
+    },
+    {
       "full_name": "xmanrui/dsh-dingtalk",
       "verdict": "cordis-plugin"
     },
@@ -63217,6 +63297,10 @@
     {
       "full_name": "yvhcel888/dsh-slide-gauge",
       "verdict": "bundle-plugin"
+    },
+    {
+      "full_name": "yvhcel888/slide-gauge-pygame",
+      "verdict": "manual"
     },
     {
       "full_name": "yweilai77-dev/dsh-plugin-cost",
